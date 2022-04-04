@@ -1,0 +1,5665 @@
+[
+    {
+        "id": "bulbasaur",
+        "name": "Bulbasaur",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ivysaur",
+        "name": "Ivysaur",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "venusaur",
+        "name": "Venusaur",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "charmander",
+        "name": "Charmander",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "charmeleon",
+        "name": "Charmeleon",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "charizard",
+        "name": "Charizard",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "squirtle",
+        "name": "Squirtle",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wartortle",
+        "name": "Wartortle",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "blastoise",
+        "name": "Blastoise",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "caterpie",
+        "name": "Caterpie",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "metapod",
+        "name": "Metapod",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "butterfree",
+        "name": "Butterfree",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "weedle",
+        "name": "Weedle",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kakuna",
+        "name": "Kakuna",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "beedrill",
+        "name": "Beedrill",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pidgey",
+        "name": "Pidgey",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pidgeotto",
+        "name": "Pidgeotto",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pidgeot",
+        "name": "Pidgeot",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rattata",
+        "name": "Rattata",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "raticate",
+        "name": "Raticate",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spearow",
+        "name": "Spearow",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fearow",
+        "name": "Fearow",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ekans",
+        "name": "Ekans",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "arbok",
+        "name": "Arbok",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pikachu",
+        "name": "Pikachu",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "raichu",
+        "name": "Raichu",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sandshrew",
+        "name": "Sandshrew",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sandslash",
+        "name": "Sandslash",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidoran-f",
+        "name": "Nidoran♀",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidorina",
+        "name": "Nidorina",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidoqueen",
+        "name": "Nidoqueen",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidoran-m",
+        "name": "Nidoran♂",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidorino",
+        "name": "Nidorino",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nidoking",
+        "name": "Nidoking",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "clefairy",
+        "name": "Clefairy",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "clefable",
+        "name": "Clefable",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vulpix",
+        "name": "Vulpix",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ninetales",
+        "name": "Ninetales",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jigglypuff",
+        "name": "Jigglypuff",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wigglytuff",
+        "name": "Wigglytuff",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zubat",
+        "name": "Zubat",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golbat",
+        "name": "Golbat",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "oddish",
+        "name": "Oddish",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gloom",
+        "name": "Gloom",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vileplume",
+        "name": "Vileplume",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "paras",
+        "name": "Paras",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "parasect",
+        "name": "Parasect",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "venonat",
+        "name": "Venonat",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "venomoth",
+        "name": "Venomoth",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "diglett",
+        "name": "Diglett",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dugtrio",
+        "name": "Dugtrio",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meowth",
+        "name": "Meowth",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "persian",
+        "name": "Persian",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "psyduck",
+        "name": "Psyduck",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golduck",
+        "name": "Golduck",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mankey",
+        "name": "Mankey",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "primeape",
+        "name": "Primeape",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "growlithe",
+        "name": "Growlithe",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "arcanine",
+        "name": "Arcanine",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "poliwag",
+        "name": "Poliwag",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "poliwhirl",
+        "name": "Poliwhirl",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "poliwrath",
+        "name": "Poliwrath",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "abra",
+        "name": "Abra",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kadabra",
+        "name": "Kadabra",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "alakazam",
+        "name": "Alakazam",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "machop",
+        "name": "Machop",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "machoke",
+        "name": "Machoke",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "machamp",
+        "name": "Machamp",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bellsprout",
+        "name": "Bellsprout",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "weepinbell",
+        "name": "Weepinbell",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "victreebel",
+        "name": "Victreebel",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tentacool",
+        "name": "Tentacool",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tentacruel",
+        "name": "Tentacruel",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "geodude",
+        "name": "Geodude",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "graveler",
+        "name": "Graveler",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golem",
+        "name": "Golem",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ponyta",
+        "name": "Ponyta",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "rapidash",
+        "name": "Rapidash",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "slowpoke",
+        "name": "Slowpoke",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "slowbro",
+        "name": "Slowbro",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "magnemite",
+        "name": "Magnemite",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magneton",
+        "name": "Magneton",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "farfetchd",
+        "name": "Farfetch’d",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "doduo",
+        "name": "Doduo",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dodrio",
+        "name": "Dodrio",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seel",
+        "name": "Seel",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dewgong",
+        "name": "Dewgong",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "grimer",
+        "name": "Grimer",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "muk",
+        "name": "Muk",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shellder",
+        "name": "Shellder",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cloyster",
+        "name": "Cloyster",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gastly",
+        "name": "Gastly",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "haunter",
+        "name": "Haunter",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gengar",
+        "name": "Gengar",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "onix",
+        "name": "Onix",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drowzee",
+        "name": "Drowzee",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hypno",
+        "name": "Hypno",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "krabby",
+        "name": "Krabby",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kingler",
+        "name": "Kingler",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "voltorb",
+        "name": "Voltorb",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "electrode",
+        "name": "Electrode",
+        "status": "no",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "exeggcute",
+        "name": "Exeggcute",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "exeggutor",
+        "name": "Exeggutor",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cubone",
+        "name": "Cubone",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "marowak",
+        "name": "Marowak",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hitmonlee",
+        "name": "Hitmonlee",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hitmonchan",
+        "name": "Hitmonchan",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lickitung",
+        "name": "Lickitung",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "koffing",
+        "name": "Koffing",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "weezing",
+        "name": "Weezing",
+        "status": "armor",
+        "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
+        "history": []
+    },
+    {
+        "id": "rhyhorn",
+        "name": "Rhyhorn",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rhydon",
+        "name": "Rhydon",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chansey",
+        "name": "Chansey",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tangela",
+        "name": "Tangela",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kangaskhan",
+        "name": "Kangaskhan",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "horsea",
+        "name": "Horsea",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seadra",
+        "name": "Seadra",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "goldeen",
+        "name": "Goldeen",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seaking",
+        "name": "Seaking",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "staryu",
+        "name": "Staryu",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "starmie",
+        "name": "Starmie",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mr-mime",
+        "name": "Mr. Mime",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scyther",
+        "name": "Scyther",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jynx",
+        "name": "Jynx",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "electabuzz",
+        "name": "Electabuzz",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magmar",
+        "name": "Magmar",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pinsir",
+        "name": "Pinsir",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tauros",
+        "name": "Tauros",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magikarp",
+        "name": "Magikarp",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gyarados",
+        "name": "Gyarados",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lapras",
+        "name": "Lapras",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ditto",
+        "name": "Ditto",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "eevee",
+        "name": "Eevee",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vaporeon",
+        "name": "Vaporeon",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jolteon",
+        "name": "Jolteon",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "flareon",
+        "name": "Flareon",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "porygon",
+        "name": "Porygon",
+        "status": "armor",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "omanyte",
+        "name": "Omanyte",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "omastar",
+        "name": "Omastar",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kabuto",
+        "name": "Kabuto",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kabutops",
+        "name": "Kabutops",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aerodactyl",
+        "name": "Aerodactyl",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "snorlax",
+        "name": "Snorlax",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "articuno",
+        "name": "Articuno",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zapdos",
+        "name": "Zapdos",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "moltres",
+        "name": "Moltres",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dratini",
+        "name": "Dratini",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dragonair",
+        "name": "Dragonair",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dragonite",
+        "name": "Dragonite",
+        "status": "crown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mewtwo",
+        "name": "Mewtwo",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mew",
+        "name": "Mew",
+        "status": "base",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chikorita",
+        "name": "Chikorita",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bayleef",
+        "name": "Bayleef",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meganium",
+        "name": "Meganium",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cyndaquil",
+        "name": "Cyndaquil",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "quilava",
+        "name": "Quilava",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "typhlosion",
+        "name": "Typhlosion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "totodile",
+        "name": "Totodile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "croconaw",
+        "name": "Croconaw",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "feraligatr",
+        "name": "Feraligatr",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sentret",
+        "name": "Sentret",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "furret",
+        "name": "Furret",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hoothoot",
+        "name": "Hoothoot",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "noctowl",
+        "name": "Noctowl",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ledyba",
+        "name": "Ledyba",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ledian",
+        "name": "Ledian",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spinarak",
+        "name": "Spinarak",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ariados",
+        "name": "Ariados",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "crobat",
+        "name": "Crobat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chinchou",
+        "name": "Chinchou",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lanturn",
+        "name": "Lanturn",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pichu",
+        "name": "Pichu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cleffa",
+        "name": "Cleffa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "igglybuff",
+        "name": "Igglybuff",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "togepi",
+        "name": "Togepi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "togetic",
+        "name": "Togetic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "natu",
+        "name": "Natu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "xatu",
+        "name": "Xatu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mareep",
+        "name": "Mareep",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "flaaffy",
+        "name": "Flaaffy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ampharos",
+        "name": "Ampharos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bellossom",
+        "name": "Bellossom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "marill",
+        "name": "Marill",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "azumarill",
+        "name": "Azumarill",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sudowoodo",
+        "name": "Sudowoodo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "politoed",
+        "name": "Politoed",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hoppip",
+        "name": "Hoppip",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skiploom",
+        "name": "Skiploom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jumpluff",
+        "name": "Jumpluff",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aipom",
+        "name": "Aipom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sunkern",
+        "name": "Sunkern",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sunflora",
+        "name": "Sunflora",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "yanma",
+        "name": "Yanma",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wooper",
+        "name": "Wooper",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "quagsire",
+        "name": "Quagsire",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "espeon",
+        "name": "Espeon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "umbreon",
+        "name": "Umbreon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "murkrow",
+        "name": "Murkrow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "slowking",
+        "name": "Slowking",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "misdreavus",
+        "name": "Misdreavus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "unown",
+        "name": "Unown",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wobbuffet",
+        "name": "Wobbuffet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "girafarig",
+        "name": "Girafarig",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pineco",
+        "name": "Pineco",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "forretress",
+        "name": "Forretress",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dunsparce",
+        "name": "Dunsparce",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gligar",
+        "name": "Gligar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "steelix",
+        "name": "Steelix",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "snubbull",
+        "name": "Snubbull",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "granbull",
+        "name": "Granbull",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "qwilfish",
+        "name": "Qwilfish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scizor",
+        "name": "Scizor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shuckle",
+        "name": "Shuckle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "heracross",
+        "name": "Heracross",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sneasel",
+        "name": "Sneasel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "teddiursa",
+        "name": "Teddiursa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ursaring",
+        "name": "Ursaring",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "slugma",
+        "name": "Slugma",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magcargo",
+        "name": "Magcargo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swinub",
+        "name": "Swinub",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "piloswine",
+        "name": "Piloswine",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "corsola",
+        "name": "Corsola",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "remoraid",
+        "name": "Remoraid",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "octillery",
+        "name": "Octillery",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "delibird",
+        "name": "Delibird",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mantine",
+        "name": "Mantine",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skarmory",
+        "name": "Skarmory",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "houndour",
+        "name": "Houndour",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "houndoom",
+        "name": "Houndoom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kingdra",
+        "name": "Kingdra",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "phanpy",
+        "name": "Phanpy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "donphan",
+        "name": "Donphan",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "porygon2",
+        "name": "Porygon2",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stantler",
+        "name": "Stantler",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "smeargle",
+        "name": "Smeargle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tyrogue",
+        "name": "Tyrogue",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hitmontop",
+        "name": "Hitmontop",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "smoochum",
+        "name": "Smoochum",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "elekid",
+        "name": "Elekid",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magby",
+        "name": "Magby",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "miltank",
+        "name": "Miltank",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "blissey",
+        "name": "Blissey",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "raikou",
+        "name": "Raikou",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "entei",
+        "name": "Entei",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "suicune",
+        "name": "Suicune",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "larvitar",
+        "name": "Larvitar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pupitar",
+        "name": "Pupitar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tyranitar",
+        "name": "Tyranitar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lugia",
+        "name": "Lugia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ho-oh",
+        "name": "Ho-Oh",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "celebi",
+        "name": "Celebi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "treecko",
+        "name": "Treecko",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "grovyle",
+        "name": "Grovyle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sceptile",
+        "name": "Sceptile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "torchic",
+        "name": "Torchic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "combusken",
+        "name": "Combusken",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "blaziken",
+        "name": "Blaziken",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mudkip",
+        "name": "Mudkip",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "marshtomp",
+        "name": "Marshtomp",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swampert",
+        "name": "Swampert",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "poochyena",
+        "name": "Poochyena",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mightyena",
+        "name": "Mightyena",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zigzagoon",
+        "name": "Zigzagoon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "linoone",
+        "name": "Linoone",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wurmple",
+        "name": "Wurmple",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "silcoon",
+        "name": "Silcoon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "beautifly",
+        "name": "Beautifly",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cascoon",
+        "name": "Cascoon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dustox",
+        "name": "Dustox",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lotad",
+        "name": "Lotad",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lombre",
+        "name": "Lombre",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ludicolo",
+        "name": "Ludicolo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seedot",
+        "name": "Seedot",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nuzleaf",
+        "name": "Nuzleaf",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shiftry",
+        "name": "Shiftry",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "taillow",
+        "name": "Taillow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swellow",
+        "name": "Swellow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wingull",
+        "name": "Wingull",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pelipper",
+        "name": "Pelipper",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ralts",
+        "name": "Ralts",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kirlia",
+        "name": "Kirlia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gardevoir",
+        "name": "Gardevoir",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "surskit",
+        "name": "Surskit",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "masquerain",
+        "name": "Masquerain",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shroomish",
+        "name": "Shroomish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "breloom",
+        "name": "Breloom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "slakoth",
+        "name": "Slakoth",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vigoroth",
+        "name": "Vigoroth",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "slaking",
+        "name": "Slaking",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nincada",
+        "name": "Nincada",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ninjask",
+        "name": "Ninjask",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shedinja",
+        "name": "Shedinja",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "whismur",
+        "name": "Whismur",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "loudred",
+        "name": "Loudred",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "exploud",
+        "name": "Exploud",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "makuhita",
+        "name": "Makuhita",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hariyama",
+        "name": "Hariyama",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "azurill",
+        "name": "Azurill",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nosepass",
+        "name": "Nosepass",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skitty",
+        "name": "Skitty",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "delcatty",
+        "name": "Delcatty",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sableye",
+        "name": "Sableye",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mawile",
+        "name": "Mawile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aron",
+        "name": "Aron",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lairon",
+        "name": "Lairon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aggron",
+        "name": "Aggron",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meditite",
+        "name": "Meditite",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "medicham",
+        "name": "Medicham",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "electrike",
+        "name": "Electrike",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "manectric",
+        "name": "Manectric",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "plusle",
+        "name": "Plusle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "minun",
+        "name": "Minun",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "volbeat",
+        "name": "Volbeat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "illumise",
+        "name": "Illumise",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "roselia",
+        "name": "Roselia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gulpin",
+        "name": "Gulpin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swalot",
+        "name": "Swalot",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "carvanha",
+        "name": "Carvanha",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sharpedo",
+        "name": "Sharpedo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wailmer",
+        "name": "Wailmer",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wailord",
+        "name": "Wailord",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "numel",
+        "name": "Numel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "camerupt",
+        "name": "Camerupt",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "torkoal",
+        "name": "Torkoal",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spoink",
+        "name": "Spoink",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "grumpig",
+        "name": "Grumpig",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spinda",
+        "name": "Spinda",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "trapinch",
+        "name": "Trapinch",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vibrava",
+        "name": "Vibrava",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "flygon",
+        "name": "Flygon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cacnea",
+        "name": "Cacnea",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cacturne",
+        "name": "Cacturne",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swablu",
+        "name": "Swablu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "altaria",
+        "name": "Altaria",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zangoose",
+        "name": "Zangoose",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seviper",
+        "name": "Seviper",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lunatone",
+        "name": "Lunatone",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "solrock",
+        "name": "Solrock",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "barboach",
+        "name": "Barboach",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "whiscash",
+        "name": "Whiscash",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "corphish",
+        "name": "Corphish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "crawdaunt",
+        "name": "Crawdaunt",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "baltoy",
+        "name": "Baltoy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "claydol",
+        "name": "Claydol",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lileep",
+        "name": "Lileep",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cradily",
+        "name": "Cradily",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "anorith",
+        "name": "Anorith",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "armaldo",
+        "name": "Armaldo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "feebas",
+        "name": "Feebas",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "milotic",
+        "name": "Milotic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "castform",
+        "name": "Castform",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kecleon",
+        "name": "Kecleon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shuppet",
+        "name": "Shuppet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "banette",
+        "name": "Banette",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "duskull",
+        "name": "Duskull",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dusclops",
+        "name": "Dusclops",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tropius",
+        "name": "Tropius",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chimecho",
+        "name": "Chimecho",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "absol",
+        "name": "Absol",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wynaut",
+        "name": "Wynaut",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "snorunt",
+        "name": "Snorunt",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "glalie",
+        "name": "Glalie",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spheal",
+        "name": "Spheal",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sealeo",
+        "name": "Sealeo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "walrein",
+        "name": "Walrein",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "clamperl",
+        "name": "Clamperl",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "huntail",
+        "name": "Huntail",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gorebyss",
+        "name": "Gorebyss",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "relicanth",
+        "name": "Relicanth",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "luvdisc",
+        "name": "Luvdisc",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bagon",
+        "name": "Bagon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shelgon",
+        "name": "Shelgon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "salamence",
+        "name": "Salamence",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "beldum",
+        "name": "Beldum",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "metang",
+        "name": "Metang",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "metagross",
+        "name": "Metagross",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "regirock",
+        "name": "Regirock",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "regice",
+        "name": "Regice",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "registeel",
+        "name": "Registeel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "latias",
+        "name": "Latias",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "latios",
+        "name": "Latios",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kyogre",
+        "name": "Kyogre",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "groudon",
+        "name": "Groudon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rayquaza",
+        "name": "Rayquaza",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jirachi",
+        "name": "Jirachi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "deoxys",
+        "name": "Deoxys",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "turtwig",
+        "name": "Turtwig",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "grotle",
+        "name": "Grotle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "torterra",
+        "name": "Torterra",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chimchar",
+        "name": "Chimchar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "monferno",
+        "name": "Monferno",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "infernape",
+        "name": "Infernape",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "piplup",
+        "name": "Piplup",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "prinplup",
+        "name": "Prinplup",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "empoleon",
+        "name": "Empoleon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "starly",
+        "name": "Starly",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "staravia",
+        "name": "Staravia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "staraptor",
+        "name": "Staraptor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bidoof",
+        "name": "Bidoof",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bibarel",
+        "name": "Bibarel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kricketot",
+        "name": "Kricketot",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kricketune",
+        "name": "Kricketune",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shinx",
+        "name": "Shinx",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "luxio",
+        "name": "Luxio",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "luxray",
+        "name": "Luxray",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "budew",
+        "name": "Budew",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "roserade",
+        "name": "Roserade",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cranidos",
+        "name": "Cranidos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rampardos",
+        "name": "Rampardos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shieldon",
+        "name": "Shieldon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bastiodon",
+        "name": "Bastiodon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "burmy",
+        "name": "Burmy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wormadam",
+        "name": "Wormadam",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mothim",
+        "name": "Mothim",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "combee",
+        "name": "Combee",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vespiquen",
+        "name": "Vespiquen",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pachirisu",
+        "name": "Pachirisu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "buizel",
+        "name": "Buizel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "floatzel",
+        "name": "Floatzel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cherubi",
+        "name": "Cherubi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cherrim",
+        "name": "Cherrim",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shellos",
+        "name": "Shellos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gastrodon",
+        "name": "Gastrodon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ambipom",
+        "name": "Ambipom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drifloon",
+        "name": "Drifloon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drifblim",
+        "name": "Drifblim",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "buneary",
+        "name": "Buneary",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lopunny",
+        "name": "Lopunny",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mismagius",
+        "name": "Mismagius",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "honchkrow",
+        "name": "Honchkrow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "glameow",
+        "name": "Glameow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "purugly",
+        "name": "Purugly",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chingling",
+        "name": "Chingling",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stunky",
+        "name": "Stunky",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skuntank",
+        "name": "Skuntank",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bronzor",
+        "name": "Bronzor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bronzong",
+        "name": "Bronzong",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bonsly",
+        "name": "Bonsly",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mime-jr",
+        "name": "Mime Jr.",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "happiny",
+        "name": "Happiny",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chatot",
+        "name": "Chatot",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spiritomb",
+        "name": "Spiritomb",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gible",
+        "name": "Gible",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gabite",
+        "name": "Gabite",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "garchomp",
+        "name": "Garchomp",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "munchlax",
+        "name": "Munchlax",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "riolu",
+        "name": "Riolu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lucario",
+        "name": "Lucario",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hippopotas",
+        "name": "Hippopotas",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hippowdon",
+        "name": "Hippowdon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skorupi",
+        "name": "Skorupi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drapion",
+        "name": "Drapion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "croagunk",
+        "name": "Croagunk",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "toxicroak",
+        "name": "Toxicroak",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "carnivine",
+        "name": "Carnivine",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "finneon",
+        "name": "Finneon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lumineon",
+        "name": "Lumineon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mantyke",
+        "name": "Mantyke",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "snover",
+        "name": "Snover",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "abomasnow",
+        "name": "Abomasnow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "weavile",
+        "name": "Weavile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magnezone",
+        "name": "Magnezone",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lickilicky",
+        "name": "Lickilicky",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rhyperior",
+        "name": "Rhyperior",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tangrowth",
+        "name": "Tangrowth",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "electivire",
+        "name": "Electivire",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magmortar",
+        "name": "Magmortar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "togekiss",
+        "name": "Togekiss",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "yanmega",
+        "name": "Yanmega",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "leafeon",
+        "name": "Leafeon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "glaceon",
+        "name": "Glaceon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gliscor",
+        "name": "Gliscor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mamoswine",
+        "name": "Mamoswine",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "porygon-z",
+        "name": "Porygon-Z",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gallade",
+        "name": "Gallade",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "probopass",
+        "name": "Probopass",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dusknoir",
+        "name": "Dusknoir",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "froslass",
+        "name": "Froslass",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rotom",
+        "name": "Rotom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "uxie",
+        "name": "Uxie",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mesprit",
+        "name": "Mesprit",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "azelf",
+        "name": "Azelf",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dialga",
+        "name": "Dialga",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "palkia",
+        "name": "Palkia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "heatran",
+        "name": "Heatran",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "regigigas",
+        "name": "Regigigas",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "giratina",
+        "name": "Giratina",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cresselia",
+        "name": "Cresselia",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "phione",
+        "name": "Phione",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "manaphy",
+        "name": "Manaphy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "darkrai",
+        "name": "Darkrai",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shaymin",
+        "name": "Shaymin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "arceus",
+        "name": "Arceus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "victini",
+        "name": "Victini",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "snivy",
+        "name": "Snivy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "servine",
+        "name": "Servine",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "serperior",
+        "name": "Serperior",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tepig",
+        "name": "Tepig",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pignite",
+        "name": "Pignite",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "emboar",
+        "name": "Emboar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "oshawott",
+        "name": "Oshawott",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dewott",
+        "name": "Dewott",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "samurott",
+        "name": "Samurott",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "patrat",
+        "name": "Patrat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "watchog",
+        "name": "Watchog",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lillipup",
+        "name": "Lillipup",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "herdier",
+        "name": "Herdier",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stoutland",
+        "name": "Stoutland",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "purrloin",
+        "name": "Purrloin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "liepard",
+        "name": "Liepard",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pansage",
+        "name": "Pansage",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "simisage",
+        "name": "Simisage",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pansear",
+        "name": "Pansear",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "simisear",
+        "name": "Simisear",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "panpour",
+        "name": "Panpour",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "simipour",
+        "name": "Simipour",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "munna",
+        "name": "Munna",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "musharna",
+        "name": "Musharna",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pidove",
+        "name": "Pidove",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tranquill",
+        "name": "Tranquill",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "unfezant",
+        "name": "Unfezant",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "blitzle",
+        "name": "Blitzle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zebstrika",
+        "name": "Zebstrika",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "roggenrola",
+        "name": "Roggenrola",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "boldore",
+        "name": "Boldore",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gigalith",
+        "name": "Gigalith",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "woobat",
+        "name": "Woobat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swoobat",
+        "name": "Swoobat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drilbur",
+        "name": "Drilbur",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "excadrill",
+        "name": "Excadrill",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "audino",
+        "name": "Audino",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "timburr",
+        "name": "Timburr",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gurdurr",
+        "name": "Gurdurr",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "conkeldurr",
+        "name": "Conkeldurr",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tympole",
+        "name": "Tympole",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "palpitoad",
+        "name": "Palpitoad",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "seismitoad",
+        "name": "Seismitoad",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "throh",
+        "name": "Throh",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sawk",
+        "name": "Sawk",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sewaddle",
+        "name": "Sewaddle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swadloon",
+        "name": "Swadloon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "leavanny",
+        "name": "Leavanny",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "venipede",
+        "name": "Venipede",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "whirlipede",
+        "name": "Whirlipede",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scolipede",
+        "name": "Scolipede",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cottonee",
+        "name": "Cottonee",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "whimsicott",
+        "name": "Whimsicott",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "petilil",
+        "name": "Petilil",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lilligant",
+        "name": "Lilligant",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "basculin",
+        "name": "Basculin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sandile",
+        "name": "Sandile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "krokorok",
+        "name": "Krokorok",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "krookodile",
+        "name": "Krookodile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "darumaka",
+        "name": "Darumaka",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "darmanitan",
+        "name": "Darmanitan",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "maractus",
+        "name": "Maractus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dwebble",
+        "name": "Dwebble",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "crustle",
+        "name": "Crustle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scraggy",
+        "name": "Scraggy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scrafty",
+        "name": "Scrafty",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sigilyph",
+        "name": "Sigilyph",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "yamask",
+        "name": "Yamask",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cofagrigus",
+        "name": "Cofagrigus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tirtouga",
+        "name": "Tirtouga",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "carracosta",
+        "name": "Carracosta",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "archen",
+        "name": "Archen",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "archeops",
+        "name": "Archeops",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "trubbish",
+        "name": "Trubbish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "garbodor",
+        "name": "Garbodor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zorua",
+        "name": "Zorua",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zoroark",
+        "name": "Zoroark",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "minccino",
+        "name": "Minccino",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cinccino",
+        "name": "Cinccino",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gothita",
+        "name": "Gothita",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gothorita",
+        "name": "Gothorita",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gothitelle",
+        "name": "Gothitelle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "solosis",
+        "name": "Solosis",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "duosion",
+        "name": "Duosion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "reuniclus",
+        "name": "Reuniclus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ducklett",
+        "name": "Ducklett",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swanna",
+        "name": "Swanna",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vanillite",
+        "name": "Vanillite",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vanillish",
+        "name": "Vanillish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vanilluxe",
+        "name": "Vanilluxe",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "deerling",
+        "name": "Deerling",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sawsbuck",
+        "name": "Sawsbuck",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "emolga",
+        "name": "Emolga",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "karrablast",
+        "name": "Karrablast",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "escavalier",
+        "name": "Escavalier",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "foongus",
+        "name": "Foongus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "amoonguss",
+        "name": "Amoonguss",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "frillish",
+        "name": "Frillish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jellicent",
+        "name": "Jellicent",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "alomomola",
+        "name": "Alomomola",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "joltik",
+        "name": "Joltik",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "galvantula",
+        "name": "Galvantula",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ferroseed",
+        "name": "Ferroseed",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ferrothorn",
+        "name": "Ferrothorn",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "klink",
+        "name": "Klink",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "klang",
+        "name": "Klang",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "klinklang",
+        "name": "Klinklang",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tynamo",
+        "name": "Tynamo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "eelektrik",
+        "name": "Eelektrik",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "eelektross",
+        "name": "Eelektross",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "elgyem",
+        "name": "Elgyem",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "beheeyem",
+        "name": "Beheeyem",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "litwick",
+        "name": "Litwick",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lampent",
+        "name": "Lampent",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chandelure",
+        "name": "Chandelure",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "axew",
+        "name": "Axew",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fraxure",
+        "name": "Fraxure",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "haxorus",
+        "name": "Haxorus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cubchoo",
+        "name": "Cubchoo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "beartic",
+        "name": "Beartic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cryogonal",
+        "name": "Cryogonal",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shelmet",
+        "name": "Shelmet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "accelgor",
+        "name": "Accelgor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stunfisk",
+        "name": "Stunfisk",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mienfoo",
+        "name": "Mienfoo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mienshao",
+        "name": "Mienshao",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "druddigon",
+        "name": "Druddigon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golett",
+        "name": "Golett",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golurk",
+        "name": "Golurk",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pawniard",
+        "name": "Pawniard",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bisharp",
+        "name": "Bisharp",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bouffalant",
+        "name": "Bouffalant",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rufflet",
+        "name": "Rufflet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "braviary",
+        "name": "Braviary",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vullaby",
+        "name": "Vullaby",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mandibuzz",
+        "name": "Mandibuzz",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "heatmor",
+        "name": "Heatmor",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "durant",
+        "name": "Durant",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "deino",
+        "name": "Deino",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zweilous",
+        "name": "Zweilous",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hydreigon",
+        "name": "Hydreigon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "larvesta",
+        "name": "Larvesta",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "volcarona",
+        "name": "Volcarona",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cobalion",
+        "name": "Cobalion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "terrakion",
+        "name": "Terrakion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "virizion",
+        "name": "Virizion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tornadus",
+        "name": "Tornadus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "thundurus",
+        "name": "Thundurus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "reshiram",
+        "name": "Reshiram",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zekrom",
+        "name": "Zekrom",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "landorus",
+        "name": "Landorus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kyurem",
+        "name": "Kyurem",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "keldeo",
+        "name": "Keldeo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meloetta",
+        "name": "Meloetta",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "genesect",
+        "name": "Genesect",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chespin",
+        "name": "Chespin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "quilladin",
+        "name": "Quilladin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "chesnaught",
+        "name": "Chesnaught",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fennekin",
+        "name": "Fennekin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "braixen",
+        "name": "Braixen",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "delphox",
+        "name": "Delphox",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "froakie",
+        "name": "Froakie",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "frogadier",
+        "name": "Frogadier",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "greninja",
+        "name": "Greninja",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bunnelby",
+        "name": "Bunnelby",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "diggersby",
+        "name": "Diggersby",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fletchling",
+        "name": "Fletchling",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fletchinder",
+        "name": "Fletchinder",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "talonflame",
+        "name": "Talonflame",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "scatterbug",
+        "name": "Scatterbug",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spewpa",
+        "name": "Spewpa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vivillon",
+        "name": "Vivillon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "litleo",
+        "name": "Litleo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pyroar",
+        "name": "Pyroar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "flabebe",
+        "name": "Flabébé",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "floette",
+        "name": "Floette",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "florges",
+        "name": "Florges",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skiddo",
+        "name": "Skiddo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gogoat",
+        "name": "Gogoat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pancham",
+        "name": "Pancham",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pangoro",
+        "name": "Pangoro",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "furfrou",
+        "name": "Furfrou",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "espurr",
+        "name": "Espurr",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meowstic",
+        "name": "Meowstic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "honedge",
+        "name": "Honedge",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "doublade",
+        "name": "Doublade",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aegislash",
+        "name": "Aegislash",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "spritzee",
+        "name": "Spritzee",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aromatisse",
+        "name": "Aromatisse",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "swirlix",
+        "name": "Swirlix",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "slurpuff",
+        "name": "Slurpuff",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "inkay",
+        "name": "Inkay",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "malamar",
+        "name": "Malamar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "binacle",
+        "name": "Binacle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "barbaracle",
+        "name": "Barbaracle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "skrelp",
+        "name": "Skrelp",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dragalge",
+        "name": "Dragalge",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "clauncher",
+        "name": "Clauncher",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "clawitzer",
+        "name": "Clawitzer",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "helioptile",
+        "name": "Helioptile",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "heliolisk",
+        "name": "Heliolisk",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tyrunt",
+        "name": "Tyrunt",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tyrantrum",
+        "name": "Tyrantrum",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "amaura",
+        "name": "Amaura",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "aurorus",
+        "name": "Aurorus",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sylveon",
+        "name": "Sylveon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hawlucha",
+        "name": "Hawlucha",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dedenne",
+        "name": "Dedenne",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "carbink",
+        "name": "Carbink",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "goomy",
+        "name": "Goomy",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sliggoo",
+        "name": "Sliggoo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "goodra",
+        "name": "Goodra",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "klefki",
+        "name": "Klefki",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "phantump",
+        "name": "Phantump",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "trevenant",
+        "name": "Trevenant",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pumpkaboo",
+        "name": "Pumpkaboo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gourgeist",
+        "name": "Gourgeist",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bergmite",
+        "name": "Bergmite",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "avalugg",
+        "name": "Avalugg",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "noibat",
+        "name": "Noibat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "noivern",
+        "name": "Noivern",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "xerneas",
+        "name": "Xerneas",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "yveltal",
+        "name": "Yveltal",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zygarde",
+        "name": "Zygarde",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "diancie",
+        "name": "Diancie",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hoopa",
+        "name": "Hoopa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "volcanion",
+        "name": "Volcanion",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rowlet",
+        "name": "Rowlet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dartrix",
+        "name": "Dartrix",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "decidueye",
+        "name": "Decidueye",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "litten",
+        "name": "Litten",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "torracat",
+        "name": "Torracat",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "incineroar",
+        "name": "Incineroar",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "popplio",
+        "name": "Popplio",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "brionne",
+        "name": "Brionne",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "primarina",
+        "name": "Primarina",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pikipek",
+        "name": "Pikipek",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "trumbeak",
+        "name": "Trumbeak",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "toucannon",
+        "name": "Toucannon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "yungoos",
+        "name": "Yungoos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "gumshoos",
+        "name": "Gumshoos",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "grubbin",
+        "name": "Grubbin",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "charjabug",
+        "name": "Charjabug",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "vikavolt",
+        "name": "Vikavolt",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "crabrawler",
+        "name": "Crabrawler",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "crabominable",
+        "name": "Crabominable",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "oricorio",
+        "name": "Oricorio",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cutiefly",
+        "name": "Cutiefly",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "ribombee",
+        "name": "Ribombee",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "rockruff",
+        "name": "Rockruff",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lycanroc",
+        "name": "Lycanroc",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wishiwashi",
+        "name": "Wishiwashi",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mareanie",
+        "name": "Mareanie",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "toxapex",
+        "name": "Toxapex",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mudbray",
+        "name": "Mudbray",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mudsdale",
+        "name": "Mudsdale",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dewpider",
+        "name": "Dewpider",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "araquanid",
+        "name": "Araquanid",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "fomantis",
+        "name": "Fomantis",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lurantis",
+        "name": "Lurantis",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "morelull",
+        "name": "Morelull",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "shiinotic",
+        "name": "Shiinotic",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "salandit",
+        "name": "Salandit",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "salazzle",
+        "name": "Salazzle",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stufful",
+        "name": "Stufful",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bewear",
+        "name": "Bewear",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bounsweet",
+        "name": "Bounsweet",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "steenee",
+        "name": "Steenee",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tsareena",
+        "name": "Tsareena",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "comfey",
+        "name": "Comfey",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "oranguru",
+        "name": "Oranguru",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "passimian",
+        "name": "Passimian",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "wimpod",
+        "name": "Wimpod",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "golisopod",
+        "name": "Golisopod",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "sandygast",
+        "name": "Sandygast",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "palossand",
+        "name": "Palossand",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pyukumuku",
+        "name": "Pyukumuku",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "type-null",
+        "name": "Type: Null",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "silvally",
+        "name": "Silvally",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "minior",
+        "name": "Minior",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "komala",
+        "name": "Komala",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "turtonator",
+        "name": "Turtonator",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "togedemaru",
+        "name": "Togedemaru",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "mimikyu",
+        "name": "Mimikyu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "bruxish",
+        "name": "Bruxish",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "drampa",
+        "name": "Drampa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "dhelmise",
+        "name": "Dhelmise",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "jangmo-o",
+        "name": "Jangmo-o",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "hakamo-o",
+        "name": "Hakamo-o",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kommo-o",
+        "name": "Kommo-o",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tapu-koko",
+        "name": "Tapu Koko",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tapu-lele",
+        "name": "Tapu Lele",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tapu-bulu",
+        "name": "Tapu Bulu",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "tapu-fini",
+        "name": "Tapu Fini",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cosmog",
+        "name": "Cosmog",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "cosmoem",
+        "name": "Cosmoem",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "solgaleo",
+        "name": "Solgaleo",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "lunala",
+        "name": "Lunala",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "nihilego",
+        "name": "Nihilego",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "buzzwole",
+        "name": "Buzzwole",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "pheromosa",
+        "name": "Pheromosa",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "xurkitree",
+        "name": "Xurkitree",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "celesteela",
+        "name": "Celesteela",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "kartana",
+        "name": "Kartana",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "guzzlord",
+        "name": "Guzzlord",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "necrozma",
+        "name": "Necrozma",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "magearna",
+        "name": "Magearna",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "marshadow",
+        "name": "Marshadow",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "poipole",
+        "name": "Poipole",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "naganadel",
+        "name": "Naganadel",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "stakataka",
+        "name": "Stakataka",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "blacephalon",
+        "name": "Blacephalon",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "zeraora",
+        "name": "Zeraora",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "meltan",
+        "name": "Meltan",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    },
+    {
+        "id": "melmetal",
+        "name": "Melmetal",
+        "status": "unknown",
+        "details": "",
+        "history": []
+    }
+]
