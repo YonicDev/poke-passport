@@ -60,6 +60,51 @@
     user-select: none;
 }
 
+/** SUMMARY **/
+.summaryWindow {
+    width: 66vw;
+    max-width: 600px;
+    position: fixed;
+    background-color: white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border: 1px solid black;
+    z-index:2;
+}
+
+.summary {
+    display: flex;
+    border-bottom: 3px double gray;
+}
+
+.summary > div, .summaryLabel, .summaryPrompt, .summaryNotes {
+    padding: 5px;
+    vertical-align: middle;
+}
+
+.summaryDex {
+    width: 3em;
+    border-right: 1px solid gray;
+}
+
+.summaryName {
+    width: 30ch;
+}
+
+.summaryStatus {
+    flex-grow: 1;
+}
+
+.summaryNotes, .summaryPrompt {
+    width: 100%;
+}
+
+.summaryPrompt {
+    text-align: center;
+    font-weight: bold;
+}
+
 /** GAME SPECIFIC **/
 /* Sword & Shield */
 .swsh-base {
