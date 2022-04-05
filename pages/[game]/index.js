@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import {Table, BriefSummary, Legend} from '../components/Table'
+import {Table, BriefSummary, Legend} from '../../components/Table'
 
 export default function List({pokemonList, game}) {
     const labels = {
@@ -8,8 +8,7 @@ export default function List({pokemonList, game}) {
             armor: 'Since Isle of Armor',
             crown: 'Since Crown Tundra',
             other: 'Other',
-            no: 'Untransferable',
-            unknown: 'Unknown'
+            no: 'Untransferable'
         },
         visc: {
             confirmed: 'Confirmed',
@@ -71,7 +70,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({params}) {
-    const pokemonList = (await import (`../data/${params.game}.json`)).default;
+    const pokemonList = (await import (`../../data/${params.game}.json`)).default;
     return {
         props: {
             pokemonList,
