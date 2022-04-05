@@ -42,7 +42,7 @@ export default function List({pokemonList}) {
 }
 
 export async function getStaticProps() {
-    const pokemonList = (await import ('../../public/data/swsh.json')).default;
+    const pokemonList = (await import ('../../data/swsh.json')).default;
     return {
         props: {
             pokemonList
