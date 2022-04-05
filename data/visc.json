@@ -3,6 +3,7 @@
         "id": "bulbasaur",
         "name": "Bulbasaur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -10,6 +11,7 @@
         "id": "ivysaur",
         "name": "Ivysaur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -17,6 +19,7 @@
         "id": "venusaur",
         "name": "Venusaur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -24,6 +27,7 @@
         "id": "charmander",
         "name": "Charmander",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -31,6 +35,7 @@
         "id": "charmeleon",
         "name": "Charmeleon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -38,6 +43,7 @@
         "id": "charizard",
         "name": "Charizard",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -45,6 +51,7 @@
         "id": "squirtle",
         "name": "Squirtle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -52,6 +59,7 @@
         "id": "wartortle",
         "name": "Wartortle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -59,6 +67,7 @@
         "id": "blastoise",
         "name": "Blastoise",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -66,6 +75,7 @@
         "id": "caterpie",
         "name": "Caterpie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -73,6 +83,7 @@
         "id": "metapod",
         "name": "Metapod",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -80,6 +91,7 @@
         "id": "butterfree",
         "name": "Butterfree",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -87,6 +99,7 @@
         "id": "weedle",
         "name": "Weedle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -94,6 +107,7 @@
         "id": "kakuna",
         "name": "Kakuna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -101,6 +115,7 @@
         "id": "beedrill",
         "name": "Beedrill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -108,6 +123,7 @@
         "id": "pidgey",
         "name": "Pidgey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -115,6 +131,7 @@
         "id": "pidgeotto",
         "name": "Pidgeotto",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -122,6 +139,7 @@
         "id": "pidgeot",
         "name": "Pidgeot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -129,6 +147,7 @@
         "id": "rattata",
         "name": "Rattata",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -136,6 +155,7 @@
         "id": "raticate",
         "name": "Raticate",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -143,6 +163,7 @@
         "id": "spearow",
         "name": "Spearow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -150,6 +171,7 @@
         "id": "fearow",
         "name": "Fearow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -157,6 +179,7 @@
         "id": "ekans",
         "name": "Ekans",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -164,6 +187,7 @@
         "id": "arbok",
         "name": "Arbok",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -171,6 +195,7 @@
         "id": "pikachu",
         "name": "Pikachu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -178,6 +203,7 @@
         "id": "raichu",
         "name": "Raichu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -185,6 +211,7 @@
         "id": "sandshrew",
         "name": "Sandshrew",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -192,6 +219,7 @@
         "id": "sandslash",
         "name": "Sandslash",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -199,6 +227,7 @@
         "id": "nidoran-f",
         "name": "Nidoran♀",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -206,6 +235,7 @@
         "id": "nidorina",
         "name": "Nidorina",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -213,6 +243,7 @@
         "id": "nidoqueen",
         "name": "Nidoqueen",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -220,6 +251,7 @@
         "id": "nidoran-m",
         "name": "Nidoran♂",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -227,6 +259,7 @@
         "id": "nidorino",
         "name": "Nidorino",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -234,6 +267,7 @@
         "id": "nidoking",
         "name": "Nidoking",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -241,6 +275,7 @@
         "id": "clefairy",
         "name": "Clefairy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -248,6 +283,7 @@
         "id": "clefable",
         "name": "Clefable",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -255,6 +291,7 @@
         "id": "vulpix",
         "name": "Vulpix",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -262,6 +299,7 @@
         "id": "ninetales",
         "name": "Ninetales",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -269,6 +307,7 @@
         "id": "jigglypuff",
         "name": "Jigglypuff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -276,6 +315,7 @@
         "id": "wigglytuff",
         "name": "Wigglytuff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -283,6 +323,7 @@
         "id": "zubat",
         "name": "Zubat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -290,6 +331,7 @@
         "id": "golbat",
         "name": "Golbat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -297,6 +339,7 @@
         "id": "oddish",
         "name": "Oddish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -304,6 +347,7 @@
         "id": "gloom",
         "name": "Gloom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -311,6 +355,7 @@
         "id": "vileplume",
         "name": "Vileplume",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -318,6 +363,7 @@
         "id": "paras",
         "name": "Paras",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -325,6 +371,7 @@
         "id": "parasect",
         "name": "Parasect",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -332,6 +379,7 @@
         "id": "venonat",
         "name": "Venonat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -339,6 +387,7 @@
         "id": "venomoth",
         "name": "Venomoth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -346,6 +395,7 @@
         "id": "diglett",
         "name": "Diglett",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -353,6 +403,7 @@
         "id": "dugtrio",
         "name": "Dugtrio",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -360,6 +411,7 @@
         "id": "meowth",
         "name": "Meowth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -367,6 +419,7 @@
         "id": "persian",
         "name": "Persian",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -374,6 +427,7 @@
         "id": "psyduck",
         "name": "Psyduck",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -381,6 +435,7 @@
         "id": "golduck",
         "name": "Golduck",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -388,6 +443,7 @@
         "id": "mankey",
         "name": "Mankey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -395,6 +451,7 @@
         "id": "primeape",
         "name": "Primeape",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -402,6 +459,7 @@
         "id": "growlithe",
         "name": "Growlithe",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -409,6 +467,7 @@
         "id": "arcanine",
         "name": "Arcanine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -416,6 +475,7 @@
         "id": "poliwag",
         "name": "Poliwag",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -423,6 +483,7 @@
         "id": "poliwhirl",
         "name": "Poliwhirl",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -430,6 +491,7 @@
         "id": "poliwrath",
         "name": "Poliwrath",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -437,6 +499,7 @@
         "id": "abra",
         "name": "Abra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -444,6 +507,7 @@
         "id": "kadabra",
         "name": "Kadabra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -451,6 +515,7 @@
         "id": "alakazam",
         "name": "Alakazam",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -458,6 +523,7 @@
         "id": "machop",
         "name": "Machop",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -465,6 +531,7 @@
         "id": "machoke",
         "name": "Machoke",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -472,6 +539,7 @@
         "id": "machamp",
         "name": "Machamp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -479,6 +547,7 @@
         "id": "bellsprout",
         "name": "Bellsprout",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -486,6 +555,7 @@
         "id": "weepinbell",
         "name": "Weepinbell",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -493,6 +563,7 @@
         "id": "victreebel",
         "name": "Victreebel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -500,6 +571,7 @@
         "id": "tentacool",
         "name": "Tentacool",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -507,6 +579,7 @@
         "id": "tentacruel",
         "name": "Tentacruel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -514,6 +587,7 @@
         "id": "geodude",
         "name": "Geodude",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -521,6 +595,7 @@
         "id": "graveler",
         "name": "Graveler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -528,6 +603,7 @@
         "id": "golem",
         "name": "Golem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -535,6 +611,7 @@
         "id": "ponyta",
         "name": "Ponyta",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -542,6 +619,7 @@
         "id": "rapidash",
         "name": "Rapidash",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -549,6 +627,7 @@
         "id": "slowpoke",
         "name": "Slowpoke",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -556,6 +635,7 @@
         "id": "slowbro",
         "name": "Slowbro",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -563,6 +643,7 @@
         "id": "magnemite",
         "name": "Magnemite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -570,6 +651,7 @@
         "id": "magneton",
         "name": "Magneton",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -577,6 +659,7 @@
         "id": "farfetchd",
         "name": "Farfetch’d",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -584,6 +667,7 @@
         "id": "doduo",
         "name": "Doduo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -591,6 +675,7 @@
         "id": "dodrio",
         "name": "Dodrio",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -598,6 +683,7 @@
         "id": "seel",
         "name": "Seel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -605,6 +691,7 @@
         "id": "dewgong",
         "name": "Dewgong",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -612,6 +699,7 @@
         "id": "grimer",
         "name": "Grimer",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -619,6 +707,7 @@
         "id": "muk",
         "name": "Muk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -626,6 +715,7 @@
         "id": "shellder",
         "name": "Shellder",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -633,6 +723,7 @@
         "id": "cloyster",
         "name": "Cloyster",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -640,6 +731,7 @@
         "id": "gastly",
         "name": "Gastly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -647,6 +739,7 @@
         "id": "haunter",
         "name": "Haunter",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -654,6 +747,7 @@
         "id": "gengar",
         "name": "Gengar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -661,6 +755,7 @@
         "id": "onix",
         "name": "Onix",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -668,6 +763,7 @@
         "id": "drowzee",
         "name": "Drowzee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -675,6 +771,7 @@
         "id": "hypno",
         "name": "Hypno",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -682,6 +779,7 @@
         "id": "krabby",
         "name": "Krabby",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -689,6 +787,7 @@
         "id": "kingler",
         "name": "Kingler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -696,6 +795,7 @@
         "id": "voltorb",
         "name": "Voltorb",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -703,6 +803,7 @@
         "id": "electrode",
         "name": "Electrode",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -710,6 +811,7 @@
         "id": "exeggcute",
         "name": "Exeggcute",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -717,6 +819,7 @@
         "id": "exeggutor",
         "name": "Exeggutor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -724,6 +827,7 @@
         "id": "cubone",
         "name": "Cubone",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -731,6 +835,7 @@
         "id": "marowak",
         "name": "Marowak",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -738,6 +843,7 @@
         "id": "hitmonlee",
         "name": "Hitmonlee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -745,6 +851,7 @@
         "id": "hitmonchan",
         "name": "Hitmonchan",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -752,6 +859,7 @@
         "id": "lickitung",
         "name": "Lickitung",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -759,6 +867,7 @@
         "id": "koffing",
         "name": "Koffing",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -766,6 +875,7 @@
         "id": "weezing",
         "name": "Weezing",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -773,6 +883,7 @@
         "id": "rhyhorn",
         "name": "Rhyhorn",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -780,6 +891,7 @@
         "id": "rhydon",
         "name": "Rhydon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -787,6 +899,7 @@
         "id": "chansey",
         "name": "Chansey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -794,6 +907,7 @@
         "id": "tangela",
         "name": "Tangela",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -801,6 +915,7 @@
         "id": "kangaskhan",
         "name": "Kangaskhan",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -808,6 +923,7 @@
         "id": "horsea",
         "name": "Horsea",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -815,6 +931,7 @@
         "id": "seadra",
         "name": "Seadra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -822,6 +939,7 @@
         "id": "goldeen",
         "name": "Goldeen",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -829,6 +947,7 @@
         "id": "seaking",
         "name": "Seaking",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -836,6 +955,7 @@
         "id": "staryu",
         "name": "Staryu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -843,6 +963,7 @@
         "id": "starmie",
         "name": "Starmie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -850,6 +971,7 @@
         "id": "mr-mime",
         "name": "Mr. Mime",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -857,6 +979,7 @@
         "id": "scyther",
         "name": "Scyther",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -864,6 +987,7 @@
         "id": "jynx",
         "name": "Jynx",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -871,6 +995,7 @@
         "id": "electabuzz",
         "name": "Electabuzz",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -878,6 +1003,7 @@
         "id": "magmar",
         "name": "Magmar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -885,6 +1011,7 @@
         "id": "pinsir",
         "name": "Pinsir",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -892,6 +1019,7 @@
         "id": "tauros",
         "name": "Tauros",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -899,6 +1027,7 @@
         "id": "magikarp",
         "name": "Magikarp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -906,6 +1035,7 @@
         "id": "gyarados",
         "name": "Gyarados",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -913,6 +1043,7 @@
         "id": "lapras",
         "name": "Lapras",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -920,6 +1051,7 @@
         "id": "ditto",
         "name": "Ditto",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -927,6 +1059,7 @@
         "id": "eevee",
         "name": "Eevee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -934,6 +1067,7 @@
         "id": "vaporeon",
         "name": "Vaporeon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -941,6 +1075,7 @@
         "id": "jolteon",
         "name": "Jolteon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -948,6 +1083,7 @@
         "id": "flareon",
         "name": "Flareon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -955,6 +1091,7 @@
         "id": "porygon",
         "name": "Porygon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -962,6 +1099,7 @@
         "id": "omanyte",
         "name": "Omanyte",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -969,6 +1107,7 @@
         "id": "omastar",
         "name": "Omastar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -976,6 +1115,7 @@
         "id": "kabuto",
         "name": "Kabuto",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -983,6 +1123,7 @@
         "id": "kabutops",
         "name": "Kabutops",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -990,6 +1131,7 @@
         "id": "aerodactyl",
         "name": "Aerodactyl",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -997,6 +1139,7 @@
         "id": "snorlax",
         "name": "Snorlax",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1004,6 +1147,7 @@
         "id": "articuno",
         "name": "Articuno",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1011,6 +1155,7 @@
         "id": "zapdos",
         "name": "Zapdos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1018,6 +1163,7 @@
         "id": "moltres",
         "name": "Moltres",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1025,6 +1171,7 @@
         "id": "dratini",
         "name": "Dratini",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1032,6 +1179,7 @@
         "id": "dragonair",
         "name": "Dragonair",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1039,6 +1187,7 @@
         "id": "dragonite",
         "name": "Dragonite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1046,6 +1195,7 @@
         "id": "mewtwo",
         "name": "Mewtwo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1053,6 +1203,7 @@
         "id": "mew",
         "name": "Mew",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1060,6 +1211,7 @@
         "id": "chikorita",
         "name": "Chikorita",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1067,6 +1219,7 @@
         "id": "bayleef",
         "name": "Bayleef",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1074,6 +1227,7 @@
         "id": "meganium",
         "name": "Meganium",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1081,6 +1235,7 @@
         "id": "cyndaquil",
         "name": "Cyndaquil",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1088,6 +1243,7 @@
         "id": "quilava",
         "name": "Quilava",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1095,6 +1251,7 @@
         "id": "typhlosion",
         "name": "Typhlosion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1102,6 +1259,7 @@
         "id": "totodile",
         "name": "Totodile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1109,6 +1267,7 @@
         "id": "croconaw",
         "name": "Croconaw",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1116,6 +1275,7 @@
         "id": "feraligatr",
         "name": "Feraligatr",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1123,6 +1283,7 @@
         "id": "sentret",
         "name": "Sentret",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1130,6 +1291,7 @@
         "id": "furret",
         "name": "Furret",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1137,6 +1299,7 @@
         "id": "hoothoot",
         "name": "Hoothoot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1144,6 +1307,7 @@
         "id": "noctowl",
         "name": "Noctowl",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1151,6 +1315,7 @@
         "id": "ledyba",
         "name": "Ledyba",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1158,6 +1323,7 @@
         "id": "ledian",
         "name": "Ledian",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1165,6 +1331,7 @@
         "id": "spinarak",
         "name": "Spinarak",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1172,6 +1339,7 @@
         "id": "ariados",
         "name": "Ariados",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1179,6 +1347,7 @@
         "id": "crobat",
         "name": "Crobat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1186,6 +1355,7 @@
         "id": "chinchou",
         "name": "Chinchou",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1193,6 +1363,7 @@
         "id": "lanturn",
         "name": "Lanturn",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1200,6 +1371,7 @@
         "id": "pichu",
         "name": "Pichu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1207,6 +1379,7 @@
         "id": "cleffa",
         "name": "Cleffa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1214,6 +1387,7 @@
         "id": "igglybuff",
         "name": "Igglybuff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1221,6 +1395,7 @@
         "id": "togepi",
         "name": "Togepi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1228,6 +1403,7 @@
         "id": "togetic",
         "name": "Togetic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1235,6 +1411,7 @@
         "id": "natu",
         "name": "Natu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1242,6 +1419,7 @@
         "id": "xatu",
         "name": "Xatu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1249,6 +1427,7 @@
         "id": "mareep",
         "name": "Mareep",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1256,6 +1435,7 @@
         "id": "flaaffy",
         "name": "Flaaffy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1263,6 +1443,7 @@
         "id": "ampharos",
         "name": "Ampharos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1270,6 +1451,7 @@
         "id": "bellossom",
         "name": "Bellossom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1277,6 +1459,7 @@
         "id": "marill",
         "name": "Marill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1284,6 +1467,7 @@
         "id": "azumarill",
         "name": "Azumarill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1291,6 +1475,7 @@
         "id": "sudowoodo",
         "name": "Sudowoodo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1298,6 +1483,7 @@
         "id": "politoed",
         "name": "Politoed",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1305,6 +1491,7 @@
         "id": "hoppip",
         "name": "Hoppip",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1312,6 +1499,7 @@
         "id": "skiploom",
         "name": "Skiploom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1319,6 +1507,7 @@
         "id": "jumpluff",
         "name": "Jumpluff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1326,6 +1515,7 @@
         "id": "aipom",
         "name": "Aipom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1333,6 +1523,7 @@
         "id": "sunkern",
         "name": "Sunkern",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1340,6 +1531,7 @@
         "id": "sunflora",
         "name": "Sunflora",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1347,6 +1539,7 @@
         "id": "yanma",
         "name": "Yanma",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1354,6 +1547,7 @@
         "id": "wooper",
         "name": "Wooper",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1361,6 +1555,7 @@
         "id": "quagsire",
         "name": "Quagsire",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1368,6 +1563,7 @@
         "id": "espeon",
         "name": "Espeon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1375,6 +1571,7 @@
         "id": "umbreon",
         "name": "Umbreon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1382,6 +1579,7 @@
         "id": "murkrow",
         "name": "Murkrow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1389,6 +1587,7 @@
         "id": "slowking",
         "name": "Slowking",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1396,6 +1595,7 @@
         "id": "misdreavus",
         "name": "Misdreavus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1403,6 +1603,7 @@
         "id": "unown",
         "name": "Unown",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1410,6 +1611,7 @@
         "id": "wobbuffet",
         "name": "Wobbuffet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1417,6 +1619,7 @@
         "id": "girafarig",
         "name": "Girafarig",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1424,6 +1627,7 @@
         "id": "pineco",
         "name": "Pineco",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1431,6 +1635,7 @@
         "id": "forretress",
         "name": "Forretress",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1438,6 +1643,7 @@
         "id": "dunsparce",
         "name": "Dunsparce",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1445,6 +1651,7 @@
         "id": "gligar",
         "name": "Gligar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1452,6 +1659,7 @@
         "id": "steelix",
         "name": "Steelix",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1459,6 +1667,7 @@
         "id": "snubbull",
         "name": "Snubbull",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1466,6 +1675,7 @@
         "id": "granbull",
         "name": "Granbull",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1473,6 +1683,7 @@
         "id": "qwilfish",
         "name": "Qwilfish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1480,6 +1691,7 @@
         "id": "scizor",
         "name": "Scizor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1487,6 +1699,7 @@
         "id": "shuckle",
         "name": "Shuckle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1494,6 +1707,7 @@
         "id": "heracross",
         "name": "Heracross",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1501,6 +1715,7 @@
         "id": "sneasel",
         "name": "Sneasel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1508,6 +1723,7 @@
         "id": "teddiursa",
         "name": "Teddiursa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1515,6 +1731,7 @@
         "id": "ursaring",
         "name": "Ursaring",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1522,6 +1739,7 @@
         "id": "slugma",
         "name": "Slugma",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1529,6 +1747,7 @@
         "id": "magcargo",
         "name": "Magcargo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1536,6 +1755,7 @@
         "id": "swinub",
         "name": "Swinub",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1543,6 +1763,7 @@
         "id": "piloswine",
         "name": "Piloswine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1550,6 +1771,7 @@
         "id": "corsola",
         "name": "Corsola",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1557,6 +1779,7 @@
         "id": "remoraid",
         "name": "Remoraid",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1564,6 +1787,7 @@
         "id": "octillery",
         "name": "Octillery",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1571,6 +1795,7 @@
         "id": "delibird",
         "name": "Delibird",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1578,6 +1803,7 @@
         "id": "mantine",
         "name": "Mantine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1585,6 +1811,7 @@
         "id": "skarmory",
         "name": "Skarmory",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1592,6 +1819,7 @@
         "id": "houndour",
         "name": "Houndour",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1599,6 +1827,7 @@
         "id": "houndoom",
         "name": "Houndoom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1606,6 +1835,7 @@
         "id": "kingdra",
         "name": "Kingdra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1613,6 +1843,7 @@
         "id": "phanpy",
         "name": "Phanpy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1620,6 +1851,7 @@
         "id": "donphan",
         "name": "Donphan",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1627,6 +1859,7 @@
         "id": "porygon2",
         "name": "Porygon2",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1634,6 +1867,7 @@
         "id": "stantler",
         "name": "Stantler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1641,6 +1875,7 @@
         "id": "smeargle",
         "name": "Smeargle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1648,6 +1883,7 @@
         "id": "tyrogue",
         "name": "Tyrogue",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1655,6 +1891,7 @@
         "id": "hitmontop",
         "name": "Hitmontop",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1662,6 +1899,7 @@
         "id": "smoochum",
         "name": "Smoochum",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1669,6 +1907,7 @@
         "id": "elekid",
         "name": "Elekid",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1676,6 +1915,7 @@
         "id": "magby",
         "name": "Magby",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1683,6 +1923,7 @@
         "id": "miltank",
         "name": "Miltank",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1690,6 +1931,7 @@
         "id": "blissey",
         "name": "Blissey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1697,6 +1939,7 @@
         "id": "raikou",
         "name": "Raikou",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1704,6 +1947,7 @@
         "id": "entei",
         "name": "Entei",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1711,6 +1955,7 @@
         "id": "suicune",
         "name": "Suicune",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1718,6 +1963,7 @@
         "id": "larvitar",
         "name": "Larvitar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1725,6 +1971,7 @@
         "id": "pupitar",
         "name": "Pupitar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1732,6 +1979,7 @@
         "id": "tyranitar",
         "name": "Tyranitar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1739,6 +1987,7 @@
         "id": "lugia",
         "name": "Lugia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1746,6 +1995,7 @@
         "id": "ho-oh",
         "name": "Ho-Oh",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1753,6 +2003,7 @@
         "id": "celebi",
         "name": "Celebi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1760,6 +2011,7 @@
         "id": "treecko",
         "name": "Treecko",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1767,6 +2019,7 @@
         "id": "grovyle",
         "name": "Grovyle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1774,6 +2027,7 @@
         "id": "sceptile",
         "name": "Sceptile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1781,6 +2035,7 @@
         "id": "torchic",
         "name": "Torchic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1788,6 +2043,7 @@
         "id": "combusken",
         "name": "Combusken",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1795,6 +2051,7 @@
         "id": "blaziken",
         "name": "Blaziken",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1802,6 +2059,7 @@
         "id": "mudkip",
         "name": "Mudkip",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1809,6 +2067,7 @@
         "id": "marshtomp",
         "name": "Marshtomp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1816,6 +2075,7 @@
         "id": "swampert",
         "name": "Swampert",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1823,6 +2083,7 @@
         "id": "poochyena",
         "name": "Poochyena",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1830,6 +2091,7 @@
         "id": "mightyena",
         "name": "Mightyena",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1837,6 +2099,7 @@
         "id": "zigzagoon",
         "name": "Zigzagoon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1844,6 +2107,7 @@
         "id": "linoone",
         "name": "Linoone",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1851,6 +2115,7 @@
         "id": "wurmple",
         "name": "Wurmple",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1858,6 +2123,7 @@
         "id": "silcoon",
         "name": "Silcoon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1865,6 +2131,7 @@
         "id": "beautifly",
         "name": "Beautifly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1872,6 +2139,7 @@
         "id": "cascoon",
         "name": "Cascoon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1879,6 +2147,7 @@
         "id": "dustox",
         "name": "Dustox",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1886,6 +2155,7 @@
         "id": "lotad",
         "name": "Lotad",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1893,6 +2163,7 @@
         "id": "lombre",
         "name": "Lombre",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1900,6 +2171,7 @@
         "id": "ludicolo",
         "name": "Ludicolo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1907,6 +2179,7 @@
         "id": "seedot",
         "name": "Seedot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1914,6 +2187,7 @@
         "id": "nuzleaf",
         "name": "Nuzleaf",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1921,6 +2195,7 @@
         "id": "shiftry",
         "name": "Shiftry",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1928,6 +2203,7 @@
         "id": "taillow",
         "name": "Taillow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1935,6 +2211,7 @@
         "id": "swellow",
         "name": "Swellow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1942,6 +2219,7 @@
         "id": "wingull",
         "name": "Wingull",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1949,6 +2227,7 @@
         "id": "pelipper",
         "name": "Pelipper",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1956,6 +2235,7 @@
         "id": "ralts",
         "name": "Ralts",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1963,6 +2243,7 @@
         "id": "kirlia",
         "name": "Kirlia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1970,6 +2251,7 @@
         "id": "gardevoir",
         "name": "Gardevoir",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1977,6 +2259,7 @@
         "id": "surskit",
         "name": "Surskit",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1984,6 +2267,7 @@
         "id": "masquerain",
         "name": "Masquerain",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1991,6 +2275,7 @@
         "id": "shroomish",
         "name": "Shroomish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -1998,6 +2283,7 @@
         "id": "breloom",
         "name": "Breloom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2005,6 +2291,7 @@
         "id": "slakoth",
         "name": "Slakoth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2012,6 +2299,7 @@
         "id": "vigoroth",
         "name": "Vigoroth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2019,6 +2307,7 @@
         "id": "slaking",
         "name": "Slaking",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2026,6 +2315,7 @@
         "id": "nincada",
         "name": "Nincada",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2033,6 +2323,7 @@
         "id": "ninjask",
         "name": "Ninjask",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2040,6 +2331,7 @@
         "id": "shedinja",
         "name": "Shedinja",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2047,6 +2339,7 @@
         "id": "whismur",
         "name": "Whismur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2054,6 +2347,7 @@
         "id": "loudred",
         "name": "Loudred",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2061,6 +2355,7 @@
         "id": "exploud",
         "name": "Exploud",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2068,6 +2363,7 @@
         "id": "makuhita",
         "name": "Makuhita",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2075,6 +2371,7 @@
         "id": "hariyama",
         "name": "Hariyama",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2082,6 +2379,7 @@
         "id": "azurill",
         "name": "Azurill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2089,6 +2387,7 @@
         "id": "nosepass",
         "name": "Nosepass",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2096,6 +2395,7 @@
         "id": "skitty",
         "name": "Skitty",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2103,6 +2403,7 @@
         "id": "delcatty",
         "name": "Delcatty",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2110,6 +2411,7 @@
         "id": "sableye",
         "name": "Sableye",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2117,6 +2419,7 @@
         "id": "mawile",
         "name": "Mawile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2124,6 +2427,7 @@
         "id": "aron",
         "name": "Aron",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2131,6 +2435,7 @@
         "id": "lairon",
         "name": "Lairon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2138,6 +2443,7 @@
         "id": "aggron",
         "name": "Aggron",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2145,6 +2451,7 @@
         "id": "meditite",
         "name": "Meditite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2152,6 +2459,7 @@
         "id": "medicham",
         "name": "Medicham",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2159,6 +2467,7 @@
         "id": "electrike",
         "name": "Electrike",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2166,6 +2475,7 @@
         "id": "manectric",
         "name": "Manectric",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2173,6 +2483,7 @@
         "id": "plusle",
         "name": "Plusle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2180,6 +2491,7 @@
         "id": "minun",
         "name": "Minun",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2187,6 +2499,7 @@
         "id": "volbeat",
         "name": "Volbeat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2194,6 +2507,7 @@
         "id": "illumise",
         "name": "Illumise",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2201,6 +2515,7 @@
         "id": "roselia",
         "name": "Roselia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2208,6 +2523,7 @@
         "id": "gulpin",
         "name": "Gulpin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2215,6 +2531,7 @@
         "id": "swalot",
         "name": "Swalot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2222,6 +2539,7 @@
         "id": "carvanha",
         "name": "Carvanha",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2229,6 +2547,7 @@
         "id": "sharpedo",
         "name": "Sharpedo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2236,6 +2555,7 @@
         "id": "wailmer",
         "name": "Wailmer",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2243,6 +2563,7 @@
         "id": "wailord",
         "name": "Wailord",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2250,6 +2571,7 @@
         "id": "numel",
         "name": "Numel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2257,6 +2579,7 @@
         "id": "camerupt",
         "name": "Camerupt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2264,6 +2587,7 @@
         "id": "torkoal",
         "name": "Torkoal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2271,6 +2595,7 @@
         "id": "spoink",
         "name": "Spoink",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2278,6 +2603,7 @@
         "id": "grumpig",
         "name": "Grumpig",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2285,6 +2611,7 @@
         "id": "spinda",
         "name": "Spinda",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2292,6 +2619,7 @@
         "id": "trapinch",
         "name": "Trapinch",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2299,6 +2627,7 @@
         "id": "vibrava",
         "name": "Vibrava",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2306,6 +2635,7 @@
         "id": "flygon",
         "name": "Flygon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2313,6 +2643,7 @@
         "id": "cacnea",
         "name": "Cacnea",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2320,6 +2651,7 @@
         "id": "cacturne",
         "name": "Cacturne",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2327,6 +2659,7 @@
         "id": "swablu",
         "name": "Swablu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2334,6 +2667,7 @@
         "id": "altaria",
         "name": "Altaria",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2341,6 +2675,7 @@
         "id": "zangoose",
         "name": "Zangoose",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2348,6 +2683,7 @@
         "id": "seviper",
         "name": "Seviper",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2355,6 +2691,7 @@
         "id": "lunatone",
         "name": "Lunatone",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2362,6 +2699,7 @@
         "id": "solrock",
         "name": "Solrock",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2369,6 +2707,7 @@
         "id": "barboach",
         "name": "Barboach",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2376,6 +2715,7 @@
         "id": "whiscash",
         "name": "Whiscash",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2383,6 +2723,7 @@
         "id": "corphish",
         "name": "Corphish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2390,6 +2731,7 @@
         "id": "crawdaunt",
         "name": "Crawdaunt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2397,6 +2739,7 @@
         "id": "baltoy",
         "name": "Baltoy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2404,6 +2747,7 @@
         "id": "claydol",
         "name": "Claydol",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2411,6 +2755,7 @@
         "id": "lileep",
         "name": "Lileep",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2418,6 +2763,7 @@
         "id": "cradily",
         "name": "Cradily",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2425,6 +2771,7 @@
         "id": "anorith",
         "name": "Anorith",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2432,6 +2779,7 @@
         "id": "armaldo",
         "name": "Armaldo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2439,6 +2787,7 @@
         "id": "feebas",
         "name": "Feebas",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2446,6 +2795,7 @@
         "id": "milotic",
         "name": "Milotic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2453,6 +2803,7 @@
         "id": "castform",
         "name": "Castform",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2460,6 +2811,7 @@
         "id": "kecleon",
         "name": "Kecleon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2467,6 +2819,7 @@
         "id": "shuppet",
         "name": "Shuppet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2474,6 +2827,7 @@
         "id": "banette",
         "name": "Banette",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2481,6 +2835,7 @@
         "id": "duskull",
         "name": "Duskull",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2488,6 +2843,7 @@
         "id": "dusclops",
         "name": "Dusclops",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2495,6 +2851,7 @@
         "id": "tropius",
         "name": "Tropius",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2502,6 +2859,7 @@
         "id": "chimecho",
         "name": "Chimecho",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2509,6 +2867,7 @@
         "id": "absol",
         "name": "Absol",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2516,6 +2875,7 @@
         "id": "wynaut",
         "name": "Wynaut",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2523,6 +2883,7 @@
         "id": "snorunt",
         "name": "Snorunt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2530,6 +2891,7 @@
         "id": "glalie",
         "name": "Glalie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2537,6 +2899,7 @@
         "id": "spheal",
         "name": "Spheal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2544,6 +2907,7 @@
         "id": "sealeo",
         "name": "Sealeo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2551,6 +2915,7 @@
         "id": "walrein",
         "name": "Walrein",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2558,6 +2923,7 @@
         "id": "clamperl",
         "name": "Clamperl",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2565,6 +2931,7 @@
         "id": "huntail",
         "name": "Huntail",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2572,6 +2939,7 @@
         "id": "gorebyss",
         "name": "Gorebyss",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2579,6 +2947,7 @@
         "id": "relicanth",
         "name": "Relicanth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2586,6 +2955,7 @@
         "id": "luvdisc",
         "name": "Luvdisc",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2593,6 +2963,7 @@
         "id": "bagon",
         "name": "Bagon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2600,6 +2971,7 @@
         "id": "shelgon",
         "name": "Shelgon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2607,6 +2979,7 @@
         "id": "salamence",
         "name": "Salamence",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2614,6 +2987,7 @@
         "id": "beldum",
         "name": "Beldum",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2621,6 +2995,7 @@
         "id": "metang",
         "name": "Metang",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2628,6 +3003,7 @@
         "id": "metagross",
         "name": "Metagross",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2635,6 +3011,7 @@
         "id": "regirock",
         "name": "Regirock",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2642,6 +3019,7 @@
         "id": "regice",
         "name": "Regice",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2649,6 +3027,7 @@
         "id": "registeel",
         "name": "Registeel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2656,6 +3035,7 @@
         "id": "latias",
         "name": "Latias",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2663,6 +3043,7 @@
         "id": "latios",
         "name": "Latios",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2670,6 +3051,7 @@
         "id": "kyogre",
         "name": "Kyogre",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2677,6 +3059,7 @@
         "id": "groudon",
         "name": "Groudon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2684,6 +3067,7 @@
         "id": "rayquaza",
         "name": "Rayquaza",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2691,6 +3075,7 @@
         "id": "jirachi",
         "name": "Jirachi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2698,6 +3083,7 @@
         "id": "deoxys",
         "name": "Deoxys",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2705,6 +3091,7 @@
         "id": "turtwig",
         "name": "Turtwig",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2712,6 +3099,7 @@
         "id": "grotle",
         "name": "Grotle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2719,6 +3107,7 @@
         "id": "torterra",
         "name": "Torterra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2726,6 +3115,7 @@
         "id": "chimchar",
         "name": "Chimchar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2733,6 +3123,7 @@
         "id": "monferno",
         "name": "Monferno",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2740,6 +3131,7 @@
         "id": "infernape",
         "name": "Infernape",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2747,6 +3139,7 @@
         "id": "piplup",
         "name": "Piplup",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2754,6 +3147,7 @@
         "id": "prinplup",
         "name": "Prinplup",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2761,20 +3155,29 @@
         "id": "empoleon",
         "name": "Empoleon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
     {
         "id": "starly",
         "name": "Starly",
-        "status": "unknown",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/5",
+        "details": "The first Pokémon shown in the teaser trailer. https://www.youtube.com/watch?v=G0Uc5YONuso",
+        "history": [
+            {
+                "date": "2022/2/27",
+                "status": "confirmed",
+                "details": "The first Pokémon shown in the teaser trailer. https://www.youtube.com/watch?v=G0Uc5YONuso"
+            }
+        ]
     },
     {
         "id": "staravia",
         "name": "Staravia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2782,6 +3185,7 @@
         "id": "staraptor",
         "name": "Staraptor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2789,6 +3193,7 @@
         "id": "bidoof",
         "name": "Bidoof",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2796,6 +3201,7 @@
         "id": "bibarel",
         "name": "Bibarel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2803,6 +3209,7 @@
         "id": "kricketot",
         "name": "Kricketot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2810,6 +3217,7 @@
         "id": "kricketune",
         "name": "Kricketune",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2817,6 +3225,7 @@
         "id": "shinx",
         "name": "Shinx",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2824,6 +3233,7 @@
         "id": "luxio",
         "name": "Luxio",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2831,6 +3241,7 @@
         "id": "luxray",
         "name": "Luxray",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2838,6 +3249,7 @@
         "id": "budew",
         "name": "Budew",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2845,6 +3257,7 @@
         "id": "roserade",
         "name": "Roserade",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2852,6 +3265,7 @@
         "id": "cranidos",
         "name": "Cranidos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2859,6 +3273,7 @@
         "id": "rampardos",
         "name": "Rampardos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2866,6 +3281,7 @@
         "id": "shieldon",
         "name": "Shieldon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2873,6 +3289,7 @@
         "id": "bastiodon",
         "name": "Bastiodon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2880,6 +3297,7 @@
         "id": "burmy",
         "name": "Burmy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2887,6 +3305,7 @@
         "id": "wormadam",
         "name": "Wormadam",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2894,6 +3313,7 @@
         "id": "mothim",
         "name": "Mothim",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2901,6 +3321,7 @@
         "id": "combee",
         "name": "Combee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2908,6 +3329,7 @@
         "id": "vespiquen",
         "name": "Vespiquen",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2915,6 +3337,7 @@
         "id": "pachirisu",
         "name": "Pachirisu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2922,6 +3345,7 @@
         "id": "buizel",
         "name": "Buizel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2929,6 +3353,7 @@
         "id": "floatzel",
         "name": "Floatzel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2936,6 +3361,7 @@
         "id": "cherubi",
         "name": "Cherubi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2943,6 +3369,7 @@
         "id": "cherrim",
         "name": "Cherrim",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2950,6 +3377,7 @@
         "id": "shellos",
         "name": "Shellos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2957,6 +3385,7 @@
         "id": "gastrodon",
         "name": "Gastrodon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2964,6 +3393,7 @@
         "id": "ambipom",
         "name": "Ambipom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2971,6 +3401,7 @@
         "id": "drifloon",
         "name": "Drifloon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2978,6 +3409,7 @@
         "id": "drifblim",
         "name": "Drifblim",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2985,6 +3417,7 @@
         "id": "buneary",
         "name": "Buneary",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2992,6 +3425,7 @@
         "id": "lopunny",
         "name": "Lopunny",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -2999,6 +3433,7 @@
         "id": "mismagius",
         "name": "Mismagius",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3006,6 +3441,7 @@
         "id": "honchkrow",
         "name": "Honchkrow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3013,6 +3449,7 @@
         "id": "glameow",
         "name": "Glameow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3020,6 +3457,7 @@
         "id": "purugly",
         "name": "Purugly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3027,6 +3465,7 @@
         "id": "chingling",
         "name": "Chingling",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3034,6 +3473,7 @@
         "id": "stunky",
         "name": "Stunky",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3041,6 +3481,7 @@
         "id": "skuntank",
         "name": "Skuntank",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3048,6 +3489,7 @@
         "id": "bronzor",
         "name": "Bronzor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3055,6 +3497,7 @@
         "id": "bronzong",
         "name": "Bronzong",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3062,6 +3505,7 @@
         "id": "bonsly",
         "name": "Bonsly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3069,6 +3513,7 @@
         "id": "mime-jr",
         "name": "Mime Jr.",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3076,6 +3521,7 @@
         "id": "happiny",
         "name": "Happiny",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3083,6 +3529,7 @@
         "id": "chatot",
         "name": "Chatot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3090,6 +3537,7 @@
         "id": "spiritomb",
         "name": "Spiritomb",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3097,6 +3545,7 @@
         "id": "gible",
         "name": "Gible",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3104,6 +3553,7 @@
         "id": "gabite",
         "name": "Gabite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3111,6 +3561,7 @@
         "id": "garchomp",
         "name": "Garchomp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3118,6 +3569,7 @@
         "id": "munchlax",
         "name": "Munchlax",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3125,6 +3577,7 @@
         "id": "riolu",
         "name": "Riolu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3132,6 +3585,7 @@
         "id": "lucario",
         "name": "Lucario",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3139,6 +3593,7 @@
         "id": "hippopotas",
         "name": "Hippopotas",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3146,6 +3601,7 @@
         "id": "hippowdon",
         "name": "Hippowdon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3153,6 +3609,7 @@
         "id": "skorupi",
         "name": "Skorupi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3160,6 +3617,7 @@
         "id": "drapion",
         "name": "Drapion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3167,6 +3625,7 @@
         "id": "croagunk",
         "name": "Croagunk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3174,6 +3633,7 @@
         "id": "toxicroak",
         "name": "Toxicroak",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3181,6 +3641,7 @@
         "id": "carnivine",
         "name": "Carnivine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3188,6 +3649,7 @@
         "id": "finneon",
         "name": "Finneon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3195,6 +3657,7 @@
         "id": "lumineon",
         "name": "Lumineon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3202,6 +3665,7 @@
         "id": "mantyke",
         "name": "Mantyke",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3209,6 +3673,7 @@
         "id": "snover",
         "name": "Snover",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3216,6 +3681,7 @@
         "id": "abomasnow",
         "name": "Abomasnow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3223,6 +3689,7 @@
         "id": "weavile",
         "name": "Weavile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3230,6 +3697,7 @@
         "id": "magnezone",
         "name": "Magnezone",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3237,6 +3705,7 @@
         "id": "lickilicky",
         "name": "Lickilicky",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3244,6 +3713,7 @@
         "id": "rhyperior",
         "name": "Rhyperior",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3251,6 +3721,7 @@
         "id": "tangrowth",
         "name": "Tangrowth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3258,6 +3729,7 @@
         "id": "electivire",
         "name": "Electivire",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3265,6 +3737,7 @@
         "id": "magmortar",
         "name": "Magmortar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3272,6 +3745,7 @@
         "id": "togekiss",
         "name": "Togekiss",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3279,6 +3753,7 @@
         "id": "yanmega",
         "name": "Yanmega",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3286,6 +3761,7 @@
         "id": "leafeon",
         "name": "Leafeon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3293,6 +3769,7 @@
         "id": "glaceon",
         "name": "Glaceon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3300,6 +3777,7 @@
         "id": "gliscor",
         "name": "Gliscor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3307,6 +3785,7 @@
         "id": "mamoswine",
         "name": "Mamoswine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3314,6 +3793,7 @@
         "id": "porygon-z",
         "name": "Porygon-Z",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3321,6 +3801,7 @@
         "id": "gallade",
         "name": "Gallade",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3328,6 +3809,7 @@
         "id": "probopass",
         "name": "Probopass",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3335,6 +3817,7 @@
         "id": "dusknoir",
         "name": "Dusknoir",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3342,6 +3825,7 @@
         "id": "froslass",
         "name": "Froslass",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3349,6 +3833,7 @@
         "id": "rotom",
         "name": "Rotom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3356,6 +3841,7 @@
         "id": "uxie",
         "name": "Uxie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3363,6 +3849,7 @@
         "id": "mesprit",
         "name": "Mesprit",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3370,6 +3857,7 @@
         "id": "azelf",
         "name": "Azelf",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3377,6 +3865,7 @@
         "id": "dialga",
         "name": "Dialga",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3384,6 +3873,7 @@
         "id": "palkia",
         "name": "Palkia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3391,6 +3881,7 @@
         "id": "heatran",
         "name": "Heatran",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3398,6 +3889,7 @@
         "id": "regigigas",
         "name": "Regigigas",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3405,6 +3897,7 @@
         "id": "giratina",
         "name": "Giratina",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3412,6 +3905,7 @@
         "id": "cresselia",
         "name": "Cresselia",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3419,6 +3913,7 @@
         "id": "phione",
         "name": "Phione",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3426,6 +3921,7 @@
         "id": "manaphy",
         "name": "Manaphy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3433,6 +3929,7 @@
         "id": "darkrai",
         "name": "Darkrai",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3440,6 +3937,7 @@
         "id": "shaymin",
         "name": "Shaymin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3447,6 +3945,7 @@
         "id": "arceus",
         "name": "Arceus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3454,6 +3953,7 @@
         "id": "victini",
         "name": "Victini",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3461,6 +3961,7 @@
         "id": "snivy",
         "name": "Snivy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3468,6 +3969,7 @@
         "id": "servine",
         "name": "Servine",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3475,6 +3977,7 @@
         "id": "serperior",
         "name": "Serperior",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3482,6 +3985,7 @@
         "id": "tepig",
         "name": "Tepig",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3489,6 +3993,7 @@
         "id": "pignite",
         "name": "Pignite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3496,6 +4001,7 @@
         "id": "emboar",
         "name": "Emboar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3503,6 +4009,7 @@
         "id": "oshawott",
         "name": "Oshawott",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3510,6 +4017,7 @@
         "id": "dewott",
         "name": "Dewott",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3517,6 +4025,7 @@
         "id": "samurott",
         "name": "Samurott",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3524,6 +4033,7 @@
         "id": "patrat",
         "name": "Patrat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3531,6 +4041,7 @@
         "id": "watchog",
         "name": "Watchog",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3538,6 +4049,7 @@
         "id": "lillipup",
         "name": "Lillipup",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3545,6 +4057,7 @@
         "id": "herdier",
         "name": "Herdier",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3552,6 +4065,7 @@
         "id": "stoutland",
         "name": "Stoutland",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3559,6 +4073,7 @@
         "id": "purrloin",
         "name": "Purrloin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3566,6 +4081,7 @@
         "id": "liepard",
         "name": "Liepard",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3573,6 +4089,7 @@
         "id": "pansage",
         "name": "Pansage",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3580,6 +4097,7 @@
         "id": "simisage",
         "name": "Simisage",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3587,6 +4105,7 @@
         "id": "pansear",
         "name": "Pansear",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3594,6 +4113,7 @@
         "id": "simisear",
         "name": "Simisear",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3601,6 +4121,7 @@
         "id": "panpour",
         "name": "Panpour",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3608,6 +4129,7 @@
         "id": "simipour",
         "name": "Simipour",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3615,6 +4137,7 @@
         "id": "munna",
         "name": "Munna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3622,6 +4145,7 @@
         "id": "musharna",
         "name": "Musharna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3629,6 +4153,7 @@
         "id": "pidove",
         "name": "Pidove",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3636,6 +4161,7 @@
         "id": "tranquill",
         "name": "Tranquill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3643,6 +4169,7 @@
         "id": "unfezant",
         "name": "Unfezant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3650,6 +4177,7 @@
         "id": "blitzle",
         "name": "Blitzle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3657,6 +4185,7 @@
         "id": "zebstrika",
         "name": "Zebstrika",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3664,6 +4193,7 @@
         "id": "roggenrola",
         "name": "Roggenrola",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3671,6 +4201,7 @@
         "id": "boldore",
         "name": "Boldore",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3678,6 +4209,7 @@
         "id": "gigalith",
         "name": "Gigalith",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3685,6 +4217,7 @@
         "id": "woobat",
         "name": "Woobat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3692,6 +4225,7 @@
         "id": "swoobat",
         "name": "Swoobat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3699,6 +4233,7 @@
         "id": "drilbur",
         "name": "Drilbur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3706,6 +4241,7 @@
         "id": "excadrill",
         "name": "Excadrill",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3713,6 +4249,7 @@
         "id": "audino",
         "name": "Audino",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3720,6 +4257,7 @@
         "id": "timburr",
         "name": "Timburr",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3727,6 +4265,7 @@
         "id": "gurdurr",
         "name": "Gurdurr",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3734,6 +4273,7 @@
         "id": "conkeldurr",
         "name": "Conkeldurr",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3741,6 +4281,7 @@
         "id": "tympole",
         "name": "Tympole",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3748,6 +4289,7 @@
         "id": "palpitoad",
         "name": "Palpitoad",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3755,6 +4297,7 @@
         "id": "seismitoad",
         "name": "Seismitoad",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3762,6 +4305,7 @@
         "id": "throh",
         "name": "Throh",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3769,6 +4313,7 @@
         "id": "sawk",
         "name": "Sawk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3776,6 +4321,7 @@
         "id": "sewaddle",
         "name": "Sewaddle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3783,6 +4329,7 @@
         "id": "swadloon",
         "name": "Swadloon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3790,6 +4337,7 @@
         "id": "leavanny",
         "name": "Leavanny",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3797,6 +4345,7 @@
         "id": "venipede",
         "name": "Venipede",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3804,6 +4353,7 @@
         "id": "whirlipede",
         "name": "Whirlipede",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3811,6 +4361,7 @@
         "id": "scolipede",
         "name": "Scolipede",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3818,6 +4369,7 @@
         "id": "cottonee",
         "name": "Cottonee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3825,6 +4377,7 @@
         "id": "whimsicott",
         "name": "Whimsicott",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3832,6 +4385,7 @@
         "id": "petilil",
         "name": "Petilil",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3839,6 +4393,7 @@
         "id": "lilligant",
         "name": "Lilligant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3846,6 +4401,7 @@
         "id": "basculin",
         "name": "Basculin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3853,6 +4409,7 @@
         "id": "sandile",
         "name": "Sandile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3860,6 +4417,7 @@
         "id": "krokorok",
         "name": "Krokorok",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3867,6 +4425,7 @@
         "id": "krookodile",
         "name": "Krookodile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3874,6 +4433,7 @@
         "id": "darumaka",
         "name": "Darumaka",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3881,6 +4441,7 @@
         "id": "darmanitan",
         "name": "Darmanitan",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3888,6 +4449,7 @@
         "id": "maractus",
         "name": "Maractus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3895,6 +4457,7 @@
         "id": "dwebble",
         "name": "Dwebble",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3902,6 +4465,7 @@
         "id": "crustle",
         "name": "Crustle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3909,6 +4473,7 @@
         "id": "scraggy",
         "name": "Scraggy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3916,6 +4481,7 @@
         "id": "scrafty",
         "name": "Scrafty",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3923,6 +4489,7 @@
         "id": "sigilyph",
         "name": "Sigilyph",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3930,6 +4497,7 @@
         "id": "yamask",
         "name": "Yamask",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3937,6 +4505,7 @@
         "id": "cofagrigus",
         "name": "Cofagrigus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3944,6 +4513,7 @@
         "id": "tirtouga",
         "name": "Tirtouga",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3951,6 +4521,7 @@
         "id": "carracosta",
         "name": "Carracosta",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3958,6 +4529,7 @@
         "id": "archen",
         "name": "Archen",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3965,6 +4537,7 @@
         "id": "archeops",
         "name": "Archeops",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3972,6 +4545,7 @@
         "id": "trubbish",
         "name": "Trubbish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3979,6 +4553,7 @@
         "id": "garbodor",
         "name": "Garbodor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3986,6 +4561,7 @@
         "id": "zorua",
         "name": "Zorua",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -3993,6 +4569,7 @@
         "id": "zoroark",
         "name": "Zoroark",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4000,6 +4577,7 @@
         "id": "minccino",
         "name": "Minccino",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4007,6 +4585,7 @@
         "id": "cinccino",
         "name": "Cinccino",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4014,6 +4593,7 @@
         "id": "gothita",
         "name": "Gothita",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4021,6 +4601,7 @@
         "id": "gothorita",
         "name": "Gothorita",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4028,6 +4609,7 @@
         "id": "gothitelle",
         "name": "Gothitelle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4035,6 +4617,7 @@
         "id": "solosis",
         "name": "Solosis",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4042,6 +4625,7 @@
         "id": "duosion",
         "name": "Duosion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4049,6 +4633,7 @@
         "id": "reuniclus",
         "name": "Reuniclus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4056,6 +4641,7 @@
         "id": "ducklett",
         "name": "Ducklett",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4063,6 +4649,7 @@
         "id": "swanna",
         "name": "Swanna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4070,6 +4657,7 @@
         "id": "vanillite",
         "name": "Vanillite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4077,6 +4665,7 @@
         "id": "vanillish",
         "name": "Vanillish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4084,6 +4673,7 @@
         "id": "vanilluxe",
         "name": "Vanilluxe",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4091,6 +4681,7 @@
         "id": "deerling",
         "name": "Deerling",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4098,6 +4689,7 @@
         "id": "sawsbuck",
         "name": "Sawsbuck",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4105,6 +4697,7 @@
         "id": "emolga",
         "name": "Emolga",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4112,6 +4705,7 @@
         "id": "karrablast",
         "name": "Karrablast",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4119,6 +4713,7 @@
         "id": "escavalier",
         "name": "Escavalier",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4126,6 +4721,7 @@
         "id": "foongus",
         "name": "Foongus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4133,6 +4729,7 @@
         "id": "amoonguss",
         "name": "Amoonguss",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4140,6 +4737,7 @@
         "id": "frillish",
         "name": "Frillish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4147,6 +4745,7 @@
         "id": "jellicent",
         "name": "Jellicent",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4154,6 +4753,7 @@
         "id": "alomomola",
         "name": "Alomomola",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4161,6 +4761,7 @@
         "id": "joltik",
         "name": "Joltik",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4168,6 +4769,7 @@
         "id": "galvantula",
         "name": "Galvantula",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4175,6 +4777,7 @@
         "id": "ferroseed",
         "name": "Ferroseed",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4182,6 +4785,7 @@
         "id": "ferrothorn",
         "name": "Ferrothorn",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4189,6 +4793,7 @@
         "id": "klink",
         "name": "Klink",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4196,6 +4801,7 @@
         "id": "klang",
         "name": "Klang",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4203,6 +4809,7 @@
         "id": "klinklang",
         "name": "Klinklang",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4210,6 +4817,7 @@
         "id": "tynamo",
         "name": "Tynamo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4217,6 +4825,7 @@
         "id": "eelektrik",
         "name": "Eelektrik",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4224,6 +4833,7 @@
         "id": "eelektross",
         "name": "Eelektross",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4231,6 +4841,7 @@
         "id": "elgyem",
         "name": "Elgyem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4238,6 +4849,7 @@
         "id": "beheeyem",
         "name": "Beheeyem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4245,6 +4857,7 @@
         "id": "litwick",
         "name": "Litwick",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4252,6 +4865,7 @@
         "id": "lampent",
         "name": "Lampent",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4259,6 +4873,7 @@
         "id": "chandelure",
         "name": "Chandelure",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4266,6 +4881,7 @@
         "id": "axew",
         "name": "Axew",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4273,6 +4889,7 @@
         "id": "fraxure",
         "name": "Fraxure",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4280,6 +4897,7 @@
         "id": "haxorus",
         "name": "Haxorus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4287,6 +4905,7 @@
         "id": "cubchoo",
         "name": "Cubchoo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4294,6 +4913,7 @@
         "id": "beartic",
         "name": "Beartic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4301,6 +4921,7 @@
         "id": "cryogonal",
         "name": "Cryogonal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4308,6 +4929,7 @@
         "id": "shelmet",
         "name": "Shelmet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4315,6 +4937,7 @@
         "id": "accelgor",
         "name": "Accelgor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4322,6 +4945,7 @@
         "id": "stunfisk",
         "name": "Stunfisk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4329,6 +4953,7 @@
         "id": "mienfoo",
         "name": "Mienfoo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4336,6 +4961,7 @@
         "id": "mienshao",
         "name": "Mienshao",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4343,6 +4969,7 @@
         "id": "druddigon",
         "name": "Druddigon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4350,6 +4977,7 @@
         "id": "golett",
         "name": "Golett",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4357,6 +4985,7 @@
         "id": "golurk",
         "name": "Golurk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4364,6 +4993,7 @@
         "id": "pawniard",
         "name": "Pawniard",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4371,6 +5001,7 @@
         "id": "bisharp",
         "name": "Bisharp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4378,6 +5009,7 @@
         "id": "bouffalant",
         "name": "Bouffalant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4385,6 +5017,7 @@
         "id": "rufflet",
         "name": "Rufflet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4392,6 +5025,7 @@
         "id": "braviary",
         "name": "Braviary",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4399,6 +5033,7 @@
         "id": "vullaby",
         "name": "Vullaby",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4406,6 +5041,7 @@
         "id": "mandibuzz",
         "name": "Mandibuzz",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4413,6 +5049,7 @@
         "id": "heatmor",
         "name": "Heatmor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4420,6 +5057,7 @@
         "id": "durant",
         "name": "Durant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4427,6 +5065,7 @@
         "id": "deino",
         "name": "Deino",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4434,6 +5073,7 @@
         "id": "zweilous",
         "name": "Zweilous",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4441,6 +5081,7 @@
         "id": "hydreigon",
         "name": "Hydreigon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4448,6 +5089,7 @@
         "id": "larvesta",
         "name": "Larvesta",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4455,6 +5097,7 @@
         "id": "volcarona",
         "name": "Volcarona",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4462,6 +5105,7 @@
         "id": "cobalion",
         "name": "Cobalion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4469,6 +5113,7 @@
         "id": "terrakion",
         "name": "Terrakion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4476,6 +5121,7 @@
         "id": "virizion",
         "name": "Virizion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4483,6 +5129,7 @@
         "id": "tornadus",
         "name": "Tornadus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4490,6 +5137,7 @@
         "id": "thundurus",
         "name": "Thundurus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4497,6 +5145,7 @@
         "id": "reshiram",
         "name": "Reshiram",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4504,6 +5153,7 @@
         "id": "zekrom",
         "name": "Zekrom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4511,6 +5161,7 @@
         "id": "landorus",
         "name": "Landorus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4518,6 +5169,7 @@
         "id": "kyurem",
         "name": "Kyurem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4525,6 +5177,7 @@
         "id": "keldeo",
         "name": "Keldeo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4532,6 +5185,7 @@
         "id": "meloetta",
         "name": "Meloetta",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4539,6 +5193,7 @@
         "id": "genesect",
         "name": "Genesect",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4546,6 +5201,7 @@
         "id": "chespin",
         "name": "Chespin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4553,6 +5209,7 @@
         "id": "quilladin",
         "name": "Quilladin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4560,6 +5217,7 @@
         "id": "chesnaught",
         "name": "Chesnaught",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4567,6 +5225,7 @@
         "id": "fennekin",
         "name": "Fennekin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4574,6 +5233,7 @@
         "id": "braixen",
         "name": "Braixen",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4581,6 +5241,7 @@
         "id": "delphox",
         "name": "Delphox",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4588,6 +5249,7 @@
         "id": "froakie",
         "name": "Froakie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4595,6 +5257,7 @@
         "id": "frogadier",
         "name": "Frogadier",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4602,6 +5265,7 @@
         "id": "greninja",
         "name": "Greninja",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4609,6 +5273,7 @@
         "id": "bunnelby",
         "name": "Bunnelby",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4616,6 +5281,7 @@
         "id": "diggersby",
         "name": "Diggersby",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4623,6 +5289,7 @@
         "id": "fletchling",
         "name": "Fletchling",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4630,6 +5297,7 @@
         "id": "fletchinder",
         "name": "Fletchinder",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4637,6 +5305,7 @@
         "id": "talonflame",
         "name": "Talonflame",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4644,6 +5313,7 @@
         "id": "scatterbug",
         "name": "Scatterbug",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4651,6 +5321,7 @@
         "id": "spewpa",
         "name": "Spewpa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4658,6 +5329,7 @@
         "id": "vivillon",
         "name": "Vivillon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4665,6 +5337,7 @@
         "id": "litleo",
         "name": "Litleo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4672,6 +5345,7 @@
         "id": "pyroar",
         "name": "Pyroar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4679,6 +5353,7 @@
         "id": "flabebe",
         "name": "Flabébé",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4686,6 +5361,7 @@
         "id": "floette",
         "name": "Floette",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4693,6 +5369,7 @@
         "id": "florges",
         "name": "Florges",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4700,6 +5377,7 @@
         "id": "skiddo",
         "name": "Skiddo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4707,6 +5385,7 @@
         "id": "gogoat",
         "name": "Gogoat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4714,6 +5393,7 @@
         "id": "pancham",
         "name": "Pancham",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4721,6 +5401,7 @@
         "id": "pangoro",
         "name": "Pangoro",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4728,6 +5409,7 @@
         "id": "furfrou",
         "name": "Furfrou",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4735,6 +5417,7 @@
         "id": "espurr",
         "name": "Espurr",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4742,6 +5425,7 @@
         "id": "meowstic",
         "name": "Meowstic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4749,6 +5433,7 @@
         "id": "honedge",
         "name": "Honedge",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4756,6 +5441,7 @@
         "id": "doublade",
         "name": "Doublade",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4763,6 +5449,7 @@
         "id": "aegislash",
         "name": "Aegislash",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4770,6 +5457,7 @@
         "id": "spritzee",
         "name": "Spritzee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4777,6 +5465,7 @@
         "id": "aromatisse",
         "name": "Aromatisse",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4784,6 +5473,7 @@
         "id": "swirlix",
         "name": "Swirlix",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4791,6 +5481,7 @@
         "id": "slurpuff",
         "name": "Slurpuff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4798,6 +5489,7 @@
         "id": "inkay",
         "name": "Inkay",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4805,6 +5497,7 @@
         "id": "malamar",
         "name": "Malamar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4812,6 +5505,7 @@
         "id": "binacle",
         "name": "Binacle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4819,6 +5513,7 @@
         "id": "barbaracle",
         "name": "Barbaracle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4826,6 +5521,7 @@
         "id": "skrelp",
         "name": "Skrelp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4833,6 +5529,7 @@
         "id": "dragalge",
         "name": "Dragalge",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4840,6 +5537,7 @@
         "id": "clauncher",
         "name": "Clauncher",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4847,6 +5545,7 @@
         "id": "clawitzer",
         "name": "Clawitzer",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4854,6 +5553,7 @@
         "id": "helioptile",
         "name": "Helioptile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4861,6 +5561,7 @@
         "id": "heliolisk",
         "name": "Heliolisk",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4868,6 +5569,7 @@
         "id": "tyrunt",
         "name": "Tyrunt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4875,6 +5577,7 @@
         "id": "tyrantrum",
         "name": "Tyrantrum",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4882,6 +5585,7 @@
         "id": "amaura",
         "name": "Amaura",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4889,6 +5593,7 @@
         "id": "aurorus",
         "name": "Aurorus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4896,6 +5601,7 @@
         "id": "sylveon",
         "name": "Sylveon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4903,6 +5609,7 @@
         "id": "hawlucha",
         "name": "Hawlucha",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4910,6 +5617,7 @@
         "id": "dedenne",
         "name": "Dedenne",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4917,6 +5625,7 @@
         "id": "carbink",
         "name": "Carbink",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4924,6 +5633,7 @@
         "id": "goomy",
         "name": "Goomy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4931,6 +5641,7 @@
         "id": "sliggoo",
         "name": "Sliggoo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4938,6 +5649,7 @@
         "id": "goodra",
         "name": "Goodra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4945,6 +5657,7 @@
         "id": "klefki",
         "name": "Klefki",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4952,6 +5665,7 @@
         "id": "phantump",
         "name": "Phantump",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4959,6 +5673,7 @@
         "id": "trevenant",
         "name": "Trevenant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4966,6 +5681,7 @@
         "id": "pumpkaboo",
         "name": "Pumpkaboo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4973,6 +5689,7 @@
         "id": "gourgeist",
         "name": "Gourgeist",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4980,6 +5697,7 @@
         "id": "bergmite",
         "name": "Bergmite",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4987,6 +5705,7 @@
         "id": "avalugg",
         "name": "Avalugg",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -4994,6 +5713,7 @@
         "id": "noibat",
         "name": "Noibat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5001,6 +5721,7 @@
         "id": "noivern",
         "name": "Noivern",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5008,6 +5729,7 @@
         "id": "xerneas",
         "name": "Xerneas",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5015,6 +5737,7 @@
         "id": "yveltal",
         "name": "Yveltal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5022,6 +5745,7 @@
         "id": "zygarde",
         "name": "Zygarde",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5029,6 +5753,7 @@
         "id": "diancie",
         "name": "Diancie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5036,6 +5761,7 @@
         "id": "hoopa",
         "name": "Hoopa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5043,6 +5769,7 @@
         "id": "volcanion",
         "name": "Volcanion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5050,6 +5777,7 @@
         "id": "rowlet",
         "name": "Rowlet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5057,6 +5785,7 @@
         "id": "dartrix",
         "name": "Dartrix",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5064,6 +5793,7 @@
         "id": "decidueye",
         "name": "Decidueye",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5071,6 +5801,7 @@
         "id": "litten",
         "name": "Litten",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5078,6 +5809,7 @@
         "id": "torracat",
         "name": "Torracat",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5085,6 +5817,7 @@
         "id": "incineroar",
         "name": "Incineroar",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5092,6 +5825,7 @@
         "id": "popplio",
         "name": "Popplio",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5099,6 +5833,7 @@
         "id": "brionne",
         "name": "Brionne",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5106,6 +5841,7 @@
         "id": "primarina",
         "name": "Primarina",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5113,6 +5849,7 @@
         "id": "pikipek",
         "name": "Pikipek",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5120,6 +5857,7 @@
         "id": "trumbeak",
         "name": "Trumbeak",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5127,6 +5865,7 @@
         "id": "toucannon",
         "name": "Toucannon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5134,6 +5873,7 @@
         "id": "yungoos",
         "name": "Yungoos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5141,6 +5881,7 @@
         "id": "gumshoos",
         "name": "Gumshoos",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5148,6 +5889,7 @@
         "id": "grubbin",
         "name": "Grubbin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5155,6 +5897,7 @@
         "id": "charjabug",
         "name": "Charjabug",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5162,6 +5905,7 @@
         "id": "vikavolt",
         "name": "Vikavolt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5169,6 +5913,7 @@
         "id": "crabrawler",
         "name": "Crabrawler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5176,6 +5921,7 @@
         "id": "crabominable",
         "name": "Crabominable",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5183,6 +5929,7 @@
         "id": "oricorio",
         "name": "Oricorio",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5190,6 +5937,7 @@
         "id": "cutiefly",
         "name": "Cutiefly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5197,6 +5945,7 @@
         "id": "ribombee",
         "name": "Ribombee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5204,6 +5953,7 @@
         "id": "rockruff",
         "name": "Rockruff",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5211,6 +5961,7 @@
         "id": "lycanroc",
         "name": "Lycanroc",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5218,6 +5969,7 @@
         "id": "wishiwashi",
         "name": "Wishiwashi",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5225,6 +5977,7 @@
         "id": "mareanie",
         "name": "Mareanie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5232,6 +5985,7 @@
         "id": "toxapex",
         "name": "Toxapex",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5239,6 +5993,7 @@
         "id": "mudbray",
         "name": "Mudbray",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5246,6 +6001,7 @@
         "id": "mudsdale",
         "name": "Mudsdale",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5253,6 +6009,7 @@
         "id": "dewpider",
         "name": "Dewpider",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5260,6 +6017,7 @@
         "id": "araquanid",
         "name": "Araquanid",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5267,6 +6025,7 @@
         "id": "fomantis",
         "name": "Fomantis",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5274,6 +6033,7 @@
         "id": "lurantis",
         "name": "Lurantis",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5281,6 +6041,7 @@
         "id": "morelull",
         "name": "Morelull",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5288,6 +6049,7 @@
         "id": "shiinotic",
         "name": "Shiinotic",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5295,6 +6057,7 @@
         "id": "salandit",
         "name": "Salandit",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5302,6 +6065,7 @@
         "id": "salazzle",
         "name": "Salazzle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5309,6 +6073,7 @@
         "id": "stufful",
         "name": "Stufful",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5316,6 +6081,7 @@
         "id": "bewear",
         "name": "Bewear",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5323,6 +6089,7 @@
         "id": "bounsweet",
         "name": "Bounsweet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5330,6 +6097,7 @@
         "id": "steenee",
         "name": "Steenee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5337,6 +6105,7 @@
         "id": "tsareena",
         "name": "Tsareena",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5344,6 +6113,7 @@
         "id": "comfey",
         "name": "Comfey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5351,6 +6121,7 @@
         "id": "oranguru",
         "name": "Oranguru",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5358,6 +6129,7 @@
         "id": "passimian",
         "name": "Passimian",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5365,6 +6137,7 @@
         "id": "wimpod",
         "name": "Wimpod",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5372,6 +6145,7 @@
         "id": "golisopod",
         "name": "Golisopod",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5379,6 +6153,7 @@
         "id": "sandygast",
         "name": "Sandygast",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5386,6 +6161,7 @@
         "id": "palossand",
         "name": "Palossand",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5393,6 +6169,7 @@
         "id": "pyukumuku",
         "name": "Pyukumuku",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5400,6 +6177,7 @@
         "id": "type-null",
         "name": "Type: Null",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5407,6 +6185,7 @@
         "id": "silvally",
         "name": "Silvally",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5414,6 +6193,7 @@
         "id": "minior",
         "name": "Minior",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5421,6 +6201,7 @@
         "id": "komala",
         "name": "Komala",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5428,6 +6209,7 @@
         "id": "turtonator",
         "name": "Turtonator",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5435,6 +6217,7 @@
         "id": "togedemaru",
         "name": "Togedemaru",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5442,6 +6225,7 @@
         "id": "mimikyu",
         "name": "Mimikyu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5449,6 +6233,7 @@
         "id": "bruxish",
         "name": "Bruxish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5456,6 +6241,7 @@
         "id": "drampa",
         "name": "Drampa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5463,6 +6249,7 @@
         "id": "dhelmise",
         "name": "Dhelmise",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5470,6 +6257,7 @@
         "id": "jangmo-o",
         "name": "Jangmo-o",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5477,6 +6265,7 @@
         "id": "hakamo-o",
         "name": "Hakamo-o",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5484,6 +6273,7 @@
         "id": "kommo-o",
         "name": "Kommo-o",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5491,6 +6281,7 @@
         "id": "tapu-koko",
         "name": "Tapu Koko",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5498,6 +6289,7 @@
         "id": "tapu-lele",
         "name": "Tapu Lele",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5505,6 +6297,7 @@
         "id": "tapu-bulu",
         "name": "Tapu Bulu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5512,6 +6305,7 @@
         "id": "tapu-fini",
         "name": "Tapu Fini",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5519,6 +6313,7 @@
         "id": "cosmog",
         "name": "Cosmog",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5526,6 +6321,7 @@
         "id": "cosmoem",
         "name": "Cosmoem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5533,6 +6329,7 @@
         "id": "solgaleo",
         "name": "Solgaleo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5540,6 +6337,7 @@
         "id": "lunala",
         "name": "Lunala",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5547,6 +6345,7 @@
         "id": "nihilego",
         "name": "Nihilego",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5554,6 +6353,7 @@
         "id": "buzzwole",
         "name": "Buzzwole",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5561,6 +6361,7 @@
         "id": "pheromosa",
         "name": "Pheromosa",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5568,6 +6369,7 @@
         "id": "xurkitree",
         "name": "Xurkitree",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5575,6 +6377,7 @@
         "id": "celesteela",
         "name": "Celesteela",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5582,6 +6385,7 @@
         "id": "kartana",
         "name": "Kartana",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5589,6 +6393,7 @@
         "id": "guzzlord",
         "name": "Guzzlord",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5596,6 +6401,7 @@
         "id": "necrozma",
         "name": "Necrozma",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5603,6 +6409,7 @@
         "id": "magearna",
         "name": "Magearna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5610,6 +6417,7 @@
         "id": "marshadow",
         "name": "Marshadow",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5617,6 +6425,7 @@
         "id": "poipole",
         "name": "Poipole",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5624,6 +6433,7 @@
         "id": "naganadel",
         "name": "Naganadel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5631,6 +6441,7 @@
         "id": "stakataka",
         "name": "Stakataka",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5638,6 +6449,7 @@
         "id": "blacephalon",
         "name": "Blacephalon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5645,6 +6457,7 @@
         "id": "zeraora",
         "name": "Zeraora",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5652,6 +6465,7 @@
         "id": "meltan",
         "name": "Meltan",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5659,6 +6473,7 @@
         "id": "melmetal",
         "name": "Melmetal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5666,6 +6481,7 @@
         "id": "grookey",
         "name": "Grookey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5673,6 +6489,7 @@
         "id": "thwackey",
         "name": "Thwackey",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5680,6 +6497,7 @@
         "id": "rillaboom",
         "name": "Rillaboom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5687,6 +6505,7 @@
         "id": "scorbunny",
         "name": "Scorbunny",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5694,6 +6513,7 @@
         "id": "raboot",
         "name": "Raboot",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5701,6 +6521,7 @@
         "id": "cinderace",
         "name": "Cinderace",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5708,6 +6529,7 @@
         "id": "sobble",
         "name": "Sobble",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5715,6 +6537,7 @@
         "id": "drizzile",
         "name": "Drizzile",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5722,6 +6545,7 @@
         "id": "inteleon",
         "name": "Inteleon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5729,6 +6553,7 @@
         "id": "skwovet",
         "name": "Skwovet",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5736,6 +6561,7 @@
         "id": "greedent",
         "name": "Greedent",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5743,6 +6569,7 @@
         "id": "rookidee",
         "name": "Rookidee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5750,6 +6577,7 @@
         "id": "corvisquire",
         "name": "Corvisquire",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5757,6 +6585,7 @@
         "id": "corviknight",
         "name": "Corviknight",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5764,6 +6593,7 @@
         "id": "blipbug",
         "name": "Blipbug",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5771,6 +6601,7 @@
         "id": "dottler",
         "name": "Dottler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5778,6 +6609,7 @@
         "id": "orbeetle",
         "name": "Orbeetle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5785,6 +6617,7 @@
         "id": "nickit",
         "name": "Nickit",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5792,6 +6625,7 @@
         "id": "thievul",
         "name": "Thievul",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5799,6 +6633,7 @@
         "id": "gossifleur",
         "name": "Gossifleur",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5806,6 +6641,7 @@
         "id": "eldegoss",
         "name": "Eldegoss",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5813,6 +6649,7 @@
         "id": "wooloo",
         "name": "Wooloo",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5820,6 +6657,7 @@
         "id": "dubwool",
         "name": "Dubwool",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5827,6 +6665,7 @@
         "id": "chewtle",
         "name": "Chewtle",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5834,6 +6673,7 @@
         "id": "drednaw",
         "name": "Drednaw",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5841,6 +6681,7 @@
         "id": "yamper",
         "name": "Yamper",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5848,6 +6689,7 @@
         "id": "boltund",
         "name": "Boltund",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5855,6 +6697,7 @@
         "id": "rolycoly",
         "name": "Rolycoly",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5862,6 +6705,7 @@
         "id": "carkol",
         "name": "Carkol",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5869,6 +6713,7 @@
         "id": "coalossal",
         "name": "Coalossal",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5876,6 +6721,7 @@
         "id": "applin",
         "name": "Applin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5883,6 +6729,7 @@
         "id": "flapple",
         "name": "Flapple",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5890,6 +6737,7 @@
         "id": "appletun",
         "name": "Appletun",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5897,6 +6745,7 @@
         "id": "silicobra",
         "name": "Silicobra",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5904,6 +6753,7 @@
         "id": "sandaconda",
         "name": "Sandaconda",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5911,6 +6761,7 @@
         "id": "cramorant",
         "name": "Cramorant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5918,6 +6769,7 @@
         "id": "arrokuda",
         "name": "Arrokuda",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5925,6 +6777,7 @@
         "id": "barraskewda",
         "name": "Barraskewda",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5932,6 +6785,7 @@
         "id": "toxel",
         "name": "Toxel",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5939,6 +6793,7 @@
         "id": "toxtricity",
         "name": "Toxtricity",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5946,6 +6801,7 @@
         "id": "sizzlipede",
         "name": "Sizzlipede",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5953,6 +6809,7 @@
         "id": "centiskorch",
         "name": "Centiskorch",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5960,6 +6817,7 @@
         "id": "clobbopus",
         "name": "Clobbopus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5967,6 +6825,7 @@
         "id": "grapploct",
         "name": "Grapploct",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5974,6 +6833,7 @@
         "id": "sinistea",
         "name": "Sinistea",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5981,6 +6841,7 @@
         "id": "polteageist",
         "name": "Polteageist",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5988,6 +6849,7 @@
         "id": "hatenna",
         "name": "Hatenna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -5995,6 +6857,7 @@
         "id": "hattrem",
         "name": "Hattrem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6002,6 +6865,7 @@
         "id": "hatterene",
         "name": "Hatterene",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6009,6 +6873,7 @@
         "id": "impidimp",
         "name": "Impidimp",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6016,6 +6881,7 @@
         "id": "morgrem",
         "name": "Morgrem",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6023,6 +6889,7 @@
         "id": "grimmsnarl",
         "name": "Grimmsnarl",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6030,6 +6897,7 @@
         "id": "obstagoon",
         "name": "Obstagoon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6037,6 +6905,7 @@
         "id": "perrserker",
         "name": "Perrserker",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6044,6 +6913,7 @@
         "id": "cursola",
         "name": "Cursola",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6051,6 +6921,7 @@
         "id": "sirfetchd",
         "name": "Sirfetch’d",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6058,6 +6929,7 @@
         "id": "mr-rime",
         "name": "Mr. Rime",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6065,6 +6937,7 @@
         "id": "runerigus",
         "name": "Runerigus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6072,6 +6945,7 @@
         "id": "milcery",
         "name": "Milcery",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6079,6 +6953,7 @@
         "id": "alcremie",
         "name": "Alcremie",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6086,6 +6961,7 @@
         "id": "falinks",
         "name": "Falinks",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6093,6 +6969,7 @@
         "id": "pincurchin",
         "name": "Pincurchin",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6100,6 +6977,7 @@
         "id": "snom",
         "name": "Snom",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6107,6 +6985,7 @@
         "id": "frosmoth",
         "name": "Frosmoth",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6114,6 +6993,7 @@
         "id": "stonjourner",
         "name": "Stonjourner",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6121,6 +7001,7 @@
         "id": "eiscue",
         "name": "Eiscue",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6128,6 +7009,7 @@
         "id": "indeedee",
         "name": "Indeedee",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6135,6 +7017,7 @@
         "id": "morpeko",
         "name": "Morpeko",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6142,6 +7025,7 @@
         "id": "cufant",
         "name": "Cufant",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6149,6 +7033,7 @@
         "id": "copperajah",
         "name": "Copperajah",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6156,6 +7041,7 @@
         "id": "dracozolt",
         "name": "Dracozolt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6163,6 +7049,7 @@
         "id": "arctozolt",
         "name": "Arctozolt",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6170,6 +7057,7 @@
         "id": "dracovish",
         "name": "Dracovish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6177,6 +7065,7 @@
         "id": "arctovish",
         "name": "Arctovish",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6184,6 +7073,7 @@
         "id": "duraludon",
         "name": "Duraludon",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6191,6 +7081,7 @@
         "id": "dreepy",
         "name": "Dreepy",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6198,6 +7089,7 @@
         "id": "drakloak",
         "name": "Drakloak",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6205,6 +7097,7 @@
         "id": "dragapult",
         "name": "Dragapult",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6212,6 +7105,7 @@
         "id": "zacian",
         "name": "Zacian",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6219,6 +7113,7 @@
         "id": "zamazenta",
         "name": "Zamazenta",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6226,6 +7121,7 @@
         "id": "eternatus",
         "name": "Eternatus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6233,6 +7129,7 @@
         "id": "kubfu",
         "name": "Kubfu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6240,6 +7137,7 @@
         "id": "urshifu",
         "name": "Urshifu",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6247,6 +7145,7 @@
         "id": "zarude",
         "name": "Zarude",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6254,6 +7153,7 @@
         "id": "regieleki",
         "name": "Regieleki",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6261,6 +7161,7 @@
         "id": "regidrago",
         "name": "Regidrago",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6268,6 +7169,7 @@
         "id": "glastrier",
         "name": "Glastrier",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6275,6 +7177,7 @@
         "id": "spectrier",
         "name": "Spectrier",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6282,6 +7185,7 @@
         "id": "calyrex",
         "name": "Calyrex",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6289,6 +7193,7 @@
         "id": "wyrdeer",
         "name": "Wyrdeer",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6296,6 +7201,7 @@
         "id": "kleavor",
         "name": "Kleavor",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6303,6 +7209,7 @@
         "id": "ursaluna",
         "name": "Ursaluna",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6310,6 +7217,7 @@
         "id": "basculegion",
         "name": "Basculegion",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6317,6 +7225,7 @@
         "id": "sneasler",
         "name": "Sneasler",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6324,6 +7233,7 @@
         "id": "overqwil",
         "name": "Overqwil",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     },
@@ -6331,6 +7241,7 @@
         "id": "enamorus",
         "name": "Enamorus",
         "status": "unknown",
+        "lastUpdated": "2022/4/5",
         "details": "",
         "history": []
     }

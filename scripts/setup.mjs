@@ -23,7 +23,7 @@ async function getPokemonList(targetGame) {
         try {
             const {name} = (await dex.getPokemonSpeciesByName(pokemon.name)).names.filter(name => name.language.name === 'en')[0]
             spinner.text = `Setting up status info for ${name}...`;
-            return {id: pokemon.name, name: name, status: "unknown", details: "", history: []}
+            return {id: pokemon.name, name: name, status: "unknown", lastUpdated: new Date().toLocaleDateString("ja"), details: "", history: []}
         } catch (e) {
             spinner.fail(`Failed to fetch ${pokemon.name}: ${e.message}`);
         }

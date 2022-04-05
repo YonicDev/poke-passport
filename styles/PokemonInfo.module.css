@@ -1,0 +1,125 @@
+.container {
+    position: relative;
+    width: 60%;
+    max-width: 800px;
+    margin: 0 auto;
+    top: 25px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    overflow: hidden;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 136px auto auto 10em;
+    grid-template-areas:
+        "icon name name name"
+        "icon status status date"
+        "notes notes notes notes"
+        "history history history history";
+}
+
+.container h1, .container h2, .container h3 {
+    margin: 0.5em 0;
+}
+
+.icon {
+    image-rendering: pixelated;
+}
+
+.iconContainer {
+    grid-area: icon;
+}
+
+.status {
+    grid-area: status;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.333rem;
+}
+
+.name {
+    grid-area: name;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.details {
+    grid-area: notes;
+    padding: 0.5rem;
+    border-top: 2px solid gray;
+}
+
+.date {
+    grid-area: date;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.history {
+    grid-area: history;
+    height: 40vh;
+    min-height: 300px;
+    padding: 0.5rem;
+    border-top: 2px solid gray;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.history table {
+    width: 100%;
+    margin-top: 1em;
+}
+
+.history table td {
+    padding: 0.3rem;
+}
+
+.unknown {
+    background-color: #aaa;
+}
+
+.confirmed {
+    background-color: lime;
+}
+
+.guaranteed {
+    background-color: blue;
+    color: white;
+}
+
+.possible {
+    background-color: yellow;
+}
+
+.not-available {
+    background-color: red;
+}
+
+.no {
+    background-color: #333;
+    color: white;
+}
+
+/** GAME SPECIFIC **/
+/* Sword & Shield */
+.swsh-base {
+    background-color: #22acff;
+}
+.swsh-armor {
+    background-color: #dfdf41;
+}
+
+.swsh-crown {
+    background-color: #2bb673;
+}
+
+.swsh-other {
+    background-color: #ff2a6e;
+}

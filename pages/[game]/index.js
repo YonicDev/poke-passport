@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import {Table, BriefSummary, Legend} from '../../components/Table'
 
 export default function List({pokemonList, game}) {
@@ -27,7 +28,7 @@ export default function List({pokemonList, game}) {
         visc: "This webpage can help you know if you can transfer your Pokémon to the new region."
     };
     const headsups = {
-        swsh: <p>This is a comprehensive list of all the Pokémon that can be transfered to Pokémon Sword and Pokémon Shield. <br/><b>Note that you don't need the Expansion Pass</b> to transfer Pokémon that were introduced after launch.</p>,
+        swsh: <p>This is a comprehensive list of all the Pokémon that can be transfered to Pokémon Sword and Pokémon Shield. <br/><b>Note that you don&apos;t need the Expansion Pass</b> to transfer Pokémon that were introduced after launch.</p>,
         visc: <p>This is a list of all the Pokémon that can be transfered to Pokémon Scarlet and Pokémon Violet, according to current information.</p>
     }
 
@@ -49,6 +50,11 @@ export default function List({pokemonList, game}) {
             <center>
                 <h1>{titles[game]}</h1>
                 {headsups[game]}
+                <nav>
+                    <Link href={`/${game}/rules`}><a>Rules</a></Link>&bull;
+                    <Link href={`/${game}/stats`}><a>Statistics</a></Link>&bull;
+                    <Link href="/"><a>Back to index</a></Link>
+                </nav>
             </center>
             <Legend labels={labels[game]} />
             <BriefSummary statusLabels={labels[game]}/>
@@ -75,7 +81,6 @@ export async function getStaticProps({params}) {
         props: {
             pokemonList,
             game: params.game
-        },
-        revalidate: 30
+        }
     }
 }

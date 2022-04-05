@@ -4,5662 +4,6471 @@
         "name": "Bulbasaur",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ivysaur",
         "name": "Ivysaur",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "venusaur",
         "name": "Venusaur",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "charmander",
         "name": "Charmander",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "charmeleon",
         "name": "Charmeleon",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "charizard",
         "name": "Charizard",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "squirtle",
         "name": "Squirtle",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wartortle",
         "name": "Wartortle",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "blastoise",
         "name": "Blastoise",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "caterpie",
         "name": "Caterpie",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "metapod",
         "name": "Metapod",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "butterfree",
         "name": "Butterfree",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "weedle",
         "name": "Weedle",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kakuna",
         "name": "Kakuna",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "beedrill",
         "name": "Beedrill",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pidgey",
         "name": "Pidgey",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pidgeotto",
         "name": "Pidgeotto",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pidgeot",
         "name": "Pidgeot",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rattata",
         "name": "Rattata",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "raticate",
         "name": "Raticate",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spearow",
         "name": "Spearow",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fearow",
         "name": "Fearow",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ekans",
         "name": "Ekans",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "arbok",
         "name": "Arbok",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pikachu",
         "name": "Pikachu",
         "status": "base",
-        "details": "",
-        "history": []
+        "details": "Cosplay Pikachu can't be transfered, but the ones wearing Ash's hats can.",
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "raichu",
         "name": "Raichu",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sandshrew",
         "name": "Sandshrew",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sandslash",
         "name": "Sandslash",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidoran-f",
         "name": "Nidoran♀",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidorina",
         "name": "Nidorina",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidoqueen",
         "name": "Nidoqueen",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidoran-m",
         "name": "Nidoran♂",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidorino",
         "name": "Nidorino",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nidoking",
         "name": "Nidoking",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "clefairy",
         "name": "Clefairy",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "clefable",
         "name": "Clefable",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vulpix",
         "name": "Vulpix",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ninetales",
         "name": "Ninetales",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jigglypuff",
         "name": "Jigglypuff",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wigglytuff",
         "name": "Wigglytuff",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zubat",
         "name": "Zubat",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golbat",
         "name": "Golbat",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "oddish",
         "name": "Oddish",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gloom",
         "name": "Gloom",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vileplume",
         "name": "Vileplume",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "paras",
         "name": "Paras",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "parasect",
         "name": "Parasect",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "venonat",
         "name": "Venonat",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "venomoth",
         "name": "Venomoth",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "diglett",
         "name": "Diglett",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dugtrio",
         "name": "Dugtrio",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meowth",
         "name": "Meowth",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "persian",
         "name": "Persian",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "psyduck",
         "name": "Psyduck",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golduck",
         "name": "Golduck",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mankey",
         "name": "Mankey",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "primeape",
         "name": "Primeape",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "growlithe",
         "name": "Growlithe",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "arcanine",
         "name": "Arcanine",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "poliwag",
         "name": "Poliwag",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "poliwhirl",
         "name": "Poliwhirl",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "poliwrath",
         "name": "Poliwrath",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "abra",
         "name": "Abra",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kadabra",
         "name": "Kadabra",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "alakazam",
         "name": "Alakazam",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "machop",
         "name": "Machop",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "machoke",
         "name": "Machoke",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "machamp",
         "name": "Machamp",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bellsprout",
         "name": "Bellsprout",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "weepinbell",
         "name": "Weepinbell",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "victreebel",
         "name": "Victreebel",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tentacool",
         "name": "Tentacool",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tentacruel",
         "name": "Tentacruel",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "geodude",
         "name": "Geodude",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "graveler",
         "name": "Graveler",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golem",
         "name": "Golem",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ponyta",
         "name": "Ponyta",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rapidash",
         "name": "Rapidash",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slowpoke",
         "name": "Slowpoke",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slowbro",
         "name": "Slowbro",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magnemite",
         "name": "Magnemite",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magneton",
         "name": "Magneton",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "farfetchd",
         "name": "Farfetch’d",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "doduo",
         "name": "Doduo",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dodrio",
         "name": "Dodrio",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seel",
         "name": "Seel",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dewgong",
         "name": "Dewgong",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "grimer",
         "name": "Grimer",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "muk",
         "name": "Muk",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shellder",
         "name": "Shellder",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cloyster",
         "name": "Cloyster",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gastly",
         "name": "Gastly",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "haunter",
         "name": "Haunter",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gengar",
         "name": "Gengar",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "onix",
         "name": "Onix",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drowzee",
         "name": "Drowzee",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hypno",
         "name": "Hypno",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "krabby",
         "name": "Krabby",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kingler",
         "name": "Kingler",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "voltorb",
         "name": "Voltorb",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "electrode",
         "name": "Electrode",
         "status": "no",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "exeggcute",
         "name": "Exeggcute",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "exeggutor",
         "name": "Exeggutor",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cubone",
         "name": "Cubone",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "marowak",
         "name": "Marowak",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hitmonlee",
         "name": "Hitmonlee",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hitmonchan",
         "name": "Hitmonchan",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lickitung",
         "name": "Lickitung",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "koffing",
         "name": "Koffing",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "weezing",
         "name": "Weezing",
         "status": "armor",
         "details": "Even though there is a Galarian form, the form from Kanto couldn't be transfered until Isle of Armor.",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rhyhorn",
         "name": "Rhyhorn",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rhydon",
         "name": "Rhydon",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chansey",
         "name": "Chansey",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tangela",
         "name": "Tangela",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kangaskhan",
         "name": "Kangaskhan",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "horsea",
         "name": "Horsea",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seadra",
         "name": "Seadra",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "goldeen",
         "name": "Goldeen",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seaking",
         "name": "Seaking",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "staryu",
         "name": "Staryu",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "starmie",
         "name": "Starmie",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mr-mime",
         "name": "Mr. Mime",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scyther",
         "name": "Scyther",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jynx",
         "name": "Jynx",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "electabuzz",
         "name": "Electabuzz",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magmar",
         "name": "Magmar",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pinsir",
         "name": "Pinsir",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tauros",
         "name": "Tauros",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magikarp",
         "name": "Magikarp",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gyarados",
         "name": "Gyarados",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lapras",
         "name": "Lapras",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ditto",
         "name": "Ditto",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "eevee",
         "name": "Eevee",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vaporeon",
         "name": "Vaporeon",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jolteon",
         "name": "Jolteon",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "flareon",
         "name": "Flareon",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "porygon",
         "name": "Porygon",
         "status": "armor",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "omanyte",
         "name": "Omanyte",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "omastar",
         "name": "Omastar",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kabuto",
         "name": "Kabuto",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kabutops",
         "name": "Kabutops",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aerodactyl",
         "name": "Aerodactyl",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "snorlax",
         "name": "Snorlax",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "articuno",
         "name": "Articuno",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zapdos",
         "name": "Zapdos",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "moltres",
         "name": "Moltres",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dratini",
         "name": "Dratini",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dragonair",
         "name": "Dragonair",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dragonite",
         "name": "Dragonite",
         "status": "crown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mewtwo",
         "name": "Mewtwo",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mew",
         "name": "Mew",
         "status": "base",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chikorita",
         "name": "Chikorita",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bayleef",
         "name": "Bayleef",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meganium",
         "name": "Meganium",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cyndaquil",
         "name": "Cyndaquil",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "quilava",
         "name": "Quilava",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "typhlosion",
         "name": "Typhlosion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "totodile",
         "name": "Totodile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "croconaw",
         "name": "Croconaw",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "feraligatr",
         "name": "Feraligatr",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sentret",
         "name": "Sentret",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "furret",
         "name": "Furret",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hoothoot",
         "name": "Hoothoot",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "noctowl",
         "name": "Noctowl",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ledyba",
         "name": "Ledyba",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ledian",
         "name": "Ledian",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spinarak",
         "name": "Spinarak",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ariados",
         "name": "Ariados",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "crobat",
         "name": "Crobat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chinchou",
         "name": "Chinchou",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lanturn",
         "name": "Lanturn",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pichu",
         "name": "Pichu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cleffa",
         "name": "Cleffa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "igglybuff",
         "name": "Igglybuff",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "togepi",
         "name": "Togepi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "togetic",
         "name": "Togetic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "natu",
         "name": "Natu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "xatu",
         "name": "Xatu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mareep",
         "name": "Mareep",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "flaaffy",
         "name": "Flaaffy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ampharos",
         "name": "Ampharos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bellossom",
         "name": "Bellossom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "marill",
         "name": "Marill",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "azumarill",
         "name": "Azumarill",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sudowoodo",
         "name": "Sudowoodo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "politoed",
         "name": "Politoed",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hoppip",
         "name": "Hoppip",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skiploom",
         "name": "Skiploom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jumpluff",
         "name": "Jumpluff",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aipom",
         "name": "Aipom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sunkern",
         "name": "Sunkern",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sunflora",
         "name": "Sunflora",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "yanma",
         "name": "Yanma",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wooper",
         "name": "Wooper",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "quagsire",
         "name": "Quagsire",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "espeon",
         "name": "Espeon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "umbreon",
         "name": "Umbreon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "murkrow",
         "name": "Murkrow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slowking",
         "name": "Slowking",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "misdreavus",
         "name": "Misdreavus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "unown",
         "name": "Unown",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wobbuffet",
         "name": "Wobbuffet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "girafarig",
         "name": "Girafarig",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pineco",
         "name": "Pineco",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "forretress",
         "name": "Forretress",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dunsparce",
         "name": "Dunsparce",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gligar",
         "name": "Gligar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "steelix",
         "name": "Steelix",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "snubbull",
         "name": "Snubbull",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "granbull",
         "name": "Granbull",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "qwilfish",
         "name": "Qwilfish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scizor",
         "name": "Scizor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shuckle",
         "name": "Shuckle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "heracross",
         "name": "Heracross",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sneasel",
         "name": "Sneasel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "teddiursa",
         "name": "Teddiursa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ursaring",
         "name": "Ursaring",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slugma",
         "name": "Slugma",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magcargo",
         "name": "Magcargo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swinub",
         "name": "Swinub",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "piloswine",
         "name": "Piloswine",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "corsola",
         "name": "Corsola",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "remoraid",
         "name": "Remoraid",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "octillery",
         "name": "Octillery",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "delibird",
         "name": "Delibird",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mantine",
         "name": "Mantine",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skarmory",
         "name": "Skarmory",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "houndour",
         "name": "Houndour",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "houndoom",
         "name": "Houndoom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kingdra",
         "name": "Kingdra",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "phanpy",
         "name": "Phanpy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "donphan",
         "name": "Donphan",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "porygon2",
         "name": "Porygon2",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stantler",
         "name": "Stantler",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "smeargle",
         "name": "Smeargle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tyrogue",
         "name": "Tyrogue",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hitmontop",
         "name": "Hitmontop",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "smoochum",
         "name": "Smoochum",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "elekid",
         "name": "Elekid",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magby",
         "name": "Magby",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "miltank",
         "name": "Miltank",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "blissey",
         "name": "Blissey",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "raikou",
         "name": "Raikou",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "entei",
         "name": "Entei",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "suicune",
         "name": "Suicune",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "larvitar",
         "name": "Larvitar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pupitar",
         "name": "Pupitar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tyranitar",
         "name": "Tyranitar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lugia",
         "name": "Lugia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ho-oh",
         "name": "Ho-Oh",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "celebi",
         "name": "Celebi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "treecko",
         "name": "Treecko",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "grovyle",
         "name": "Grovyle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sceptile",
         "name": "Sceptile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "torchic",
         "name": "Torchic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "combusken",
         "name": "Combusken",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "blaziken",
         "name": "Blaziken",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mudkip",
         "name": "Mudkip",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "marshtomp",
         "name": "Marshtomp",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swampert",
         "name": "Swampert",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "poochyena",
         "name": "Poochyena",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mightyena",
         "name": "Mightyena",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zigzagoon",
         "name": "Zigzagoon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "linoone",
         "name": "Linoone",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wurmple",
         "name": "Wurmple",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "silcoon",
         "name": "Silcoon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "beautifly",
         "name": "Beautifly",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cascoon",
         "name": "Cascoon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dustox",
         "name": "Dustox",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lotad",
         "name": "Lotad",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lombre",
         "name": "Lombre",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ludicolo",
         "name": "Ludicolo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seedot",
         "name": "Seedot",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nuzleaf",
         "name": "Nuzleaf",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shiftry",
         "name": "Shiftry",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "taillow",
         "name": "Taillow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swellow",
         "name": "Swellow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wingull",
         "name": "Wingull",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pelipper",
         "name": "Pelipper",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ralts",
         "name": "Ralts",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kirlia",
         "name": "Kirlia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gardevoir",
         "name": "Gardevoir",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "surskit",
         "name": "Surskit",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "masquerain",
         "name": "Masquerain",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shroomish",
         "name": "Shroomish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "breloom",
         "name": "Breloom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slakoth",
         "name": "Slakoth",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vigoroth",
         "name": "Vigoroth",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slaking",
         "name": "Slaking",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nincada",
         "name": "Nincada",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ninjask",
         "name": "Ninjask",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shedinja",
         "name": "Shedinja",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "whismur",
         "name": "Whismur",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "loudred",
         "name": "Loudred",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "exploud",
         "name": "Exploud",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "makuhita",
         "name": "Makuhita",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hariyama",
         "name": "Hariyama",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "azurill",
         "name": "Azurill",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nosepass",
         "name": "Nosepass",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skitty",
         "name": "Skitty",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "delcatty",
         "name": "Delcatty",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sableye",
         "name": "Sableye",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mawile",
         "name": "Mawile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aron",
         "name": "Aron",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lairon",
         "name": "Lairon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aggron",
         "name": "Aggron",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meditite",
         "name": "Meditite",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "medicham",
         "name": "Medicham",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "electrike",
         "name": "Electrike",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "manectric",
         "name": "Manectric",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "plusle",
         "name": "Plusle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "minun",
         "name": "Minun",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "volbeat",
         "name": "Volbeat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "illumise",
         "name": "Illumise",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "roselia",
         "name": "Roselia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gulpin",
         "name": "Gulpin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swalot",
         "name": "Swalot",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "carvanha",
         "name": "Carvanha",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sharpedo",
         "name": "Sharpedo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wailmer",
         "name": "Wailmer",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wailord",
         "name": "Wailord",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "numel",
         "name": "Numel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "camerupt",
         "name": "Camerupt",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "torkoal",
         "name": "Torkoal",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spoink",
         "name": "Spoink",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "grumpig",
         "name": "Grumpig",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spinda",
         "name": "Spinda",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "trapinch",
         "name": "Trapinch",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vibrava",
         "name": "Vibrava",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "flygon",
         "name": "Flygon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cacnea",
         "name": "Cacnea",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cacturne",
         "name": "Cacturne",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swablu",
         "name": "Swablu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "altaria",
         "name": "Altaria",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zangoose",
         "name": "Zangoose",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seviper",
         "name": "Seviper",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lunatone",
         "name": "Lunatone",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "solrock",
         "name": "Solrock",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "barboach",
         "name": "Barboach",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "whiscash",
         "name": "Whiscash",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "corphish",
         "name": "Corphish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "crawdaunt",
         "name": "Crawdaunt",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "baltoy",
         "name": "Baltoy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "claydol",
         "name": "Claydol",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lileep",
         "name": "Lileep",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cradily",
         "name": "Cradily",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "anorith",
         "name": "Anorith",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "armaldo",
         "name": "Armaldo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "feebas",
         "name": "Feebas",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "milotic",
         "name": "Milotic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "castform",
         "name": "Castform",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kecleon",
         "name": "Kecleon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shuppet",
         "name": "Shuppet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "banette",
         "name": "Banette",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "duskull",
         "name": "Duskull",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dusclops",
         "name": "Dusclops",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tropius",
         "name": "Tropius",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chimecho",
         "name": "Chimecho",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "absol",
         "name": "Absol",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wynaut",
         "name": "Wynaut",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "snorunt",
         "name": "Snorunt",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "glalie",
         "name": "Glalie",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spheal",
         "name": "Spheal",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sealeo",
         "name": "Sealeo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "walrein",
         "name": "Walrein",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "clamperl",
         "name": "Clamperl",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "huntail",
         "name": "Huntail",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gorebyss",
         "name": "Gorebyss",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "relicanth",
         "name": "Relicanth",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "luvdisc",
         "name": "Luvdisc",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bagon",
         "name": "Bagon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shelgon",
         "name": "Shelgon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "salamence",
         "name": "Salamence",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "beldum",
         "name": "Beldum",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "metang",
         "name": "Metang",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "metagross",
         "name": "Metagross",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "regirock",
         "name": "Regirock",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "regice",
         "name": "Regice",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "registeel",
         "name": "Registeel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "latias",
         "name": "Latias",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "latios",
         "name": "Latios",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kyogre",
         "name": "Kyogre",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "groudon",
         "name": "Groudon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rayquaza",
         "name": "Rayquaza",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jirachi",
         "name": "Jirachi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "deoxys",
         "name": "Deoxys",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "turtwig",
         "name": "Turtwig",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "grotle",
         "name": "Grotle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "torterra",
         "name": "Torterra",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chimchar",
         "name": "Chimchar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "monferno",
         "name": "Monferno",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "infernape",
         "name": "Infernape",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "piplup",
         "name": "Piplup",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "prinplup",
         "name": "Prinplup",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "empoleon",
         "name": "Empoleon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "starly",
         "name": "Starly",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "staravia",
         "name": "Staravia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "staraptor",
         "name": "Staraptor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bidoof",
         "name": "Bidoof",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bibarel",
         "name": "Bibarel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kricketot",
         "name": "Kricketot",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kricketune",
         "name": "Kricketune",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shinx",
         "name": "Shinx",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "luxio",
         "name": "Luxio",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "luxray",
         "name": "Luxray",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "budew",
         "name": "Budew",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "roserade",
         "name": "Roserade",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cranidos",
         "name": "Cranidos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rampardos",
         "name": "Rampardos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shieldon",
         "name": "Shieldon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bastiodon",
         "name": "Bastiodon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "burmy",
         "name": "Burmy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wormadam",
         "name": "Wormadam",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mothim",
         "name": "Mothim",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "combee",
         "name": "Combee",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vespiquen",
         "name": "Vespiquen",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pachirisu",
         "name": "Pachirisu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "buizel",
         "name": "Buizel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "floatzel",
         "name": "Floatzel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cherubi",
         "name": "Cherubi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cherrim",
         "name": "Cherrim",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shellos",
         "name": "Shellos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gastrodon",
         "name": "Gastrodon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ambipom",
         "name": "Ambipom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drifloon",
         "name": "Drifloon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drifblim",
         "name": "Drifblim",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "buneary",
         "name": "Buneary",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lopunny",
         "name": "Lopunny",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mismagius",
         "name": "Mismagius",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "honchkrow",
         "name": "Honchkrow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "glameow",
         "name": "Glameow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "purugly",
         "name": "Purugly",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chingling",
         "name": "Chingling",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stunky",
         "name": "Stunky",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skuntank",
         "name": "Skuntank",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bronzor",
         "name": "Bronzor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bronzong",
         "name": "Bronzong",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bonsly",
         "name": "Bonsly",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mime-jr",
         "name": "Mime Jr.",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "happiny",
         "name": "Happiny",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chatot",
         "name": "Chatot",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spiritomb",
         "name": "Spiritomb",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gible",
         "name": "Gible",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gabite",
         "name": "Gabite",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "garchomp",
         "name": "Garchomp",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "munchlax",
         "name": "Munchlax",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "riolu",
         "name": "Riolu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lucario",
         "name": "Lucario",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hippopotas",
         "name": "Hippopotas",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hippowdon",
         "name": "Hippowdon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skorupi",
         "name": "Skorupi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drapion",
         "name": "Drapion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "croagunk",
         "name": "Croagunk",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "toxicroak",
         "name": "Toxicroak",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "carnivine",
         "name": "Carnivine",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "finneon",
         "name": "Finneon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lumineon",
         "name": "Lumineon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mantyke",
         "name": "Mantyke",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "snover",
         "name": "Snover",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "abomasnow",
         "name": "Abomasnow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "weavile",
         "name": "Weavile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magnezone",
         "name": "Magnezone",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lickilicky",
         "name": "Lickilicky",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rhyperior",
         "name": "Rhyperior",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tangrowth",
         "name": "Tangrowth",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "electivire",
         "name": "Electivire",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magmortar",
         "name": "Magmortar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "togekiss",
         "name": "Togekiss",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "yanmega",
         "name": "Yanmega",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "leafeon",
         "name": "Leafeon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "glaceon",
         "name": "Glaceon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gliscor",
         "name": "Gliscor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mamoswine",
         "name": "Mamoswine",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "porygon-z",
         "name": "Porygon-Z",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gallade",
         "name": "Gallade",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "probopass",
         "name": "Probopass",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dusknoir",
         "name": "Dusknoir",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "froslass",
         "name": "Froslass",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rotom",
         "name": "Rotom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "uxie",
         "name": "Uxie",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mesprit",
         "name": "Mesprit",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "azelf",
         "name": "Azelf",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dialga",
         "name": "Dialga",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "palkia",
         "name": "Palkia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "heatran",
         "name": "Heatran",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "regigigas",
         "name": "Regigigas",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "giratina",
         "name": "Giratina",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cresselia",
         "name": "Cresselia",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "phione",
         "name": "Phione",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "manaphy",
         "name": "Manaphy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "darkrai",
         "name": "Darkrai",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shaymin",
         "name": "Shaymin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "arceus",
         "name": "Arceus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "victini",
         "name": "Victini",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "snivy",
         "name": "Snivy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "servine",
         "name": "Servine",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "serperior",
         "name": "Serperior",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tepig",
         "name": "Tepig",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pignite",
         "name": "Pignite",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "emboar",
         "name": "Emboar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "oshawott",
         "name": "Oshawott",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dewott",
         "name": "Dewott",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "samurott",
         "name": "Samurott",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "patrat",
         "name": "Patrat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "watchog",
         "name": "Watchog",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lillipup",
         "name": "Lillipup",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "herdier",
         "name": "Herdier",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stoutland",
         "name": "Stoutland",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "purrloin",
         "name": "Purrloin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "liepard",
         "name": "Liepard",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pansage",
         "name": "Pansage",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "simisage",
         "name": "Simisage",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pansear",
         "name": "Pansear",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "simisear",
         "name": "Simisear",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "panpour",
         "name": "Panpour",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "simipour",
         "name": "Simipour",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "munna",
         "name": "Munna",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "musharna",
         "name": "Musharna",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pidove",
         "name": "Pidove",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tranquill",
         "name": "Tranquill",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "unfezant",
         "name": "Unfezant",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "blitzle",
         "name": "Blitzle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zebstrika",
         "name": "Zebstrika",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "roggenrola",
         "name": "Roggenrola",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "boldore",
         "name": "Boldore",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gigalith",
         "name": "Gigalith",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "woobat",
         "name": "Woobat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swoobat",
         "name": "Swoobat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drilbur",
         "name": "Drilbur",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "excadrill",
         "name": "Excadrill",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "audino",
         "name": "Audino",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "timburr",
         "name": "Timburr",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gurdurr",
         "name": "Gurdurr",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "conkeldurr",
         "name": "Conkeldurr",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tympole",
         "name": "Tympole",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "palpitoad",
         "name": "Palpitoad",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "seismitoad",
         "name": "Seismitoad",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "throh",
         "name": "Throh",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sawk",
         "name": "Sawk",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sewaddle",
         "name": "Sewaddle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swadloon",
         "name": "Swadloon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "leavanny",
         "name": "Leavanny",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "venipede",
         "name": "Venipede",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "whirlipede",
         "name": "Whirlipede",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scolipede",
         "name": "Scolipede",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cottonee",
         "name": "Cottonee",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "whimsicott",
         "name": "Whimsicott",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "petilil",
         "name": "Petilil",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lilligant",
         "name": "Lilligant",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "basculin",
         "name": "Basculin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sandile",
         "name": "Sandile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "krokorok",
         "name": "Krokorok",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "krookodile",
         "name": "Krookodile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "darumaka",
         "name": "Darumaka",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "darmanitan",
         "name": "Darmanitan",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "maractus",
         "name": "Maractus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dwebble",
         "name": "Dwebble",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "crustle",
         "name": "Crustle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scraggy",
         "name": "Scraggy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scrafty",
         "name": "Scrafty",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sigilyph",
         "name": "Sigilyph",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "yamask",
         "name": "Yamask",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cofagrigus",
         "name": "Cofagrigus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tirtouga",
         "name": "Tirtouga",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "carracosta",
         "name": "Carracosta",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "archen",
         "name": "Archen",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "archeops",
         "name": "Archeops",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "trubbish",
         "name": "Trubbish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "garbodor",
         "name": "Garbodor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zorua",
         "name": "Zorua",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zoroark",
         "name": "Zoroark",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "minccino",
         "name": "Minccino",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cinccino",
         "name": "Cinccino",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gothita",
         "name": "Gothita",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gothorita",
         "name": "Gothorita",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gothitelle",
         "name": "Gothitelle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "solosis",
         "name": "Solosis",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "duosion",
         "name": "Duosion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "reuniclus",
         "name": "Reuniclus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ducklett",
         "name": "Ducklett",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swanna",
         "name": "Swanna",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vanillite",
         "name": "Vanillite",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vanillish",
         "name": "Vanillish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vanilluxe",
         "name": "Vanilluxe",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "deerling",
         "name": "Deerling",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sawsbuck",
         "name": "Sawsbuck",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "emolga",
         "name": "Emolga",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "karrablast",
         "name": "Karrablast",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "escavalier",
         "name": "Escavalier",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "foongus",
         "name": "Foongus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "amoonguss",
         "name": "Amoonguss",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "frillish",
         "name": "Frillish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jellicent",
         "name": "Jellicent",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "alomomola",
         "name": "Alomomola",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "joltik",
         "name": "Joltik",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "galvantula",
         "name": "Galvantula",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ferroseed",
         "name": "Ferroseed",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ferrothorn",
         "name": "Ferrothorn",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "klink",
         "name": "Klink",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "klang",
         "name": "Klang",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "klinklang",
         "name": "Klinklang",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tynamo",
         "name": "Tynamo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "eelektrik",
         "name": "Eelektrik",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "eelektross",
         "name": "Eelektross",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "elgyem",
         "name": "Elgyem",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "beheeyem",
         "name": "Beheeyem",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "litwick",
         "name": "Litwick",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lampent",
         "name": "Lampent",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chandelure",
         "name": "Chandelure",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "axew",
         "name": "Axew",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fraxure",
         "name": "Fraxure",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "haxorus",
         "name": "Haxorus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cubchoo",
         "name": "Cubchoo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "beartic",
         "name": "Beartic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cryogonal",
         "name": "Cryogonal",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shelmet",
         "name": "Shelmet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "accelgor",
         "name": "Accelgor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stunfisk",
         "name": "Stunfisk",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mienfoo",
         "name": "Mienfoo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mienshao",
         "name": "Mienshao",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "druddigon",
         "name": "Druddigon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golett",
         "name": "Golett",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golurk",
         "name": "Golurk",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pawniard",
         "name": "Pawniard",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bisharp",
         "name": "Bisharp",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bouffalant",
         "name": "Bouffalant",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rufflet",
         "name": "Rufflet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "braviary",
         "name": "Braviary",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vullaby",
         "name": "Vullaby",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mandibuzz",
         "name": "Mandibuzz",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "heatmor",
         "name": "Heatmor",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "durant",
         "name": "Durant",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "deino",
         "name": "Deino",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zweilous",
         "name": "Zweilous",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hydreigon",
         "name": "Hydreigon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "larvesta",
         "name": "Larvesta",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "volcarona",
         "name": "Volcarona",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cobalion",
         "name": "Cobalion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "terrakion",
         "name": "Terrakion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "virizion",
         "name": "Virizion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tornadus",
         "name": "Tornadus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "thundurus",
         "name": "Thundurus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "reshiram",
         "name": "Reshiram",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zekrom",
         "name": "Zekrom",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "landorus",
         "name": "Landorus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kyurem",
         "name": "Kyurem",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "keldeo",
         "name": "Keldeo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meloetta",
         "name": "Meloetta",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "genesect",
         "name": "Genesect",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chespin",
         "name": "Chespin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "quilladin",
         "name": "Quilladin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "chesnaught",
         "name": "Chesnaught",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fennekin",
         "name": "Fennekin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "braixen",
         "name": "Braixen",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "delphox",
         "name": "Delphox",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "froakie",
         "name": "Froakie",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "frogadier",
         "name": "Frogadier",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "greninja",
         "name": "Greninja",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bunnelby",
         "name": "Bunnelby",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "diggersby",
         "name": "Diggersby",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fletchling",
         "name": "Fletchling",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fletchinder",
         "name": "Fletchinder",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "talonflame",
         "name": "Talonflame",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "scatterbug",
         "name": "Scatterbug",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spewpa",
         "name": "Spewpa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vivillon",
         "name": "Vivillon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "litleo",
         "name": "Litleo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pyroar",
         "name": "Pyroar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "flabebe",
         "name": "Flabébé",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "floette",
         "name": "Floette",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "florges",
         "name": "Florges",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skiddo",
         "name": "Skiddo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gogoat",
         "name": "Gogoat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pancham",
         "name": "Pancham",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pangoro",
         "name": "Pangoro",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "furfrou",
         "name": "Furfrou",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "espurr",
         "name": "Espurr",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meowstic",
         "name": "Meowstic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "honedge",
         "name": "Honedge",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "doublade",
         "name": "Doublade",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aegislash",
         "name": "Aegislash",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "spritzee",
         "name": "Spritzee",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aromatisse",
         "name": "Aromatisse",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "swirlix",
         "name": "Swirlix",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "slurpuff",
         "name": "Slurpuff",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "inkay",
         "name": "Inkay",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "malamar",
         "name": "Malamar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "binacle",
         "name": "Binacle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "barbaracle",
         "name": "Barbaracle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "skrelp",
         "name": "Skrelp",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dragalge",
         "name": "Dragalge",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "clauncher",
         "name": "Clauncher",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "clawitzer",
         "name": "Clawitzer",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "helioptile",
         "name": "Helioptile",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "heliolisk",
         "name": "Heliolisk",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tyrunt",
         "name": "Tyrunt",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tyrantrum",
         "name": "Tyrantrum",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "amaura",
         "name": "Amaura",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "aurorus",
         "name": "Aurorus",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sylveon",
         "name": "Sylveon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hawlucha",
         "name": "Hawlucha",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dedenne",
         "name": "Dedenne",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "carbink",
         "name": "Carbink",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "goomy",
         "name": "Goomy",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sliggoo",
         "name": "Sliggoo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "goodra",
         "name": "Goodra",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "klefki",
         "name": "Klefki",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "phantump",
         "name": "Phantump",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "trevenant",
         "name": "Trevenant",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pumpkaboo",
         "name": "Pumpkaboo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gourgeist",
         "name": "Gourgeist",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bergmite",
         "name": "Bergmite",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "avalugg",
         "name": "Avalugg",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "noibat",
         "name": "Noibat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "noivern",
         "name": "Noivern",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "xerneas",
         "name": "Xerneas",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "yveltal",
         "name": "Yveltal",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zygarde",
         "name": "Zygarde",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "diancie",
         "name": "Diancie",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hoopa",
         "name": "Hoopa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "volcanion",
         "name": "Volcanion",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rowlet",
         "name": "Rowlet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dartrix",
         "name": "Dartrix",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "decidueye",
         "name": "Decidueye",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "litten",
         "name": "Litten",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "torracat",
         "name": "Torracat",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "incineroar",
         "name": "Incineroar",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "popplio",
         "name": "Popplio",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "brionne",
         "name": "Brionne",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "primarina",
         "name": "Primarina",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pikipek",
         "name": "Pikipek",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "trumbeak",
         "name": "Trumbeak",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "toucannon",
         "name": "Toucannon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "yungoos",
         "name": "Yungoos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "gumshoos",
         "name": "Gumshoos",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "grubbin",
         "name": "Grubbin",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "charjabug",
         "name": "Charjabug",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "vikavolt",
         "name": "Vikavolt",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "crabrawler",
         "name": "Crabrawler",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "crabominable",
         "name": "Crabominable",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "oricorio",
         "name": "Oricorio",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cutiefly",
         "name": "Cutiefly",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "ribombee",
         "name": "Ribombee",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "rockruff",
         "name": "Rockruff",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lycanroc",
         "name": "Lycanroc",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wishiwashi",
         "name": "Wishiwashi",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mareanie",
         "name": "Mareanie",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "toxapex",
         "name": "Toxapex",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mudbray",
         "name": "Mudbray",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mudsdale",
         "name": "Mudsdale",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dewpider",
         "name": "Dewpider",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "araquanid",
         "name": "Araquanid",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "fomantis",
         "name": "Fomantis",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lurantis",
         "name": "Lurantis",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "morelull",
         "name": "Morelull",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "shiinotic",
         "name": "Shiinotic",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "salandit",
         "name": "Salandit",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "salazzle",
         "name": "Salazzle",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stufful",
         "name": "Stufful",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bewear",
         "name": "Bewear",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bounsweet",
         "name": "Bounsweet",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "steenee",
         "name": "Steenee",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tsareena",
         "name": "Tsareena",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "comfey",
         "name": "Comfey",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "oranguru",
         "name": "Oranguru",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "passimian",
         "name": "Passimian",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "wimpod",
         "name": "Wimpod",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "golisopod",
         "name": "Golisopod",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "sandygast",
         "name": "Sandygast",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "palossand",
         "name": "Palossand",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pyukumuku",
         "name": "Pyukumuku",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "type-null",
         "name": "Type: Null",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "silvally",
         "name": "Silvally",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "minior",
         "name": "Minior",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "komala",
         "name": "Komala",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "turtonator",
         "name": "Turtonator",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "togedemaru",
         "name": "Togedemaru",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "mimikyu",
         "name": "Mimikyu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "bruxish",
         "name": "Bruxish",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "drampa",
         "name": "Drampa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "dhelmise",
         "name": "Dhelmise",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "jangmo-o",
         "name": "Jangmo-o",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "hakamo-o",
         "name": "Hakamo-o",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kommo-o",
         "name": "Kommo-o",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tapu-koko",
         "name": "Tapu Koko",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tapu-lele",
         "name": "Tapu Lele",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tapu-bulu",
         "name": "Tapu Bulu",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "tapu-fini",
         "name": "Tapu Fini",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cosmog",
         "name": "Cosmog",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "cosmoem",
         "name": "Cosmoem",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "solgaleo",
         "name": "Solgaleo",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "lunala",
         "name": "Lunala",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "nihilego",
         "name": "Nihilego",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "buzzwole",
         "name": "Buzzwole",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "pheromosa",
         "name": "Pheromosa",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "xurkitree",
         "name": "Xurkitree",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "celesteela",
         "name": "Celesteela",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "kartana",
         "name": "Kartana",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "guzzlord",
         "name": "Guzzlord",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "necrozma",
         "name": "Necrozma",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "magearna",
         "name": "Magearna",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "marshadow",
         "name": "Marshadow",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "poipole",
         "name": "Poipole",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "naganadel",
         "name": "Naganadel",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "stakataka",
         "name": "Stakataka",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "blacephalon",
         "name": "Blacephalon",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "zeraora",
         "name": "Zeraora",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "meltan",
         "name": "Meltan",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     },
     {
         "id": "melmetal",
         "name": "Melmetal",
         "status": "unknown",
         "details": "",
-        "history": []
+        "history": [],
+        "lastUpdate": "2022/4/5"
     }
 ]
