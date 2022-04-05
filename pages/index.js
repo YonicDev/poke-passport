@@ -14,9 +14,9 @@ export default function Home() {
         <h1>Welcome to Billdex!</h1>
         <b>Now including Pokémon Scarlet &amp; Violet!</b>
         <ul>
-            <li><Link href="about">About Billdex</Link></li>
-            <li><Link href="swsh/">Generation 8: Pokémon Sword &amp; Pokémon Shield</Link>.</li>
-            <li><Link href="visc/">Generation 9: Pokémon Scarlet &amp; Pokémon Violet</Link>.</li>
+            <li><Link href="/about">About Billdex</Link></li>
+            <li><Link href="/swsh/">Generation 8: Pokémon Sword &amp; Pokémon Shield</Link>.</li>
+            <li><Link href="/visc/">Generation 9: Pokémon Scarlet &amp; Pokémon Violet</Link>.</li>
         </ul>
     </div>
   )
