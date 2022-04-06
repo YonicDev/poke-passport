@@ -96,25 +96,36 @@ function NavigationLink({game, pokemon, number, direction}) {
         left: "←",
         right: "→",
     };
-
-    return (
-        <Link href={`/${game}/${pokemon.id}`} passHref>
-            <a className={styles.navPokemon}>
-                <div>
-                    <Image className={classNames(styles.navIcon,styles[pokemon.status])} layout="fixed" width="68" height="56" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
-                    <div>{directions[direction]} #{number} {pokemon.name}</div>
-                </div>
-            </a>
-        </Link>
-    )
+    const limits = {
+        left: "First Pokémon",
+        right: "Last Pokémon"
+    }
+    if(pokemon!=null)
+        return (
+            <Link href={`/${game}/${pokemon.id}`} passHref>
+                <a className={styles.navPokemon}>
+                    <div>
+                        <Image alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status])} layout="fixed" width="68" height="56" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
+                        <div>{directions[direction]} #{number} {pokemon.name}</div>
+                    </div>
+                </a>
+            </Link>
+        )
+    else
+        return (
+            <div className={styles.navPokemon}>
+                <Image alt="Unknown" className={classNames(styles.navIcon,styles.unknown)} layout="fixed" width="68" height="56" src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/unknown.png"/>
+                <div>{directions[direction]} {limits[direction]}</div>
+            </div>
+        )
 }
 
 export async function getStaticProps({params}) {
     const pokemonList = (await import (`../../data/${params.game}.json`)).default;
     const pokemon = pokemonList.find(pokemon => pokemon.id === params.pokemon);
     const ix = pokemonList.indexOf(pokemon);
-    const prevPokemon = pokemonList[ix-1];
-    const nextPokemon = pokemonList[ix+1];
+    const prevPokemon = pokemonList[ix-1] || null;
+    const nextPokemon = pokemonList[ix+1] || null;
     const mainNote = await serialize(pokemon.details || "No notes");
     const notes = await Promise.all(pokemon.history.map(async entry => {
         return serialize(entry.details || "No notes");

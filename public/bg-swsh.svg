@@ -1,10 +1,44 @@
-<svg id="Galar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289.3468 194">
-  <g style="opacity: 0.1">
-    <polygon points="219.347 23 69.347 173 69.347 23 219.347 23" style="fill: #fff"/>
-    <polygon points="69.347 173 219.347 23 219.347 173 69.347 173"/>
-  </g>
-  <g style="opacity: 0.25">
-    <polygon points="219.347 173 69.347 23 219.347 23 219.347 173" style="fill: #fff"/>
-    <polygon points="69.347 23 219.347 173 69.347 173 69.347 23"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre);
+        mix-blend-mode: overlay;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .25;
+      }
+
+      .cls-5 {
+        opacity: .1;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="75" y1="2.1176" x2="75" y2="144.1009" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g style="isolation: isolate;">
+    <g id="Galar">
+      <g style="opacity: .1;">
+        <polygon points="150 0 0 150 0 0 150 0" style="fill: #fff;"/>
+        <polygon points="0 150 150 0 150 150 0 150"/>
+      </g>
+      <g style="opacity: .25;">
+        <polygon points="150 150 0 0 150 0 150 150" style="fill: #fff;"/>
+        <polygon points="0 0 150 150 0 150 0 0"/>
+      </g>
+      <rect width="150" height="150" style="fill: url(#Degradado_sin_nombre); mix-blend-mode: overlay; opacity: .25;"/>
+    </g>
   </g>
 </svg>

@@ -35,17 +35,20 @@
 .iconContainer {
     grid-area: icon;
     border-right: 2px solid gray;
-    background-size: 260px;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .iconContainer.swsh {
-    background-image: url("/bg-swsh.svg");
+    background-image: url("/logo-swsh.svg"), url("/bg-swsh.svg");
+    background-size: 80px, 150px;
+    background-blend-mode: overlay, hard-light;
 }
 
 .iconContainer.visc {
-    background-image: url("/bg-visc.svg");
+    background-image: url("/logo-visc.svg"), url("/bg-visc.svg");
+    background-size: 90px, 150px;
+    background-blend-mode: overlay, multiply;
 }
 
 .status {
