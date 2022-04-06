@@ -210,7 +210,7 @@
         "name": "Raichu",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires Thunder Stone to be Available to be guaranteed.",
+        "details": "Requires Thunder Stone to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -1432,7 +1432,7 @@
         "name": "Pichu",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires breeding to be Available to be guaranteed.",
+        "details": "Requires breeding to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -3696,7 +3696,7 @@
         "name": "Happiny",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires breeding with incenses to be Available to be guaranteed.",
+        "details": "Requires breeding with incenses to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -3758,7 +3758,7 @@
         "name": "Riolu",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires breeding to be Available to be guaranteed.",
+        "details": "Requires breeding to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -3890,7 +3890,7 @@
         "name": "Magnezone",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires evolution via leveling up in a magnetic field to be Available to be guaranteed.",
+        "details": "Requires evolution via leveling up in a magnetic field to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -4598,7 +4598,7 @@
         "name": "Lilligant",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires Sun Stone to be Available to be guaranteed.",
+        "details": "Requires Sun Stone to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -6340,7 +6340,7 @@
         "name": "Tsareena",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires leveling up while knowing a move to be Available to be guaranteed.",
+        "details": "Requires leveling up while knowing a move to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -7146,7 +7146,7 @@
         "name": "Perrserker",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires Galarian-form exclusive evolutions to be Available to be guaranteed.",
+        "details": "Requires Galarian-form exclusive evolutions to be Assumed to be guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",

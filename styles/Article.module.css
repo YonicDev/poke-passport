@@ -2,3 +2,71 @@
     width: 100%;
     padding: 1rem;
 }
+
+.status {
+    text-align: center;
+    font-weight: bold;
+    padding: 0 1rem;
+}
+
+.articleTable {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #666;
+}
+
+.articleTable td, .articleTable th {
+    padding: 0.5rem;
+}
+
+.articleTable th {
+    background-color: #f0f0f0;
+}
+
+.articleTable td {
+    border: 1px solid #666;
+}
+
+.unknown {
+    background-color: #aaa;
+}
+
+.confirmed {
+    background-color: lime;
+}
+
+.guaranteed {
+    background-color: blue;
+    color: white;
+}
+
+.possible {
+    background-color: yellow;
+}
+
+.workaround {
+    background-color: red;
+}
+
+.no {
+    background-color: #333;
+    color: white;
+}
+
+/** GAME SPECIFIC **/
+/* Sword & Shield */
+.swsh-base {
+    background-color: #22acff;
+}
+.swsh-armor {
+    background-color: #dfdf41;
+}
+
+.swsh-crown {
+    background-color: #2bb673;
+}
+
+.swsh-other {
+    background-color: #ff2a6e;
+}
