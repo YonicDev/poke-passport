@@ -12,8 +12,14 @@ main {
 }
 
 a {
-  color: inherit;
+  color: #2990f0;
   text-decoration: none;
+  font-weight: 500;
+  transition: all 0.25s ease-out;
+}
+
+a:hover {
+  color: #3eb2ff;
 }
 
 * {
@@ -29,10 +35,15 @@ header {
   background-color: #25a8ff;
 }
 
-.navLogo {
+.siteHeader > .navLogo {
   font-size: 16pt;
   font-weight: bold;
   padding: 0.25rem 0;
+  color: #013558;
+}
+
+.siteHeader > .navLogo:hover {
+  color: #013558;
 }
 
 nav.headerNav {
@@ -42,7 +53,11 @@ nav.headerNav {
   width: 50%;
 }
 
-nav.headerNav > a {
+.siteHeader > a {
+  color: white;
+}
+
+.siteHeader > nav.headerNav > a {
   padding: 0.5rem;
   font-weight: bold;
   color: white;
@@ -51,13 +66,13 @@ nav.headerNav > a {
   width: 10em;
   text-align: center;
 }
-nav.headerNav > .swsh {
+.siteHeader > nav.headerNav > .swsh {
   border-radius: 1em;
   border-color: #38446b;
   background: rgb(254,17,152);
   background: linear-gradient(118deg, #fe1198 0%, #35b7ff 100%);
 }
-nav.headerNav > .visc {
+.siteHeader > nav.headerNav > .visc {
   border-radius: 1em;
   border-color: #ffe555;
   background: #ce3226;

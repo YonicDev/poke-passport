@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { MDXRemote } from 'next-mdx-remote';
 import classNames from 'classnames';
 import { addTrailingZeroes } from '../util.ts';
 import styles from '../styles/Table.module.css'
@@ -20,7 +21,7 @@ export function Table({pokemonList, game, onHighlight}) {
     )
 }
 
-export function BriefSummary({statusLabels}) {
+export function BriefSummary({statusLabels, notes}) {
     const [highlightedElement, setHighlightedElement] = useState({pokemon: null, index: -1});
     const {pokemon, index} = highlightedElement;
     const [position, setPosition] = useState({x: 0, y: 0});
@@ -53,7 +54,7 @@ export function BriefSummary({statusLabels}) {
                 <div className={styles.summaryName}>{pokemon.name}</div>
                 <div className={classNames(styles.summaryStatus,styles[pokemon.status],styles["swsh-"+pokemon.status])}>{statusLabels[pokemon.status]}</div>
             </div>
-            <div className={styles.summaryNotes}>{pokemon.details || "No notes"}</div>
+            <MDXRemote className={styles.summaryNotes} {...notes[highlightedElement.index-1]} />
             <div className={styles.summaryPrompt}>Click to read more</div>
         </div>
     )

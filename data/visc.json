@@ -3164,12 +3164,12 @@
         "name": "Starly",
         "status": "confirmed",
         "lastUpdated": "2022/4/5",
-        "details": "The first Pokémon shown in the teaser trailer. https://www.youtube.com/watch?v=G0Uc5YONuso",
+        "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso)",
         "history": [
             {
                 "date": "2022/2/27",
                 "status": "confirmed",
-                "details": "The first Pokémon shown in the teaser trailer. https://www.youtube.com/watch?v=G0Uc5YONuso"
+                "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso)"
             }
         ]
     },

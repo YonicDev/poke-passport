@@ -1,8 +1,10 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import { serialize } from 'next-mdx-remote/serialize'
+import { MDXRemote } from 'next-mdx-remote'
 import {Table, BriefSummary, Legend} from '../../components/Table'
 
-export default function List({pokemonList, game}) {
+export default function List({pokemonList, game, notes}) {
     const labels = {
         swsh: {
             base: 'Since launch',
@@ -57,7 +59,7 @@ export default function List({pokemonList, game}) {
                 </nav>
             </center>
             <Legend labels={labels[game]} />
-            <BriefSummary statusLabels={labels[game]}/>
+            <BriefSummary statusLabels={labels[game]} notes={notes}/>
             <Table game={game} pokemonList={pokemonList} onHighlight={setHighlightedPokemon}/>
         </div>
     )
@@ -77,10 +79,12 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params}) {
     const pokemonList = (await import (`../../data/${params.game}.json`)).default;
+    const notes = await Promise.all(pokemonList.map(async pokemon => serialize(pokemon.details || "No notes")));
     return {
         props: {
             pokemonList,
-            game: params.game
+            game: params.game,
+            notes
         }
     }
 }
