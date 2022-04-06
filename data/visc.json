@@ -1490,10 +1490,16 @@
     {
         "id": "hoppip",
         "name": "Hoppip",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "A flock can be seen on the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m17s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "skiploom",
@@ -3164,12 +3170,12 @@
         "name": "Starly",
         "status": "confirmed",
         "lastUpdated": "2022/4/5",
-        "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso)",
+        "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s)",
         "history": [
             {
                 "date": "2022/2/27",
                 "status": "confirmed",
-                "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso)"
+                "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s)"
             }
         ]
     },
