@@ -105,7 +105,7 @@ function NavigationLink({game, pokemon, number, direction}) {
             <Link href={`/${game}/${pokemon.id}`} passHref>
                 <a className={styles.navPokemon}>
                     <div>
-                        <Image alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status])} layout="fixed" width="68" height="56" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
+                        <Image alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status],styles[game+"-"+pokemon.status])} layout="fixed" width="68" height="56" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
                         <div>{directions[direction]} #{number} {pokemon.name}</div>
                     </div>
                 </a>
