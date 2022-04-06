@@ -1,43 +1,17 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import { MDXProvider } from '@mdx-js/react';
-import { MDXRemote } from 'next-mdx-remote';
-import { serialize } from 'next-mdx-remote/serialize';
-import styles from '../../../styles/Article.module.css';
+import dynamic from 'next/dynamic';
 
-export default function GameArticle({ article }) {
-    const components = {
-        a: props => <a {...props} target="_blank" rel="noreferrer" />,
-        Link
-    }
-    return (
-        <div className={styles.articleWrapper}>
-            <Head>
-                <title>{article.frontmatter.title} - Billdex</title>
-                <meta name="description" content={article.frontmatter.description} />
-            </Head>
-            <center><h1>{article.frontmatter.title}</h1></center>
-            <MDXProvider components={components}>
-                <MDXRemote {...article} />
-            </MDXProvider>
-        </div>
-    )
+export default function GameArticle({ article, game }) {
+    const Article = dynamic(() => import(`../../../articles/${game}/${article}.js`), { ssr: false });
+
+    return <Article />
 }
 
 export async function getStaticProps({params}) {
-    const fs = (await import('fs')).default;
-    const path = (await import('path')).default;
-    const promisify = (await import('util')).promisify;
-    const readFile = promisify(fs.readFile);
-
-    const {game, article} = params;
-    const filePath = path.join(process.cwd(), 'articles', game, article+'.mdx');
-    const rawMarkdown = await readFile(filePath, 'utf8');
-    const text = await serialize(rawMarkdown, {parseFrontmatter: true});
-
+    const {article, game} = params;
     return {
         props: {
-            article: text
+            article,
+            game
         }
     }
 }
@@ -57,7 +31,7 @@ export async function getStaticPaths() {
             return {
                 params: {
                     game: dir,
-                    article: article.replace(/\.mdx$/, '')
+                    article: article.replace(/\.js$/, '')
                 }
             }
         })
