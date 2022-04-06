@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { serialize } from 'next-mdx-remote/serialize'
-import { MDXRemote } from 'next-mdx-remote'
 import {Table, BriefSummary, Legend} from '../../components/Table'
 
 export default function List({pokemonList, game, notes}) {

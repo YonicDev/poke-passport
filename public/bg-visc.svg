@@ -1,0 +1,44 @@
+<svg id="New_Region" data-name="New Region" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150.0001 150.0001">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="0.0001" width="150" height="150" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" x1="-22.6733" y1="-16.9412" x2="-22.6733" y2="130.5921" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre-2" x1="26.3267" y1="-16.9412" x2="26.3267" y2="130.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-3" x1="75.3267" y1="-16.9412" x2="75.3267" y2="130.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-4" x1="124.3267" y1="-16.9412" x2="124.3267" y2="130.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-6" x1="173.3267" y1="-16.9412" x2="173.3267" y2="130.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-11" x1="-22.6733" y1="-17.9412" x2="-22.6733" y2="129.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-12" x1="26.3267" y1="-17.9412" x2="26.3267" y2="129.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-13" x1="75.3267" y1="-17.9412" x2="75.3267" y2="129.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-14" x1="124.3267" y1="-17.9412" x2="124.3267" y2="129.5921" xlink:href="#Degradado_sin_nombre"/>
+    <linearGradient id="Degradado_sin_nombre-16" x1="173.3267" y1="-17.9412" x2="173.3267" y2="129.5921" xlink:href="#Degradado_sin_nombre"/>
+  </defs>
+  <g style="opacity: 0.5">
+    <g style="clip-path: url(#clip-path)">
+      <polygon points="-22.673 -22.5 -69.347 24 24 24 -22.673 -22.5" style="fill: url(#Degradado_sin_nombre)"/>
+      <polygon points="26.327 23.5 -20.347 -23 73 -23 26.327 23.5" style="fill: url(#Degradado_sin_nombre-2)"/>
+      <polygon points="75.327 -22.5 28.653 24 122 24 75.327 -22.5" style="fill: url(#Degradado_sin_nombre-3)"/>
+      <polygon points="124.327 23.5 77.653 -23 171 -23 124.327 23.5" style="fill: url(#Degradado_sin_nombre-4)"/>
+      <polygon points="124.327 26.5 77.653 73 171 73 124.327 26.5" style="fill: url(#Degradado_sin_nombre-4)"/>
+      <polygon points="173.327 -22.5 126.653 24 220 24 173.327 -22.5" style="fill: url(#Degradado_sin_nombre-6)"/>
+      <polygon points="-22.673 72.5 -69.347 26 24 26 -22.673 72.5" style="fill: url(#Degradado_sin_nombre)"/>
+      <polygon points="26.327 26.5 -20.347 73 73 73 26.327 26.5" style="fill: url(#Degradado_sin_nombre-2)"/>
+      <polygon points="75.327 72.5 28.653 26 122 26 75.327 72.5" style="fill: url(#Degradado_sin_nombre-3)"/>
+      <polygon points="173.327 72.5 126.653 26 220 26 173.327 72.5" style="fill: url(#Degradado_sin_nombre-6)"/>
+      <polygon points="-22.673 75.5 -69.347 122 24 122 -22.673 75.5" style="fill: url(#Degradado_sin_nombre-11)"/>
+      <polygon points="26.327 121.5 -20.347 75 73 75 26.327 121.5" style="fill: url(#Degradado_sin_nombre-12)"/>
+      <polygon points="75.327 75.5 28.653 122 122 122 75.327 75.5" style="fill: url(#Degradado_sin_nombre-13)"/>
+      <polygon points="124.327 121.5 77.653 75 171 75 124.327 121.5" style="fill: url(#Degradado_sin_nombre-14)"/>
+      <polygon points="124.327 124.5 77.653 171 171 171 124.327 124.5" style="fill: url(#Degradado_sin_nombre-14)"/>
+      <polygon points="173.327 75.5 126.653 122 220 122 173.327 75.5" style="fill: url(#Degradado_sin_nombre-16)"/>
+      <polygon points="-22.673 170.5 -69.347 124 24 124 -22.673 170.5" style="fill: url(#Degradado_sin_nombre-11)"/>
+      <polygon points="26.327 124.5 -20.347 171 73 171 26.327 124.5" style="fill: url(#Degradado_sin_nombre-12)"/>
+      <polygon points="75.327 170.5 28.653 124 122 124 75.327 170.5" style="fill: url(#Degradado_sin_nombre-13)"/>
+      <polygon points="173.327 170.5 126.653 124 220 124 173.327 170.5" style="fill: url(#Degradado_sin_nombre-16)"/>
+    </g>
+  </g>
+</svg>

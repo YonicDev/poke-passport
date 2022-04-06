@@ -1,3 +1,9 @@
+.pageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .container {
     position: relative;
     width: 60%;
@@ -92,6 +98,16 @@
 
 .history table td {
     padding: 0.3rem;
+}
+
+.navPokemon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 12em;
+    height: 100%;
+    padding: 1rem;
 }
 
 .unknown {
