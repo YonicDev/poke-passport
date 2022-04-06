@@ -194,18 +194,30 @@
     {
         "id": "pikachu",
         "name": "Pikachu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "raichu",
         "name": "Raichu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires Thunder Stone to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "sandshrew",
@@ -410,34 +422,58 @@
     {
         "id": "meowth",
         "name": "Meowth",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m25s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "persian",
         "name": "Persian",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "psyduck",
         "name": "Psyduck",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m19s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "golduck",
         "name": "Golduck",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "mankey",
@@ -642,18 +678,30 @@
     {
         "id": "magnemite",
         "name": "Magnemite",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m39s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "magneton",
         "name": "Magneton",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "farfetchd",
@@ -898,10 +946,16 @@
     {
         "id": "chansey",
         "name": "Chansey",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "tangela",
@@ -1170,10 +1224,16 @@
     {
         "id": "dratini",
         "name": "Dratini",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "A fountain shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m44s) has a statue of Dratini at the top.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "dragonair",
@@ -1370,10 +1430,16 @@
     {
         "id": "pichu",
         "name": "Pichu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires breeding to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "cleffa",
@@ -1492,7 +1558,7 @@
         "name": "Hoppip",
         "status": "confirmed",
         "lastUpdated": "2022/4/6",
-        "details": "A flock can be seen on the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m17s)",
+        "details": "A flock can be seen on the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m17s).",
         "history": [
             {
                 "date": "2022/4/5",
@@ -1504,18 +1570,30 @@
     {
         "id": "skiploom",
         "name": "Skiploom",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "jumpluff",
         "name": "Jumpluff",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "aipom",
@@ -1936,10 +2014,16 @@
     {
         "id": "blissey",
         "name": "Blissey",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "raikou",
@@ -1968,26 +2052,44 @@
     {
         "id": "larvitar",
         "name": "Larvitar",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen shortly in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m38s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "pupitar",
         "name": "Pupitar",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "tyranitar",
         "name": "Tyranitar",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lugia",
@@ -2224,18 +2326,30 @@
     {
         "id": "wingull",
         "name": "Wingull",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "pelipper",
         "name": "Pelipper",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen in a beach in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m29s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "ralts",
@@ -2664,18 +2778,30 @@
     {
         "id": "swablu",
         "name": "Swablu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "altaria",
         "name": "Altaria",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "zangoose",
@@ -2688,10 +2814,16 @@
     {
         "id": "seviper",
         "name": "Seviper",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m37s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lunatone",
@@ -3170,30 +3302,42 @@
         "name": "Starly",
         "status": "confirmed",
         "lastUpdated": "2022/4/5",
-        "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s)",
+        "details": "A bunch of Starly are the first Pokémon shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s).",
         "history": [
             {
-                "date": "2022/2/27",
-                "status": "confirmed",
-                "details": "The first Pokémon shown in the [teaser trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s)"
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
             }
         ]
     },
     {
         "id": "staravia",
         "name": "Staravia",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "staraptor",
         "name": "Staraptor",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "bidoof",
@@ -3326,18 +3470,30 @@
     {
         "id": "combee",
         "name": "Combee",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen (one being female) in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m21s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "vespiquen",
         "name": "Vespiquen",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "pachirisu",
@@ -3406,18 +3562,30 @@
     {
         "id": "drifloon",
         "name": "Drifloon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m21s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "drifblim",
         "name": "Drifblim",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "buneary",
@@ -3526,10 +3694,16 @@
     {
         "id": "happiny",
         "name": "Happiny",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires breeding with incenses to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "chatot",
@@ -3582,18 +3756,30 @@
     {
         "id": "riolu",
         "name": "Riolu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires breeding to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lucario",
         "name": "Lucario",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m40s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hippopotas",
@@ -3702,10 +3888,16 @@
     {
         "id": "magnezone",
         "name": "Magnezone",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires evolution via leveling up in a magnetic field to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lickilicky",
@@ -4390,18 +4582,30 @@
     {
         "id": "petilil",
         "name": "Petilil",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Three are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m18s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lilligant",
         "name": "Lilligant",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires Sun Stone to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "basculin",
@@ -5542,18 +5746,30 @@
     {
         "id": "clauncher",
         "name": "Clauncher",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two can be seen in a beach in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m29s)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "clawitzer",
         "name": "Clawitzer",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "helioptile",
@@ -6094,26 +6310,44 @@
     {
         "id": "bounsweet",
         "name": "Bounsweet",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Two are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m18s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "steenee",
         "name": "Steenee",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/4/6",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "tsareena",
         "name": "Tsareena",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires leveling up while knowing a move to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "comfey",
@@ -6910,10 +7144,16 @@
     {
         "id": "perrserker",
         "name": "Perrserker",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/6",
+        "details": "Requires Galarian-form exclusive evolutions to be Available to be guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "cursola",
@@ -6998,10 +7238,16 @@
     {
         "id": "stonjourner",
         "name": "Stonjourner",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/4/6",
+        "details": "Three can be seen walking in a desert in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m28s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "eiscue",

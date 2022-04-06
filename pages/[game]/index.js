@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { serialize } from 'next-mdx-remote/serialize'
 import {Table, BriefSummary, Legend} from '../../components/Table'
+import styles from "../../styles/Table.module.css"
 
 export default function List({pokemonList, game, notes}) {
     const labels = {
@@ -51,9 +52,9 @@ export default function List({pokemonList, game, notes}) {
             <center>
                 <h1>{titles[game]}</h1>
                 {headsups[game]}
-                <nav>
-                    <Link href={`/${game}/rules`}><a>Rules</a></Link>&bull;
-                    <Link href={`/${game}/stats`}><a>Statistics</a></Link>&bull;
+                <nav className={styles.navigator}>
+                    <Link href={`/${game}/article/rules`}><a>Rules</a></Link>
+                    <Link href={`/${game}/article/stats`}><a>Statistics</a></Link>
                     <Link href="/"><a>Back to index</a></Link>
                 </nav>
             </center>

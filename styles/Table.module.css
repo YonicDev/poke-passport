@@ -55,6 +55,15 @@
     color: white;
 }
 
+.navigator {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 14pt;
+    align-items: center;
+    width: 30%;
+    margin: 1rem;
+}
+
 /** LEGEND/KEY **/
 .legend {
     width: 90%;
