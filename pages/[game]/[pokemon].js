@@ -40,7 +40,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
             <Link href={"/"+game}><a>↑ Back to list</a></Link>
         </center>
         <Head>
-            <title>Status of {pokemon.name} in {gameTitles[game]} - Billdex</title>
+            <title>Status of {pokemon.name} in {gameTitles[game]} - PokéPassport</title>
             <meta name="description" content={`Check if ${pokemon.name} can be transfered to ${gameTitles[game]}`} />
         </Head>
         <div className={styles.pageContainer}>

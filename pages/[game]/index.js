@@ -45,7 +45,7 @@ export default function List({pokemonList, game, notes}) {
     return (
         <div>
             <Head>
-                <title>{titles[game] + " - Billdex"}</title>
+                <title>{titles[game] + " - PokéPassport"}</title>
                 <meta name="description" content={descriptions[game]} />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
