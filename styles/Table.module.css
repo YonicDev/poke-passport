@@ -21,8 +21,12 @@
     position: absolute;
 }
 
-.tableEntry.no .tableEntryNumber, .tableEntry.guaranteed .tableEntryNumber {
+.tableEntry.no .tableEntryNumber {
     color:rgba(255, 255, 255, 0.1)
+}
+
+.tableEntry.guaranteed .tableEntryNumber {
+    color:rgba(255, 255, 255, 0.3)
 }
 
 .unknown {
@@ -108,7 +112,16 @@
     font-weight: bold;
 }
 
-.summaryNotes, .summaryPrompt {
+.summaryNotes {
+    padding: .5em;
+    box-sizing: border-box;
+}
+
+.summaryNotes p {
+    margin: 0;
+}
+
+.summaryPrompt {
     width: 100%;
 }
 

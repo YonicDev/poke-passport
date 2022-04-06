@@ -54,7 +54,9 @@ export function BriefSummary({statusLabels, notes}) {
                 <div className={styles.summaryName}>{pokemon.name}</div>
                 <div className={classNames(styles.summaryStatus,styles[pokemon.status],styles["swsh-"+pokemon.status])}>{statusLabels[pokemon.status]}</div>
             </div>
-            <MDXRemote className={styles.summaryNotes} {...notes[highlightedElement.index-1]} />
+            <div className={styles.summaryNotes}>
+                <MDXRemote {...notes[highlightedElement.index-1]} />
+            </div>
             <div className={styles.summaryPrompt}>Click to read more</div>
         </div>
     )
