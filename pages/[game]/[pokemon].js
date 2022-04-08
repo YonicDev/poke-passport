@@ -34,6 +34,8 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         a: props => <a {...props} target="_blank" rel="noreferrer" />,
     }
 
+    const emptyHistoryMessage = game === "swsh" ? "PokéPassport does not record the history of Sword & Shield availability." : "No history has been recorded yet for this Pokémon.";
+
     return (<>
         <center>
             <h1>Info for {gameTitles[game]}</h1>
@@ -56,10 +58,10 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                         <MDXRemote {...notes.main} />
                     </MDXProvider>
                 </div>
-                <div className={styles.history}>
+                <div className={pokemon.history.length > 0 ? styles.history : styles.historyEmpty}>
                     <h3>History</h3>
-                    <small>Dates are written in format Year / Month / Day.</small>
-                    <table className={pokemon.historyTable}>
+                    {pokemon.history.length <= 0 ? <small>{emptyHistoryMessage}</small> : <><small>Dates are written in format Year / Month / Day.</small>
+                    <table className={styles.historyTable}>
                         <thead>
                             <tr>
                                 <th>Date</th>
@@ -71,8 +73,8 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                             {pokemon.history.map((entry, i) => {
                                 return (
                                     <tr key={i}>
-                                        <td>{entry.date}</td>
-                                        <td className={classNames(styles[entry.status],styles[game+"-"+entry.status])}>{labels[game][entry.status]}</td>
+                                        <td><center>{entry.date}</center></td>
+                                        <td className={classNames(styles.statusTable, styles[entry.status],styles[game+"-"+entry.status])}>{labels[game][entry.status]}</td>
                                         <td>
                                             <MDXProvider components={components}>
                                                 <MDXRemote {...notes.history[i]} />
@@ -82,7 +84,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                                 )
                             })}
                         </tbody>
-                    </table>
+                    </table></>}
                 </div>
             </div>
             <NavigationLink game={game} pokemon={nextPokemon} direction="right" number={index+1}/>

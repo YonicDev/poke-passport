@@ -86,12 +86,18 @@
 
 .history {
     grid-area: history;
-    height: 40vh;
-    min-height: 300px;
+    max-height: 40vh;
     padding: 0.5rem;
     border-top: 2px solid gray;
     overflow-y: auto;
     overflow-x: hidden;
+}
+
+.historyEmpty {
+    grid-area: history;
+    padding: 0.5rem;
+    padding-bottom: 1rem;
+    border-top: 2px solid gray;
 }
 
 .history table {
@@ -101,6 +107,11 @@
 
 .history table td {
     padding: 0.3rem;
+}
+
+.history table .statusTable {
+    text-align: center;
+    font-weight: bold;
 }
 
 .navPokemon {
