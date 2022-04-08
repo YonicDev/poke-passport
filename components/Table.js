@@ -69,11 +69,11 @@ export function BriefSummary({statusLabels, notes}) {
     )
 }
 
-export function Legend({labels}) {
+export function Legend({labels, amounts}) {
     const keys = Object.keys(labels).map(label => {
         return (
             <div key={label} className={classNames(styles[label],styles["swsh-"+label])}>
-                {labels[label]}
+                <span className={styles.amountLabel}>{amounts[label]}</span> {labels[label]}
             </div>
         )
     });

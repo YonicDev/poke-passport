@@ -34,6 +34,11 @@ export default function List({pokemonList, game, notes}) {
         visc: <p>This is a list of all the Pokémon that can be transfered to Pokémon Scarlet and Pokémon Violet, according to current information.</p>
     }
 
+    const amounts = {}
+    for(const label in labels[game]) {
+        amounts[label] = pokemonList.filter(p => p.status === label).length;
+    }
+
     // Because rerendering the Table is very expensive, we aren't using states
     // other than states that modify the Pokémon list.
     // Instead, we broadcast events to selectively update the children components' state,
@@ -58,7 +63,7 @@ export default function List({pokemonList, game, notes}) {
                     <Link href="/"><a>Back to index</a></Link>
                 </nav>
             </center>
-            <Legend labels={labels[game]} />
+            <Legend labels={labels[game]} amounts={amounts}/>
             <BriefSummary statusLabels={labels[game]} notes={notes}/>
             <Table game={game} pokemonList={pokemonList} onHighlight={setHighlightedPokemon}/>
         </div>
