@@ -1,4 +1,4 @@
-import {useState, useEffect} from 'react';
+import {useState, useEffect, useLayoutEffect, useRef} from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { MDXRemote } from 'next-mdx-remote';
@@ -6,6 +6,7 @@ import classNames from 'classnames';
 import { addTrailingZeroes } from '../util.ts';
 import styles from '../styles/Table.module.css'
 
+const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? useLayoutEffect : useEffect;
 
 export function Table({pokemonList, game, onHighlight}) {
     const elements = pokemonList.map((pokemon, i) => {
@@ -25,13 +26,19 @@ export function BriefSummary({statusLabels, notes}) {
     const [highlightedElement, setHighlightedElement] = useState({pokemon: null, index: -1});
     const {pokemon, index} = highlightedElement;
     const [position, setPosition] = useState({x: 0, y: 0});
+    const ref = useRef(null);
 
-    useEffect(() => {
+    useIsomorphicLayoutEffect(() => {
+        const summaryWindow = ref.current;
         const handler = (e) => {
-            setPosition(() => {
+            setPosition((current) => {
                 let x = e.clientX, y = e.clientY;
-                if(x >= (window.innerWidth/3)*2) {
-                    x = x - (window.innerWidth/3);
+                if(summaryWindow==null) { return current}
+                if(x + summaryWindow.clientWidth >= window.innerWidth) {
+                    if(x - summaryWindow.clientWidth < 0)
+                        x = x - summaryWindow.clientWidth*0.5;
+                    else
+                        x = x - summaryWindow.clientWidth;
                 }
                 return {x, y}
             });
@@ -45,10 +52,10 @@ export function BriefSummary({statusLabels, notes}) {
             window.removeEventListener('pointermove', handler);
             window.removeEventListener('highlight', highlighter);
         }
-    }, []);
+    });
 
     return (highlightedElement.pokemon &&
-        <div style={{left: position.x + 8, top: position.y + 8}} className={styles.summaryWindow}>
+        <div ref={ref} style={{left: position.x + 8, top: position.y + 8}} className={styles.summaryWindow}>
             <div className={styles.summary}>
                 <div className={styles.summaryDex}>#{addTrailingZeroes(index, 3)}</div>
                 <div className={styles.summaryName}>{pokemon.name}</div>
