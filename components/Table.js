@@ -8,10 +8,10 @@ import styles from '../styles/Table.module.css'
 
 const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? useLayoutEffect : useEffect;
 
-export function Table({pokemonList, game, onHighlight}) {
-    const elements = pokemonList.map((pokemon, i) => {
-        return (<div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} key={pokemon.id} onMouseEnter={() => onHighlight(pokemon, i+1)} onMouseLeave={() => onHighlight(null, -1)}>
-            <span className={styles.tableEntryNumber}>{addTrailingZeroes(i+1, 3)}</span>
+export function Table({pokemonList, filteredList, game, onHighlight}) {
+    const elements = filteredList.map((pokemon, i) => {
+        return (<div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} key={pokemon.id} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
+            <span className={styles.tableEntryNumber}>{addTrailingZeroes(pokemonList.indexOf(pokemon)+1, 3)}</span>
             <Link href={`/${game}/${pokemon.id}`} passHref><a><Image width="68" height="56" layout="fixed" alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/></a></Link> 
         </div>)
     });
@@ -69,10 +69,10 @@ export function BriefSummary({statusLabels, notes}) {
     )
 }
 
-export function Legend({labels, amounts}) {
+export function Legend({labels, amounts, toggleFilter, filters}) {
     const keys = Object.keys(labels).map(label => {
         return (
-            <div key={label} className={classNames(styles[label],styles["swsh-"+label])}>
+            <div key={label} className={classNames(styles[label],styles["swsh-"+label], filters[label] ? styles.filtered : undefined)} onClick={() => toggleFilter(label)}>
                 <span className={styles.amountLabel}>{amounts[label]}</span> {labels[label]}
             </div>
         )

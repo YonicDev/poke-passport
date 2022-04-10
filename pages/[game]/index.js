@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
 import { serialize } from 'next-mdx-remote/serialize'
@@ -34,6 +35,15 @@ export default function List({pokemonList, game, notes}) {
         visc: <p>This is a list of all the Pokémon that can be transfered to Pokémon Scarlet and Pokémon Violet, according to current information.</p>
     }
 
+    const filterTemplate = {};
+    for(let label in labels[game]) {
+        filterTemplate[label] = false;
+    }
+    const [filters, setFilters] = useState(filterTemplate);
+    const pokemonFilteredList = pokemonList.filter(pokemon => {
+        return !filters[pokemon.status];
+    });
+
     const amounts = {}
     for(const label in labels[game]) {
         amounts[label] = pokemonList.filter(p => p.status === label).length;
@@ -45,6 +55,12 @@ export default function List({pokemonList, game, notes}) {
     // ensuring we rerender the Table only when absolutely necessary.
     const setHighlightedPokemon = (pokemon, index) => {
         dispatchEvent(new CustomEvent('highlight', {detail: {pokemon, index}}));
+    }
+
+    const toggleFilter = (label) => {
+        const newFilters = {...filters};
+        newFilters[label] = !filters[label];
+        setFilters(newFilters);
     }
 
     return (
@@ -61,10 +77,11 @@ export default function List({pokemonList, game, notes}) {
                     <Link href={`/${game}/article/stats`}><a>Statistics</a></Link>
                     <Link href="/"><a>Back to index</a></Link>
                 </nav>
+                <p>Showing <b>{pokemonFilteredList.length}</b> Pokémon. Press any of the labels below to filter.</p>
+                <BriefSummary statusLabels={labels[game]} notes={notes}/>
             </center>
-            <Legend labels={labels[game]} amounts={amounts}/>
-            <BriefSummary statusLabels={labels[game]} notes={notes}/>
-            <Table game={game} pokemonList={pokemonList} onHighlight={setHighlightedPokemon}/>
+            <Legend labels={labels[game]} amounts={amounts} filters={filters} toggleFilter={toggleFilter}/>
+            <Table game={game} pokemonList={pokemonList} filteredList={pokemonFilteredList} onHighlight={setHighlightedPokemon}/>
         </div>
     )
 }
