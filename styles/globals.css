@@ -31,19 +31,17 @@ header {
   justify-content: space-between;
   align-items: center;
   align-content: center;
-  padding: 0 2rem;
-  background-color: #25a8ff;
+  padding: 0.25rem 2rem;
+  background: #8d1f43;
+  border-bottom: 4px solid #4e0817;
 }
 
 .siteHeader > .navLogo {
-  font-size: 16pt;
-  font-weight: bold;
-  padding: 0.25rem 0;
-  color: #013558;
+  margin: 0.25rem 0;
 }
 
-.siteHeader > .navLogo:hover {
-  color: #013558;
+.siteHeader > .navLogo > span {
+  vertical-align: middle;
 }
 
 nav.headerNav {
@@ -53,8 +51,18 @@ nav.headerNav {
   width: 50%;
 }
 
-.siteHeader > a {
-  color: white;
+nav.sideNav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav.sideNav a {
+  margin: 0.25rem;
+}
+
+.siteHeader a {
+  color: #f3d675;
 }
 
 .siteHeader > nav.headerNav > a {
@@ -68,7 +76,7 @@ nav.headerNav {
 }
 .siteHeader > nav.headerNav > .swsh {
   border-radius: 1em;
-  border-color: #38446b;
+  /* border-color: #38446b; */
   background: rgb(254,17,152);
   background: linear-gradient(118deg, #fe1198 0%, #35b7ff 100%);
 }

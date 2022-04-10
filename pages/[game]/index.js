@@ -52,7 +52,6 @@ export default function List({pokemonList, game, notes}) {
             <Head>
                 <title>{titles[game] + " - PokéPassport"}</title>
                 <meta name="description" content={descriptions[game]} />
-                <link rel="icon" href="/favicon.ico" />
             </Head>
             <center>
                 <h1>{titles[game]}</h1>
