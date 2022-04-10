@@ -135,6 +135,7 @@
 .summaryNotes {
     padding: .5em;
     box-sizing: border-box;
+    text-align: justify;
 }
 
 .summaryNotes p {

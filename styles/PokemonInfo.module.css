@@ -74,6 +74,7 @@
     grid-area: notes;
     padding: 0.5rem;
     border-top: 2px solid gray;
+    text-align: justify;
 }
 
 .date {
