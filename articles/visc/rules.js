@@ -229,7 +229,7 @@ const EvolutionTable = () => {
 
 const BreedingTable = () => {
     const criteria = {
-        "Breeding": "possible",
+        "Breeding": "assumed",
         "Leveling up in a specific location": "possible",
         "Leveling up with a specific Pokémon": "unknown",
         "Leveling up under a certain weather": "unknown",

@@ -1430,9 +1430,9 @@
     {
         "id": "pichu",
         "name": "Pichu",
-        "status": "possible",
+        "status": "guaranteed",
         "lastUpdated": "2022/4/6",
-        "details": "Requires breeding to be Assumed to be guaranteed.",
+        "details": "",
         "history": [
             {
                 "date": "2022/4/5",
@@ -3756,9 +3756,9 @@
     {
         "id": "riolu",
         "name": "Riolu",
-        "status": "possible",
+        "status": "guaranteed",
         "lastUpdated": "2022/4/6",
-        "details": "Requires breeding to be Assumed to be guaranteed.",
+        "details": "",
         "history": [
             {
                 "date": "2022/4/5",
