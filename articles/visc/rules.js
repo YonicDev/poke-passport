@@ -119,7 +119,7 @@ const CategoryTable = () => (
 );
 
 const CriteriaTable = () => (
-    <table style={{width: "50%"}} className={styles.articleTable}>
+    <table className={styles.articleTable}>
         <thead>
             <th>Label</th>
             <th>Meaning</th>

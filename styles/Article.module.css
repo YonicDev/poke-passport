@@ -1,6 +1,10 @@
 .articleWrapper {
-    width: 100%;
+    width: 80%;
     padding: 1rem;
+    max-width: 1280px;
+    min-height: 100vh;
+    margin: 0 auto;
+    box-shadow: 0px 48px 50px #f3f3f3;
 }
 
 .status {
@@ -11,7 +15,7 @@
 
 .articleTable {
     border-collapse: collapse;
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
     border: 1px solid #666;
 }
@@ -69,4 +73,12 @@
 
 .swsh-other {
     background-color: #ff2a6e;
+}
+
+@media screen and (max-width: 768px) {
+    .articleWrapper {
+        width: 100%;
+        max-width: none;
+        box-shadow: none;
+    }
 }
