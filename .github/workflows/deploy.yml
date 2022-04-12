@@ -22,7 +22,8 @@ jobs:
 
       - name: Build
         run: |
-          npm i --force
+          npm i
+          npm i -D @swc/cli @swc/core
           npm run build
           npm run export
       - name: Deploy
