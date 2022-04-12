@@ -23,17 +23,17 @@ export default function AboutPage() {
             </p>
             <p>Originally named Billdex, <b>PokéPassport</b> is the successor to this table,
             which is now community-driven and contains updated information with the latest mainline Pokémon titles. Imagine if every Pokémon species had a passport of their own to enter
-            to new regions - that's how PokéPassport was named.</p>
+            to new regions - that&apos;s how PokéPassport was named.</p>
             <h2>Contributing</h2>
             <p>PokéPassport is an open source project. You can contribute to the project by doing any of the following:</p>
             <ol type="A">
-                <li><b>Submit an issue</b> to the Github repository requesting a modification. If it's in order to update an entry in a table, you <b>must</b> provide legitimate sources.</li>
-                <li><b>Contribute to the source code:</b> Fork the Github repository and making your own changes there. Once you're done with your changes, make a pull request to any of the following kind of branches:
+                <li><b>Submit an issue</b> to the Github repository requesting a modification. If it&apos;s in order to update an entry in a table, you <b>must</b> provide legitimate sources.</li>
+                <li><b>Contribute to the source code:</b> Fork the Github repository and making your own changes there. Once you&apos;re done with your changes, make a pull request to any of the following kind of branches:
                     <ul>
                         <li><b>content:</b> This kind of branches are used to modify information in the JSON databases located in the data folder.</li>
                         <li><b>feature:</b> This kind of branches are used to modify features in the website.</li>
                         <li><b>bugfix:</b> This kind of branches are used to fix bugs in the website.</li>
-                        <li><b>Pull requests from forks that target the <u>master</u> branch will very likely be rejected if you don't know what you're doing.</b> Pull requests for masters are only meant to merge the content, feature and bugfix branches together for a next publication.</li>
+                        <li><b>Pull requests from forks that target the <u>master</u> branch will very likely be rejected if you don&apos;t know what you&apos;re doing.</b> Pull requests for masters are only meant to merge the content, feature and bugfix branches together for a next publication.</li>
                     </ul>
                     More information on contributing to the source code is specified in the <a href="https://github.com/YonicDev/poke-passport/blob/master/CONTRIBUTING.md">contributing page</a>.
                 </li>
