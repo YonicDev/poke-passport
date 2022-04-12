@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image'
 import Head from 'next/head';
 
 const Footer = () => {
@@ -7,10 +6,10 @@ const Footer = () => {
 };
 const Header = () => {
     return (<header className="siteHeader">
-        <Link href="/"><a className="navLogo" ><Image alt="PokéPassport" width="300" height="50" layout="fixed" src="/poke-logo.svg"/></a></Link>
         <nav className="headerNav">
             <Link href="/swsh"><a className="swsh">Sword &amp; Shield</a></Link>
             <Link href="/visc"><a className="visc">Scarlet &amp; Violet</a></Link>
+        <Link href="/"><a className="navLogo" ><img alt="PokéPassport" src="/poke-logo.svg"/></a></Link>
         </nav>
         <nav className='sideNav'>
             <Link href="/about">About</Link>

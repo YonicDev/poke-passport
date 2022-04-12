@@ -40,6 +40,11 @@ header {
   margin: 0.25rem 0;
 }
 
+.siteHeader > .navLogo > img {
+  height: 50px;
+  width: auto;
+}
+
 .siteHeader > .navLogo > span {
   vertical-align: middle;
 }

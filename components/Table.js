@@ -1,6 +1,5 @@
 import {useState, useEffect, useLayoutEffect, useRef} from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import { MDXRemote } from 'next-mdx-remote';
 import classNames from 'classnames';
 import { addTrailingZeroes } from '../util.ts';
@@ -10,10 +9,10 @@ const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? useLayoutEffec
 
 export function Table({pokemonList, filteredList, game, onHighlight}) {
     const elements = filteredList.map((pokemon, i) => {
-        return (<div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} key={pokemon.id} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
+        return (<Link key={pokemon.id} href={`/${game}/${pokemon.id}`}><a><div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
             <span className={styles.tableEntryNumber}>{addTrailingZeroes(pokemonList.indexOf(pokemon)+1, 3)}</span>
-            <Link href={`/${game}/${pokemon.id}`} passHref><a><Image width="68" height="56" layout="fixed" alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/></a></Link> 
-        </div>)
+            <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/> 
+        </div></a></Link>)
     });
     return (
         <div className={styles.table}>

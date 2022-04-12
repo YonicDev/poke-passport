@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Head from 'next/head'
 import Link from 'next/link'
 import classNames from "classnames";
@@ -48,7 +47,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         <div className={styles.pageContainer}>
             <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1}/>
             <div className={styles.container}>
-                <div className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status],styles[game])}><Image className={styles.icon} alt={pokemon.name} layout="fixed" width="136" height="112" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`} /></div>
+                <div className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status],styles[game])}><img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`} /></div>
                 <h1 className={styles.name}>#{addTrailingZeroes(index, 3)} {pokemon.name}</h1>
                 <div className={classNames(styles.status,styles[status],styles[game+"-"+status])}>{labels[game][status] || "Invalid tag"}</div>
                 <div className={styles.date}>Last updated on<br/>{pokemon.lastUpdated}</div>
@@ -107,7 +106,7 @@ function NavigationLink({game, pokemon, number, direction}) {
             <Link href={`/${game}/${pokemon.id}`} passHref>
                 <a className={styles.navPokemon}>
                     <div>
-                        <Image alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status],styles[game+"-"+pokemon.status])} layout="fixed" width="68" height="56" src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
+                        <img alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status],styles[game+"-"+pokemon.status])} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
                         <div>{directions[direction]} #{number} {pokemon.name}</div>
                     </div>
                 </a>
@@ -116,7 +115,7 @@ function NavigationLink({game, pokemon, number, direction}) {
     else
         return (
             <div className={styles.navPokemon}>
-                <Image alt="Unknown" className={classNames(styles.navIcon,styles.unknown)} layout="fixed" width="68" height="56" src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/unknown.png"/>
+                <img alt="Unknown" className={classNames(styles.navIcon,styles.unknown)} style={{width:"68px", height:"56px"}} src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/unknown.png"/>
                 <div>{directions[direction]} {limits[direction]}</div>
             </div>
         )

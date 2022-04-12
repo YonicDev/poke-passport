@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../../styles/Article.module.css'
 
 import OldTable from "./table.png"
@@ -15,9 +14,7 @@ export default function AboutPage() {
             <p>Back when Pokémon Sword and Pokémon Shield were announced,
             GameFreak stated that not all Pokémon from the previous generations could be transferable to these games. At that time, a table was created for users to keep track
             of which Pokémon GameFreak was planning on including on the game.</p>
-            <div style={{width: "75%", margin: "0 auto"}}>
-                <Image src={OldTable} alt="Old table" layout="responsive" />
-            </div>
+            <center><img src={OldTable.src} style={{width: "75%"}} alt="Old table" /></center>
             <p>With the latest titles and updates to Pokémon Sword and Shield, the table became outdated: At release date, Sword and Shield could handle transfering roughly <b>40%</b> of
             all 809 Pokémon at the time. By the time the Crown Tundra came out, that percentage grew to a bit over <b>70%</b>.
             </p>

@@ -8,7 +8,8 @@
 }
 
 .logo {
-  margin: 4rem;
+  width: 50%;
+  margin: 4rem auto;
 }
 
 .homeLink {
@@ -16,6 +17,10 @@
   position: relative;
   height: 200px;
   width: calc(200px * 16 / 9);
+}
+
+.homeLink img {
+  width: 100%;
 }
 
 .homeNavigation {
