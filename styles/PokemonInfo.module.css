@@ -45,13 +45,13 @@
 }
 
 .iconContainer.swsh {
-    background-image: url("/logo-swsh.svg"), url("/bg-swsh.svg");
+    background-image: url("/poke-passport/logo-swsh.svg"), url("/poke-passport/bg-swsh.svg");
     background-size: 80px, 150px;
     background-blend-mode: overlay, hard-light;
 }
 
 .iconContainer.visc {
-    background-image: url("/logo-visc.svg"), url("/bg-visc.svg");
+    background-image: url("/poke-passport/logo-visc.svg"), url("/poke-passport/bg-visc.svg");
     background-size: 90px, 150px;
     background-blend-mode: overlay, multiply;
 }

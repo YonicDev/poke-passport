@@ -7,6 +7,7 @@ const nextConfig = {
     domains: ['raw.githubusercontent.com']
   },
   assetPrefix: isProd ? '/poke-passport/' : '',
+  basePath: '/poke-passport'
 }
 
 module.exports = nextConfig
