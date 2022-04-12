@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: |
           npm i
-          npm i -D @swc/cli @swc/core
+          npm i -D @swc/cli @swc/core @next/swc-linux-x64-gnu
           npm run build
           npm run export
       - name: Deploy
