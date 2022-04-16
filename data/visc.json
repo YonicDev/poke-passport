@@ -149,6 +149,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "rattata-alola",
+                "name": "Rattata",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -157,6 +167,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "raticate-alola",
+                "name": "Raticate",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -211,6 +231,16 @@
         "status": "possible",
         "lastUpdated": "2022/4/6",
         "details": "Requires Thunder Stone to be Assumed to be guaranteed.",
+        "forms": [
+            {
+                "id": "raichu-alola",
+                "name": "Raichu",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "Requires regional forms to be Confirmed to be possible.",
+                "history": []
+            }
+        ],
         "history": [
             {
                 "date": "2022/4/5",
@@ -225,6 +255,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "sandshrew-alola",
+                "name": "Sandshrew",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -233,6 +273,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "sandslash-alola",
+                "name": "Sandslash",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -305,6 +355,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "vulpix-alola",
+                "name": "Vulpix",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -313,6 +373,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "ninetales-alola",
+                "name": "Ninetales",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -409,6 +479,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "diglett-alola",
+                "name": "Diglett",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -417,6 +497,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "dugtrio-alola",
+                "name": "dugtrio",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -425,6 +515,24 @@
         "status": "confirmed",
         "lastUpdated": "2022/4/6",
         "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m25s)",
+        "forms": [
+            {
+                "id": "meowth-alola",
+                "name": "Meowth",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "Requires regional forms to be Confirmed to be possible.",
+                "history": []
+            },
+            {
+                "id": "meowth-galar",
+                "name": "Meowth",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "Requires regional forms to be Confirmed to be possible.",
+                "history": []
+            }
+        ],
         "history": [
             {
                 "date": "2022/4/5",
@@ -439,6 +547,16 @@
         "status": "guaranteed",
         "lastUpdated": "2022/4/6",
         "details": "",
+        "forms": [
+            {
+                "id": "persian-alola",
+                "name": "Persian",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "Requires regional forms to be Confirmed to be possible.",
+                "history": []
+            }
+        ],
         "history": [
             {
                 "date": "2022/4/5",
@@ -497,6 +615,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "growlithe-hisui",
+                "name": "Growlithe",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -505,6 +633,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "arcanine-hisui",
+                "name": "Arcanine",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -625,6 +763,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "geodude-alola",
+                "name": "Geodude",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -633,6 +781,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "graveler-alola",
+                "name": "Graveler",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -641,6 +799,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "golem-alola",
+                "name": "Golem",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -649,6 +817,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "ponyta-galar",
+                "name": "Ponyta",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -657,6 +835,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "rapidash-galar",
+                "name": "Rapidash",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -665,6 +853,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "slowpoke-galar",
+                "name": "Slowpoke",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -673,6 +871,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "slowbro-galar",
+                "name": "slowbro",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -709,6 +917,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "farfetchd-galar",
+                "name": "Farfetch’d",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -749,6 +967,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "grimer-alola",
+                "name": "Grimer",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -757,6 +985,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "muk-alola",
+                "name": "Muk",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -845,6 +1083,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "voltorb-hisui",
+                "name": "Voltorb",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -853,6 +1101,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "electrode-hisui",
+                "name": "Electrode",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -869,6 +1127,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "exeggutor-alola",
+                "name": "Exeggutor",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -885,6 +1153,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "marowak-alola",
+                "name": "Marowak",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -925,6 +1203,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "weezing-galar",
+                "name": "Weezing",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1027,6 +1315,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "mr-mime-galar",
+                "name": "Mr. Mime",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1203,6 +1501,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "articuno-galar",
+                "name": "Articuno",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1211,6 +1519,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "zapdos-galar",
+                "name": "Zapdos",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1219,6 +1537,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "moltres-galar",
+                "name": "Moltres",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1313,6 +1641,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "typhlosion-hisui",
+                "name": "Typhlosion",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1673,6 +2011,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "slowking-galar",
+                "name": "Slowking",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1769,6 +2117,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "qwilfish-hisui",
+                "name": "Qwilfish",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1801,6 +2159,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "sneasel-hisui",
+                "name": "Sneasel",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -1857,6 +2225,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "corsola-galar",
+                "name": "Corsola",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -2209,6 +2587,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "zigzagoon-galar",
+                "name": "Zigzagoon",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -2217,6 +2605,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "linoone-galar",
+                "name": "Linoone",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4225,6 +4623,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "samurott-hisui",
+                "name": "Samurott",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4599,6 +5007,16 @@
         "status": "possible",
         "lastUpdated": "2022/4/6",
         "details": "Requires Sun Stone to be Assumed to be guaranteed.",
+        "forms": [
+            {
+                "id": "lilligant-hisui",
+                "name": "Lilligant",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "Requires regional forms to be Confirmed to be possible.",
+                "history": []
+            }
+        ],
         "history": [
             {
                 "date": "2022/4/5",
@@ -4645,6 +5063,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "darumaka-galar",
+                "name": "darumaka",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4653,6 +5081,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "darmanitan-galar",
+                "name": "Darmanitan",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4709,6 +5147,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "yamask-galar",
+                "name": "Yamask",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4773,6 +5221,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "zorua-hisui",
+                "name": "Zorua",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -4781,6 +5239,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "zoroark-hisui",
+                "name": "Zoroark",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -5157,6 +5625,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "stunfisk-galar",
+                "name": "Stunfisk",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -5237,6 +5715,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "braviary-hisui",
+                "name": "Braviary",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -5865,6 +6353,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "sliggoo-hisui",
+                "name": "Sliggoo",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -5873,6 +6371,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "goodra-hisui",
+                "name": "Goodra",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -5929,6 +6437,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "avalugg-hisui",
+                "name": "Avalugg",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
@@ -6017,6 +6535,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "decidueye-hisui",
+                "name": "Decidueye",
+                "status": "unknown",
+                "lastUpdated": "2022/4/16",
+                "details": "",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
