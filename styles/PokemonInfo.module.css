@@ -82,6 +82,12 @@
     justify-content: center;
 }
 
+.formLink {
+    width: 68px;
+    height: 56px;
+    margin: 0 1px;
+}
+
 .details {
     grid-area: notes;
     padding: 0.5rem;

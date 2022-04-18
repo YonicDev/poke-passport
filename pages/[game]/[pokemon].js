@@ -59,17 +59,22 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
     const components = {
         a: props => <a {...props} target="_blank" rel="noreferrer" />,
     }
+    const formNames = {
+        alola: "Alolan",
+        galar: "Galarian",
+        hisui: "Hisuian"
+    }
     const forms = pokemon.forms?.map(form => {
         const formName = /(alola|galar|hisui)/.exec(form.id)[1];
         if(formName===region) return;
-        return (<div className={styles.formLink} key={form.id}>
-            <Link href={`/${game}/${pokemon.id}?region=${formName}`}><a><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${form.id}.png`}/></a></Link>
+        return (<div className={classNames(styles.formLink,styles[form.status],styles[`${game}-${form.status}`])} key={form.id}>
+            <Link href={`/${game}/${pokemon.id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${form.id}.png`}/></a></Link>
         </div>)
     });
 
     if(forms!=null && !isOriginal) {
-        forms.unshift(<div className={styles.formLink} key={pokemon.id}>
-            <Link href={`/${game}/${pokemon.id}`}><a><img alt={pokemon.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/></a></Link>
+        forms.unshift(<div className={classNames(styles.formLink,styles[pokemon.status],styles[`${game}-${pokemon.status}`])} key={pokemon.id}>
+            <Link href={`/${game}/${pokemon.id}`}><a title="Original form"><img alt={pokemon.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/></a></Link>
         </div>)
     }
 
@@ -85,7 +90,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
             <meta name="description" content={`Check if ${thisPokemon.name} can be transfered to ${gameTitles[game]}`} />
         </Head>
         <div className={styles.pageContainer}>
-            <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1}/>
+            <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1} preferredForm={region}/>
             <div className={styles.container}>
                 <div className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status])} style={iconContainerStyles[game]}>
                     <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`} />
@@ -129,13 +134,13 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                     </table></>}
                 </div>
             </div>
-            <NavigationLink game={game} pokemon={nextPokemon} direction="right" number={index+1}/>
+            <NavigationLink game={game} pokemon={nextPokemon} direction="right" number={index+1} preferredForm={region}/>
         </div>
         </>
     )
 }
 
-function NavigationLink({game, pokemon, number, direction}) {
+function NavigationLink({game, pokemon, number, direction, preferredForm}) {
     const directions = {
         left: "←",
         right: "→",
@@ -144,24 +149,34 @@ function NavigationLink({game, pokemon, number, direction}) {
         left: "First Pokémon",
         right: "Last Pokémon"
     }
-    if(pokemon!=null)
+    let thisPokemon = {...pokemon};
+    let form = "original";
+    if(pokemon!=null) {
+        if(preferredForm && pokemon.forms?.length > 0) {
+            thisPokemon = pokemon.forms.find(form => {
+                const formTest = new RegExp(`-${preferredForm}$`); 
+                return formTest.test(form.id);
+            });
+            form = preferredForm;
+        }
         return (
-            <Link href={`/${game}/${pokemon.id}`} passHref>
+            <Link href={`/${game}/${pokemon.id}${form!=="original"?`?region=${form}`:""}`} passHref>
                 <a className={styles.navPokemon}>
                     <div>
-                        <img alt={pokemon.name} className={classNames(styles.navIcon,styles[pokemon.status],styles[game+"-"+pokemon.status])} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
-                        <div>{directions[direction]} #{number} {pokemon.name}</div>
+                        <img alt={thisPokemon.name} className={classNames(styles.navIcon,styles[thisPokemon.status],styles[game+"-"+thisPokemon.status])} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`}/>
+                        <div>{directions[direction]} #{number} {thisPokemon.name}</div>
                     </div>
                 </a>
             </Link>
         )
-    else
+    } else {
         return (
             <div className={styles.navPokemon}>
                 <img alt="Unknown" className={classNames(styles.navIcon,styles.unknown)} style={{width:"68px", height:"56px"}} src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/unknown.png"/>
                 <div>{directions[direction]} {limits[direction]}</div>
             </div>
         )
+    }
 }
 
 export async function getStaticProps({params}) {
