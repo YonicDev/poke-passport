@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useReducer } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
@@ -38,7 +38,9 @@ export default function List({pokemonList, game, notes}) {
         visc: <p>This is a list of all the Pokémon that can be transfered to Pokémon Scarlet and Pokémon Violet, according to current information.</p>
     }
 
-    const pokemonWithForms = pokemonList.filter(pokemon => pokemon.forms != null)
+    // Clone pokemonList to avoid mutating the original
+    const pokeList = [...pokemonList];
+    const pokemonWithForms = pokeList.filter(pokemon => pokemon.forms != null)
 
     if(selectedRegion !== "origin") {
         for(const pokemonId in pokemonWithForms) {
@@ -46,7 +48,7 @@ export default function List({pokemonList, game, notes}) {
             const form = pokemon.forms.find(form => new RegExp(selectedRegion).test(form.id));
             if(form != null) {
                 const originalPoke = pokemonList.find(poke => poke.id === pokemon.id);
-                pokemonList[pokemonList.indexOf(originalPoke)] = form;
+                pokeList[pokemonList.indexOf(originalPoke)] = form;
             }
         }
     }
@@ -56,13 +58,13 @@ export default function List({pokemonList, game, notes}) {
         filterTemplate[label] = false;
     }
     const [filters, setFilters] = useState(filterTemplate);
-    const pokemonFilteredList = pokemonList.filter(pokemon => {
+    const pokemonFilteredList = pokeList.filter(pokemon => {
         return !filters[pokemon.status];
     });
 
     const amounts = {}
     for(const label in labels[game]) {
-        amounts[label] = pokemonList.filter(p => p.status === label).length;
+        amounts[label] = pokeList.filter(p => p.status === label).length;
     }
 
     // Because rerendering the Table is very expensive, we aren't using states
@@ -101,7 +103,7 @@ export default function List({pokemonList, game, notes}) {
                 <p>Showing <b>{pokemonFilteredList.length}</b> Pokémon. Press any of the labels below to filter.</p>
                 <Legend labels={labels[game]} amounts={amounts} filters={filters} toggleFilter={toggleFilter}/>
             </center>
-            <Table game={game} pokemonList={pokemonList} filteredList={pokemonFilteredList} onHighlight={setHighlightedPokemon}/>
+            <Table game={game} pokemonList={pokeList} filteredList={pokemonFilteredList} onHighlight={setHighlightedPokemon}/>
         </div>
     )
 }
@@ -124,7 +126,7 @@ function RegionSelector({game}) {
             {regions.map(region => (
                 <Link key={region.id} href={`/${game}/?region=${region.id}`} passHref>
                     <div className={styles.regionSelector}>
-                        <img src={images[region.id]}/>
+                        <img alt={region.label} src={images[region.id]}/>
                         <a>{region.label}</a>
                     </div>
                 </Link>
