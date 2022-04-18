@@ -18,7 +18,7 @@
     box-sizing: border-box;
     grid-template-columns: 136px auto auto 10em;
     grid-template-areas:
-        "icon name name name"
+        "icon name name forms"
         "icon status status date"
         "notes notes notes notes"
         "history history history history";
@@ -73,6 +73,13 @@
     font-weight: bold;
     margin: 0;
     padding: 0.5rem;
+}
+
+.forms {
+    grid-area: forms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .details {

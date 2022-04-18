@@ -8,8 +8,22 @@ import styles from '../styles/Table.module.css'
 const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? useLayoutEffect : useEffect;
 
 export function Table({pokemonList, filteredList, game, onHighlight}) {
+    let regionRegExp;
+    if(game === 'visc') {
+        regionRegExp = /-(alola|galar|hisui)/
+    }
+
     const elements = filteredList.map((pokemon, i) => {
-        return (<Link key={pokemon.id} href={`/${game}/${pokemon.id}`}><a><div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
+        let region = "original", shortenedId = pokemon.id;
+
+        if(regionRegExp) {
+            const test = regionRegExp.exec(pokemon.id);
+            region = test? test[1] : "original";
+            if(region!=="original")
+                shortenedId = pokemon.id.replace("-"+region, '');
+        }
+        
+        return (<Link key={pokemon.id} href={`/${game}/${shortenedId}${region!=="original"?`?region=${region}`:""}`}><a><div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
             <span className={styles.tableEntryNumber}>{addTrailingZeroes(pokemonList.indexOf(pokemon)+1, 3)}</span>
             <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/> 
         </div></a></Link>)
@@ -26,6 +40,7 @@ export function BriefSummary({statusLabels, notes}) {
     const {pokemon, index} = highlightedElement;
     const [position, setPosition] = useState({x: 0, y: 0});
     const ref = useRef(null);
+    let region = "original";
 
     useIsomorphicLayoutEffect(() => {
         const summaryWindow = ref.current;
@@ -53,6 +68,12 @@ export function BriefSummary({statusLabels, notes}) {
         }
     });
 
+    if(highlightedElement.pokemon) {
+        const test = /(alola|galar|hisui)/.exec(highlightedElement.pokemon.id)
+        if(test)
+            region = test[1];
+    }
+
     return (highlightedElement.pokemon &&
         <div ref={ref} style={{left: position.x + 8, top: position.y + 8}} className={styles.summaryWindow}>
             <div className={styles.summary}>
@@ -61,7 +82,7 @@ export function BriefSummary({statusLabels, notes}) {
                 <div className={classNames(styles.summaryStatus,styles[pokemon.status],styles["swsh-"+pokemon.status])}>{statusLabels[pokemon.status]}</div>
             </div>
             <div className={styles.summaryNotes}>
-                <MDXRemote {...notes[highlightedElement.index-1]} />
+                <MDXRemote {...(notes[highlightedElement.index-1][region || "original"])} />
             </div>
             <div className={styles.summaryPrompt}>Click to read more</div>
         </div>

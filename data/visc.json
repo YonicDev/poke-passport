@@ -522,7 +522,13 @@
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
                 "details": "Requires regional forms to be Confirmed to be possible.",
-                "history": []
+                "history": [
+                    {
+                        "date": "2022/4/5",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             },
             {
                 "id": "meowth-galar",
@@ -530,7 +536,13 @@
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
                 "details": "Requires regional forms to be Confirmed to be possible.",
-                "history": []
+                "history": [
+                    {
+                        "date": "2022/4/5",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
         "history": [
@@ -554,7 +566,13 @@
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
                 "details": "Requires regional forms to be Confirmed to be possible.",
-                "history": []
+                "history": [
+                    {
+                        "date": "2022/4/5",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
         "history": [
