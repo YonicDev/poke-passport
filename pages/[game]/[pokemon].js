@@ -1,6 +1,6 @@
+import { useReducer, useEffect } from 'react';
 import Head from 'next/head'
 import Link from 'next/link'
-import { useRouter } from 'next/router'
 import classNames from "classnames";
 import { MDXProvider } from "@mdx-js/react";
 import { MDXRemote } from "next-mdx-remote";
@@ -8,13 +8,22 @@ import { serialize } from "next-mdx-remote/serialize";
 import {addTrailingZeroes} from '../../util.ts';
 import styles from "../../styles/PokemonInfo.module.css";
 
+const regionRegExp = {
+    visc: /(alola|galar|hisui)/
+};
+
+const getRegion = (game) => {
+    if(game==="swsh") return "original";
+    const query = new URLSearchParams(window.location.search);
+    const region = query.get("region");
+    return regionRegExp[game]?.test(region)? region : "original";
+}
+
 export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, nextPokemon}) {
-    const {query} = useRouter();
-    const region = query.region;
-    const regionRegExp = {
-        visc: /(alola|galar|hisui)/
-    };
-    const selectedRegion = regionRegExp[game]?.test(region)? region : "original";
+    const [selectedRegion, setSelectedRegion] = useReducer(() => getRegion(game),"original");
+    useEffect(() => {
+        setSelectedRegion();
+    });
     const isOriginal = selectedRegion==null || selectedRegion=="original";
     const thisPokemon = !isOriginal && pokemon.forms!=null ? pokemon.forms.find(variant => {
         const regexp = new RegExp(`-${selectedRegion}$`);

@@ -1,18 +1,27 @@
-import { useState, useReducer } from 'react'
+import { useState, useReducer, useEffect } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
-import { useRouter } from 'next/router'
 import { serialize } from 'next-mdx-remote/serialize'
 import {Table, BriefSummary, Legend} from '../../components/Table'
 import styles from "../../styles/Table.module.css"
 
+const regionRegExp = {
+    visc: /(alola|galar|hisui)/
+};
+
+const getRegion = (game) => {
+    if(game==="swsh") return "original";
+    const query = new URLSearchParams(window.location.search);
+    const region = query.get("region");
+    console.log(region);
+    return regionRegExp[game]?.test(region)? region : "original";
+}
+
 export default function List({pokemonList, game, notes}) {
-    const { query } = useRouter();
-    const { region } = query;
-    const regionRegExp = {
-        visc: /(alola|galar|hisui)/
-    };
-    const selectedRegion = regionRegExp[game]?.test(region)? region : "original";
+    const [selectedRegion, setSelectedRegion] = useReducer(() => getRegion(game),"original");
+    useEffect(() => {
+        setSelectedRegion();
+    });
     const labels = {
         swsh: {
             base: 'Since launch',
