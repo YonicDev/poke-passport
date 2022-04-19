@@ -94,6 +94,8 @@ const CategoryTable = () => (
                     <p>During Sword &amp; Shield's development, it was assumed that (in most scenarios) the rest of their evolutionary line would also appear.</p>
                     <p>However, those games introduced region-exclusive evolutionary branches, putting this category in question. For Scarlet &amp; Violet, this category indicates that the likelihood
                     for a Pokémon in this category is <i>very high</i>, even if the game doesn't launch with support from them right away.</p>
+                    <p>This category also applies to all Pokémon with a regional form from a region have at least one confirmed specimen to appear. For example: If Alolan Meowth is confirmed to appear,
+                    then all the remaining Alolan forms are considered guaranteed, but not Galarian Meowth nor any of the Galarian forms.</p>
                 </td>
             </tr>
             <tr>
@@ -103,6 +105,7 @@ const CategoryTable = () => (
                     <ul>
                         <li>Pokémon that have appeared in-game as objects or other kind of representation, but not as a proper Pokémon.</li>
                         <li>Pokémon that belong to an evolutionary branch that has an evolutionary requirement that do not meet the criteria for being guaranteed (see below).</li>
+                        <li>Regional forms that have no confirmed Pokémon to appear.</li>
                     </ul>
                 </td>
             </tr>
