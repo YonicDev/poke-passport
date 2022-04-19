@@ -52,6 +52,8 @@ export default function Rules() {
             <ul>
                 <li>New Pokémon may be added after the games' launch via updates.</li>
                 <li>New Pokémon may be added after the games' launch via future side games.</li>
+                <li>Pokémon with regional forms may appear.</li>
+                <li>New regional forms of existing Pokémon may be added.</li>
                 <li>Counterpart Pokémon may change or not appear.</li>
                 <li>Breeding is possible, but not confirmed.</li>
                 <li>Modifications or workarounds of existing evolution mechanics are possible.</li>
@@ -86,12 +88,13 @@ const CategoryTable = () => (
         <tbody>
             <tr>
                 <td className={classNames(styles.status, styles.confirmed)}>Confirmed</td>
-                <td>These Pokémon have been confirmed to appear in the game and therefore transferable.</td>
+                <td>These Pokémon have been confirmed to appear in the game and therefore transferable. They have to appear in the wild, in a battle,
+                or any situation which allows the Pokémon to be controlled to be considered confirmed (i.e. contests or any side gameplay).</td>
             </tr>
             <tr>
                 <td className={classNames(styles.status, styles.guaranteed)}>Guaranteed</td>
                 <td>
-                    <p>During Sword &amp; Shield's development, it was assumed that (in most scenarios) the rest of their evolutionary line would also appear.</p>
+                    <p>During Sword &amp; Shield's development, it was assumed that for most confirmed Pokémon the rest of their evolutionary line would also appear.</p>
                     <p>However, those games introduced region-exclusive evolutionary branches, putting this category in question. For Scarlet &amp; Violet, this category indicates that the likelihood
                     for a Pokémon in this category is <i>very high</i>, even if the game doesn't launch with support from them right away.</p>
                     <p>This category also applies to all Pokémon with a regional form from a region have at least one confirmed specimen to appear. For example: If Alolan Meowth is confirmed to appear,
@@ -103,6 +106,7 @@ const CategoryTable = () => (
                 <td>
                     <p>These are Pokémon that may possibly appear. These Pokémon include:</p>
                     <ul>
+                        <li>Pokémon that have appeared in-game physically, but not in any of the aforementioned situations that would be considered to be guaranteed.</li>
                         <li>Pokémon that have appeared in-game as objects or other kind of representation, but not as a proper Pokémon.</li>
                         <li>Pokémon that belong to an evolutionary branch that has an evolutionary requirement that do not meet the criteria for being guaranteed (see below).</li>
                         <li>Regional forms that have no confirmed Pokémon to appear.</li>
@@ -134,11 +138,11 @@ const CriteriaTable = () => (
             </tr>
             <tr>
                 <td className={classNames(styles.status, styles.guaranteed)}>Assumed</td>
-                <td>According to the Pokémon that have been confirmed, it is assumed that this criteria is assumed to be applicable.</td>
+                <td>According to the Pokémon that have been confirmed, it is assumed that this criteria will be applicable.</td>
             </tr>
             <tr>
                 <td className={classNames(styles.status, styles.possible)}>Possible</td>
-                <td>In theory, this criteria should be applicable. This label is used when Pokémon that use this criteria are confirmed.</td>
+                <td>In theory, this criteria should be applicable. This label is also used when related Pokémon that use this criteria are Guaranteed, and/or a depending criteria is Assumed.</td>
             </tr>
             <tr>
                 <td className={classNames(styles.status, styles.workaround)}>Replaced</td>
@@ -233,15 +237,20 @@ const EvolutionTable = () => {
 const BreedingTable = () => {
     const criteria = {
         "Breeding": "assumed",
-        "Leveling up in a specific location": "possible",
-        "Leveling up with a specific Pokémon": "unknown",
-        "Leveling up under a certain weather": "unknown",
-        "Trading with a specific item": "unknown",
-        "Trading with a specific Pokémon": "unknown",
-        "High friendship": "assumed",
-        "Dependance of time of day": "possible",
-        "Pokémon-specific evolution": "unknown",
-        "New evolution mechanics": "possible"
+        "Nidoran♂ and Volbeat can have both female and male offspring": "assumed",
+        "100% male Pokémon can have male offspring": "possible",
+        "Genderless Pokémon can have offspring": "assumed",
+        "Regional form is the same as breeding region": "unknown",
+        "If a parent holds an Everstone, the offspring may have the same regional form as the parent": "unknown",
+        "Sea Incense": "unknown",
+        "Rose Incense": "unknown",
+        "Pure Incense": "unknown",
+        "Rock Incense": "unknown",
+        "Odd Incense": "unknown",
+        "Luck Incense": "possible",
+        "Wave Incense": "unknown",
+        "Full Incense": "unknown",
+        "New incenses or breeding mechanics": "possible"
     }
 
     return (

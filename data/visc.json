@@ -214,10 +214,15 @@
     {
         "id": "pikachu",
         "name": "Pikachu",
-        "status": "confirmed",
-        "lastUpdated": "2022/4/6",
-        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s)",
+        "status": "possible",
+        "lastUpdated": "2022/4/19",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s) are no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "confirmed",
+                "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s)"
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -228,17 +233,22 @@
     {
         "id": "raichu",
         "name": "Raichu",
-        "status": "possible",
-        "lastUpdated": "2022/4/6",
-        "details": "Requires Thunder Stone to be Assumed to be guaranteed.",
+        "status": "unknown",
+        "lastUpdated": "2022/4/19",
+        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu), is no longer Confirmed.",
         "forms": [
             {
                 "id": "raichu-alola",
                 "name": "Raichu",
                 "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be possible.",
+                "lastUpdated": "2022/4/19",
+                "details": "Requires Raichu from Kanto to be Guaranteed or Confirmed, and regional forms to be Confirmed to be at least Possible.",
                 "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": "Requires regional forms to be Confirmed to be at least Possible."
+                    },
                     {
                         "date": "2022/4/5",
                         "status": "unknown",
@@ -248,6 +258,11 @@
             }
         ],
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "possible",
+                "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -527,7 +542,7 @@
                 "name": "Meowth",
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be possible.",
+                "details": "Requires regional forms to be Confirmed to be at least Possible.",
                 "history": [
                     {
                         "date": "2022/4/5",
@@ -541,7 +556,7 @@
                 "name": "Meowth",
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be possible.",
+                "details": "Requires regional forms to be Confirmed to be at least Possible.",
                 "history": [
                     {
                         "date": "2022/4/5",
@@ -571,7 +586,7 @@
                 "name": "Persian",
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be possible.",
+                "details": "Requires regional forms to be Confirmed to be at least Possible.",
                 "history": [
                     {
                         "date": "2022/4/5",
@@ -1258,10 +1273,15 @@
     {
         "id": "chansey",
         "name": "Chansey",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "unknown",
+        "lastUpdated": "2022/4/19",
+        "details": "The only Confirmed member of its evolutionary line, [Blissey](/poke-passport/visc/blissey) is no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -1792,10 +1812,15 @@
     {
         "id": "pichu",
         "name": "Pichu",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "unknown",
+        "lastUpdated": "2022/4/19",
+        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu) is no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -2416,10 +2441,15 @@
     {
         "id": "blissey",
         "name": "Blissey",
-        "status": "confirmed",
-        "lastUpdated": "2022/4/6",
-        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s).",
+        "status": "possible",
+        "lastUpdated": "2022/4/19",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s) are no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "confirmed",
+                "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s)."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -3200,10 +3230,15 @@
     {
         "id": "swablu",
         "name": "Swablu",
-        "status": "confirmed",
-        "lastUpdated": "2022/4/6",
-        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s)",
+        "status": "possible",
+        "lastUpdated": "2022/4/19",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s) are no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "confirmed",
+                "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s)"
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -3214,10 +3249,15 @@
     {
         "id": "altaria",
         "name": "Altaria",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "unknown",
+        "lastUpdated": "2022/4/19",
+        "details": "The only Confirmed member of its evolutionary line, [Swablu](/poke-passport/visc/swablu), is no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -4116,10 +4156,15 @@
     {
         "id": "happiny",
         "name": "Happiny",
-        "status": "possible",
-        "lastUpdated": "2022/4/6",
-        "details": "Requires breeding with incenses to be Assumed to be guaranteed.",
+        "status": "unknown",
+        "lastUpdated": "2022/4/19",
+        "details": "The only Confirmed member of its evolutionary line, [Blissey](/poke-passport/visc/blissey) is no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "possible",
+                "details": "Requires breeding with incenses to be Assumed or Confirmed to be at least Guaranteed."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -4312,7 +4357,7 @@
         "name": "Magnezone",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires evolution via leveling up in a magnetic field to be Assumed to be guaranteed.",
+        "details": "Requires evolution via leveling up in a magnetic field to be Assumed or Confirmed to be at least Guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -5030,14 +5075,14 @@
         "name": "Lilligant",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires Sun Stone to be Assumed to be guaranteed.",
+        "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed.",
         "forms": [
             {
                 "id": "lilligant-hisui",
                 "name": "Lilligant",
                 "status": "unknown",
                 "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be possible.",
+                "details": "Requires regional forms to be Confirmed to be at least Possible.",
                 "history": []
             }
         ],
@@ -6892,7 +6937,7 @@
         "name": "Tsareena",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires leveling up while knowing a move to be Assumed to be guaranteed.",
+        "details": "Requires leveling up while knowing a move to be Assumed or Confirmed to be at least Guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
@@ -7698,7 +7743,7 @@
         "name": "Perrserker",
         "status": "possible",
         "lastUpdated": "2022/4/6",
-        "details": "Requires Galarian-form exclusive evolutions to be Assumed to be guaranteed.",
+        "details": "Requires Galarian-form exclusive evolutions to be Assumed or Confirmed to be at least Guaranteed.",
         "history": [
             {
                 "date": "2022/4/5",
