@@ -1,5 +1,10 @@
 #!/usr/env/bin node
 
+// Usage:
+//     node setup.mjs game [options]
+// Parameters:
+//     [game]: The game ID. A JSON data file will be created with this name.
+
 import fs from 'fs';
 import path from 'path';
 import Pokedex from 'pokedex-promise-v2';
@@ -8,7 +13,13 @@ import ora from 'ora';
 const spinner = ora('Fetching Pokemon list...').start();
 
 async function getPokemonList(targetGame) {
-    let limit = 10000;
+    //! Make sure you have the total amount of Pokémon in the game to gameLimits
+    //! up to date if you want to reset the game's table!
+    const gameLimits = {
+        swsh: 807,
+        visc: 905,
+    }
+    const limit = gameLimits[targetGame];
     if (targetGame === 'swsh') {
         limit = 807;
     } else if (targetGame === 'visc') {
@@ -23,7 +34,7 @@ async function getPokemonList(targetGame) {
         try {
             const {name} = (await dex.getPokemonSpeciesByName(pokemon.name)).names.filter(name => name.language.name === 'en')[0]
             spinner.text = `Setting up status info for ${name}...`;
-            return {id: pokemon.name, name: name, status: "unknown", lastUpdated: new Date().toLocaleDateString("ja"), details: "", history: []}
+            return {id: pokemon.name, name: name, status: "unknown", lastUpdated: new Date().toLocaleDateString("ja"), details: "", forms:[], history: []}
         } catch (e) {
             spinner.fail(`Failed to fetch ${pokemon.name}: ${e.message}`);
         }
