@@ -13,7 +13,6 @@ const getRegion = (game) => {
     if(game==="swsh") return "original";
     const query = new URLSearchParams(window.location.search);
     const region = query.get("region");
-    console.log(region);
     return regionRegExp[game]?.test(region)? region : "original";
 }
 

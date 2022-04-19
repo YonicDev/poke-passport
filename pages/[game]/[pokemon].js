@@ -171,7 +171,11 @@ function NavigationLink({game, pokemon, number, direction, preferredForm}) {
                 const formTest = new RegExp(`-(?:${preferredForm})`); 
                 return formTest.test(form.id);
             });
-            form = preferredForm;
+            if(thisPokemon)
+                form = preferredForm;
+            else
+                // Since we're not reassigning thisPokemon, we don't have to clone here.
+                thisPokemon = pokemon;
         }
         return (
             <Link href={`/${game}/${pokemon.id}${form!=="original"?`?region=${form}`:""}`} passHref>
