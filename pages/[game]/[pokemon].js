@@ -10,10 +10,14 @@ import styles from "../../styles/PokemonInfo.module.css";
 
 export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, nextPokemon}) {
     const {query} = useRouter();
-    const {region} = query;
-    const isOriginal = region==null || region=="original";
+    const region = query.region;
+    const regionRegExp = {
+        visc: /(alola|galar|hisui)/
+    };
+    const selectedRegion = regionRegExp[game]?.test(region)? region : "original";
+    const isOriginal = selectedRegion==null || selectedRegion=="original";
     const thisPokemon = !isOriginal && pokemon.forms!=null ? pokemon.forms.find(variant => {
-        const regexp = new RegExp(`-${region}$`);
+        const regexp = new RegExp(`-${selectedRegion}$`);
         return regexp.test(variant.id);
     }) : pokemon;
     
@@ -32,12 +36,12 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         swsh: {
             backgroundImage: `url("/poke-passport/logo-visc.svg"), url("/poke-passport/bg-swsh.svg")`,
             backgroundBlendMode: "overlay, hard-light",
-            backgroundSize: `${regionShortForm[region]?.size || regionShortForm.original.size}, 150px`
+            backgroundSize: `${regionShortForm[selectedRegion]?.size || regionShortForm.original.size}, 150px`
         },
         visc: {
-            backgroundImage: `url("/poke-passport/logo-${regionShortForm[region]?.id || regionShortForm.original.id}.svg"), url("/poke-passport/bg-visc.svg")`,
+            backgroundImage: `url("/poke-passport/logo-${regionShortForm[selectedRegion]?.id || regionShortForm.original.id}.svg"), url("/poke-passport/bg-visc.svg")`,
             backgroundBlendMode: "overlay, multiply",
-            backgroundSize: `${regionShortForm[region]?.size || regionShortForm.original.size}, 150px`
+            backgroundSize: `${regionShortForm[selectedRegion]?.size || regionShortForm.original.size}, 150px`
         }
     }
     const labels = {
@@ -65,8 +69,8 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         hisui: "Hisuian"
     }
     const forms = pokemon.forms?.map(form => {
-        const formName = /(alola|galar|hisui)/.exec(form.id)[1];
-        if(formName===region) return;
+        const formName = regionRegExp[game].exec(form.id)[1] // No need for validation. The regexp should always match.
+        if(formName===selectedRegion) return;
         return (<div className={classNames(styles.formLink,styles[form.status],styles[`${game}-${form.status}`])} key={form.id}>
             <Link href={`/${game}/${pokemon.id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${form.id}.png`}/></a></Link>
         </div>)
@@ -83,14 +87,14 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
     return (<>
         <center>
             <h1>Info for {gameTitles[game]}</h1>
-            <Link href={`/${game}${region!=null&&region!=="original"?`?region=${region}`:""}`}><a>↑ Back to list</a></Link>
+            <Link href={`/${game}${!isOriginal?`?region=${selectedRegion}`:""}`}><a>↑ Back to list</a></Link>
         </center>
         <Head>
             <title>Status of {thisPokemon.name} in {gameTitles[game]} - PokéPassport</title>
             <meta name="description" content={`Check if ${thisPokemon.name} can be transfered to ${gameTitles[game]}`} />
         </Head>
         <div className={styles.pageContainer}>
-            <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1} preferredForm={region}/>
+            <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1} preferredForm={selectedRegion}/>
             <div className={styles.container}>
                 <div className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status])} style={iconContainerStyles[game]}>
                     <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`} />
@@ -102,7 +106,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                 <div className={styles.details}>
                     <h3>Notes</h3>
                     <MDXProvider components={components}>
-                        <MDXRemote {...notes[region||"original"].main} />
+                        <MDXRemote {...notes[selectedRegion||"original"].main} />
                     </MDXProvider>
                 </div>
                 <div className={pokemon.history.length > 0 ? styles.history : styles.historyEmpty}>
@@ -124,7 +128,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                                         <td className={classNames(styles.statusTable, styles[entry.status],styles[game+"-"+entry.status])}>{labels[game][entry.status]}</td>
                                         <td>
                                             <MDXProvider components={components}>
-                                                <MDXRemote {...notes[region||"original"].history[i]} />
+                                                <MDXRemote {...notes[selectedRegion||"original"].history[i]} />
                                             </MDXProvider>
                                         </td>
                                     </tr>
@@ -134,7 +138,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                     </table></>}
                 </div>
             </div>
-            <NavigationLink game={game} pokemon={nextPokemon} direction="right" number={index+1} preferredForm={region}/>
+            <NavigationLink game={game} pokemon={nextPokemon} direction="right" number={index+1} preferredForm={selectedRegion}/>
         </div>
         </>
     )
@@ -149,12 +153,13 @@ function NavigationLink({game, pokemon, number, direction, preferredForm}) {
         left: "First Pokémon",
         right: "Last Pokémon"
     }
-    let thisPokemon = {...pokemon};
-    let form = "original";
+    const isOriginal = preferredForm==null || preferredForm==="original";
     if(pokemon!=null) {
-        if(preferredForm && pokemon.forms?.length > 0) {
+        let thisPokemon = {...pokemon};
+        let form = "original";
+        if(!isOriginal && pokemon.forms?.length > 0) {
             thisPokemon = pokemon.forms.find(form => {
-                const formTest = new RegExp(`-${preferredForm}$`); 
+                const formTest = new RegExp(`-(?:${preferredForm})`); 
                 return formTest.test(form.id);
             });
             form = preferredForm;
@@ -180,7 +185,8 @@ function NavigationLink({game, pokemon, number, direction, preferredForm}) {
 }
 
 export async function getStaticProps({params}) {
-    const pokemonList = (await import (`../../data/${params.game}.json`)).default;
+    const {game} = params;
+    const pokemonList = (await import (`../../data/${game}.json`)).default;
     const pokemon = pokemonList.find(pokemon => pokemon.id === params.pokemon);
     const ix = pokemonList.indexOf(pokemon);
     const prevPokemon = pokemonList[ix-1] || null;
@@ -192,7 +198,7 @@ export async function getStaticProps({params}) {
         }
     };
     for(const form of pokemon.forms || []) {
-        notes[/-(alola|galar|hisui)/.exec(form.id)[1]] = {
+        notes[/(alola|galar|hisui)/.exec(form.id)[1]] = {
             main: await serialize(form.details || "No notes"),
             history: await Promise.all(form.history.map(async entry => serialize(entry.details || "No notes")))
         }
@@ -200,7 +206,7 @@ export async function getStaticProps({params}) {
 
     return {
         props: {
-            game: params.game,
+            game,
             pokemon,
             index: pokemonList.indexOf(pokemon) + 1,
             notes,

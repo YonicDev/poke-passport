@@ -8,7 +8,11 @@ import styles from "../../styles/Table.module.css"
 
 export default function List({pokemonList, game, notes}) {
     const { query } = useRouter();
-    const selectedRegion = query.region || "original";
+    const { region } = query;
+    const regionRegExp = {
+        visc: /(alola|galar|hisui)/
+    };
+    const selectedRegion = regionRegExp[game]?.test(region)? region : "original";
     const labels = {
         swsh: {
             base: 'Since launch',
@@ -45,7 +49,7 @@ export default function List({pokemonList, game, notes}) {
     if(selectedRegion !== "origin") {
         for(const pokemonId in pokemonWithForms) {
             const pokemon = pokemonWithForms[pokemonId];
-            const form = pokemon.forms.find(form => new RegExp(selectedRegion).test(form.id));
+            const form = pokemon.forms.find(form => new RegExp(`-(?:${selectedRegion})`).test(form.id));
             if(form != null) {
                 const originalPoke = pokemonList.find(poke => poke.id === pokemon.id);
                 pokeList[pokemonList.indexOf(originalPoke)] = form;
