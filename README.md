@@ -52,7 +52,7 @@ PS X:folder\to\poke-passport> node .\scripts\update.mjs [target-game] [pokemon-i
 * `[target-game]` refers to the internal ID of the game(s) that PokéPassport uses to hold the data. You can figure which one to use by checking the data folder.
 * `[pokemon-id]` is the internal ID of the Pokémon you want to edit. This internal ID can be found in the .json files in the data folder.
 * `[status]` (optional) allows to change the status of a Pokémon.
-* `[details]` (optional) allows to change the notes of a Pokémon.
+* `[details]` (optional) allows to change the notes of a Pokémon. By putting the text with double quotes (`"like so"`), you can use [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) to add text-formatting and links to sources.
 * `[region]` (optional) allows to edit information about a regional form of a Pokémon.
 * `[--force]` (optional) forces adding a new regional form for the Pokémon if it doesn't exist.
 
