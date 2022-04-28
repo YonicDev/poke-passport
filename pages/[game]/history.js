@@ -11,7 +11,8 @@ export default function GameHistory({history, game, gameName}) {
     return (
         <div className={styles.articleWrapper}>
             <Head>
-                <title>{gameName} transferability history</title>
+                <title>{gameName} transferability history - PokéPassport</title>
+                <meta name="description" content={`In this page you can check the full history of changes of the ${gameName} Transfer Table`} />
             </Head>
             <h2>Table history for {gameName}</h2>
             {game === "swsh" ? <Unsupported game={game} gameName={gameName}/> : 
