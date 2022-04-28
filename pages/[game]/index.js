@@ -153,7 +153,7 @@ export async function getStaticPaths() {
     const promisify = (await import ('util')).promisify;
     const readdir = promisify(fs.readdir);
 
-    const files = await readdir(`${process.cwd()}/data`);
+    const files = (await readdir(`${process.cwd()}/data`)).filter(file => file.endsWith('.json'));
     return {
         paths: files.map(file => ({params: {game: file.replace('.json', '')}})),
         fallback: false
