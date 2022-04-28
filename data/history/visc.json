@@ -1,13 +1,384 @@
 [
     {
-        "date": "2022/04/05",
+        "date": "2022/4/19",
+        "pokemon": "happiny",
+        "region": "original",
+        "status": "unknown",
+        "details": "The only Confirmed member of its evolutionary line, [Blissey](/poke-passport/visc/blissey), is no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "chansey",
+        "region": "original",
+        "status": "unknown",
+        "details": "The only Confirmed member of its evolutionary line, [Blissey](/poke-passport/visc/blissey), is no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "blissey",
+        "region": "original",
+        "status": "possible",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s) are no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "altaria",
+        "region": "original",
+        "status": "unknown",
+        "details": "The only Confirmed member of its evolutionary line, [Swablu](/poke-passport/visc/swablu), is no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "swablu",
+        "region": "original",
+        "status": "possible",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s) are no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "pichu",
+        "region": "original",
+        "status": "unknown",
+        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu), is no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "raichu",
+        "region": "original",
+        "status": "unknown",
+        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu), is no longer Confirmed."
+    },
+    {
+        "date": "2022/4/19",
+        "pokemon": "pikachu",
+        "region": "original",
+        "status": "possible",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s) are no longer Confirmed."
+    },
+    {
+        "date": "2022/4/16",
+        "pokemon": "lilligant",
+        "region": "hisui",
+        "status": "unknown",
+        "details": "Requires regional forms to be Confirmed to be possible."
+    },
+    {
+        "date": "2022/4/16",
+        "pokemon": "persian",
+        "region": "alola",
+        "status": "unknown",
+        "details": "Requires regional forms to be Confirmed to be possible."
+    },
+    {
+        "date": "2022/4/16",
+        "pokemon": "meowth",
+        "region": "galar",
+        "status": "unknown",
+        "details": "Requires regional forms to be Confirmed to be possible."
+    },
+    {
+        "date": "2022/4/16",
+        "pokemon": "meowth",
+        "region": "alola",
+        "status": "unknown",
+        "details": "Requires regional forms to be Confirmed to be possible."
+    },
+    {
+        "date": "2022/4/16",
+        "pokemon": "raichu",
+        "region": "alola",
+        "status": "unknown",
+        "details": "Requires regional forms to be Confirmed to be possible."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "dratini",
+        "region": "original",
+        "status": "possible",
+        "details": "A fountain shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m44s) has a statue of Dratini at the top."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "riolu",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "lucario",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m40s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "pichu",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "raichu",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "pikachu",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s)"
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "magnezone",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires evolution via leveling up in a magnetic field to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "magneton",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "magnemite",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m39s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "tyranitar",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "pupitar",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "larvitar",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen shortly in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m38s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "seviper",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m37s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "happiny",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires breeding with incenses to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "chansey",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "blissey",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m36s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "altaria",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "swablu",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s)"
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "wingull",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "pelipper",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in a beach in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m29s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "clawitzer",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "clauncher",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in a beach in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m29s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "stonjourner",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three can be seen walking in a desert in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m28s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "persian",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "meowth",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m25s)"
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "vespiquen",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "combee",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen (one being female) in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m21s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "drifblim",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "drifloon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m21s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "golduck",
+        "status": "guaranteed",
+        "region": "original",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "psyduck",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m19s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "tsareena",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires leveling up while knowing a move to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "steenee",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "bounsweet",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m18s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "lilligant",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "petilil",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three are seen in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m18s)."
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "jumpluff",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "skiploom",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/6",
+        "pokemon": "hoppip",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A flock can be seen on the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m17s)."
+    },
+    {
+        "date": "2022/4/5",
+        "pokemon": "staraptor",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/4/5",
         "pokemon": "staravia",
         "region": "original",
         "status": "guaranteed",
         "details": ""
     },
     {
-        "date": "2022/04/05",
+        "date": "2022/4/5",
         "pokemon": "starly",
         "region": "original",
         "status": "confirmed",
