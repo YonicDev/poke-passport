@@ -4,10 +4,11 @@ import { MDXProvider } from "@mdx-js/react";
 import { MDXRemote } from "next-mdx-remote";
 import { serialize } from 'next-mdx-remote/serialize'
 import classNames from "classnames";
+import { addTrailingZeroes } from "../../util.ts";
 
 import styles from "../../styles/History.module.css";
 
-export default function GameHistory({history, game, gameName}) {
+export default function GameHistory({pokemonList, history, game, gameName}) {
     return (
         <div className={styles.articleWrapper}>
             <Head>
@@ -17,9 +18,9 @@ export default function GameHistory({history, game, gameName}) {
             <h2>Table history for {gameName}</h2>
             {game === "swsh" ? <Unsupported game={game} gameName={gameName}/> : 
                 <>
-                    <p>This table orders the changes to the Transfer Table from more recent to oldest.</p>
+                    <center>This table orders the changes to the Transfer Table from more recent to oldest. The date is displayed in a YYYY/MM/DD format.</center>
                     <Navigation game={game} />
-                    <History history={history} game={game}/>
+                    <History history={history} game={game} pokemonList={pokemonList}/>
                 </>}
         </div>
     )
@@ -42,7 +43,8 @@ function Navigation({game}) {
     )
 }
 
-function History({history, game}) {
+function History({history, game, pokemonList}) {
+    console.log(history);
     return (
         <table className={styles.historyTable}>
             <thead>
@@ -55,14 +57,19 @@ function History({history, game}) {
                 </tr>
             </thead>
             <tbody>
-                {history.map((entry, index) => <HistoryEntry key={index} form={entry.form || "original"} game={game} {...entry} />)}
+                {history.map((entry, index) => {
+                    const pokemon = pokemonList.find(poke => poke.id === entry.pokemon);
+                    console.log(pokemon);
+                    const dexNumber = pokemonList.indexOf(pokemon) + 1;
+                    return <HistoryEntry key={index} form={entry.form || "original"} game={game} pokemonInfo={pokemon} dexNumber={dexNumber} {...entry} />
+                })}
             </tbody>
         </table>
     )
 }
 
 function HistoryEntry(entry) {
-    const {date, pokemonId, pokemonName, region: form, status, details, game} = entry
+    const {date, pokemonInfo: pokemon, region: form, dexNumber, status, details, game} = entry
     const statusLabels = {
         confirmed: "Confirmed",
         guaranteed: "Guaranteed",
@@ -94,12 +101,17 @@ function HistoryEntry(entry) {
     return (
         <tr>
             <td className={styles.fieldDate}>{date}</td>
-            <td className={classNames(styles.fieldPokemon, styles[status], styles[form])} style={{backgroundImage: `url(${forms[form].icon})`}}>
-                <Link href={`/${game}/${pokemonId}${form&&form!="original"?`?region=${form}`:""}`}>
-                    <a><img alt={pokemonName} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemonId}${form&&form!="original"?`-${form}`:""}.png`}/></a>
+            <td className={classNames(styles.fieldPokemon, styles[status], styles[form])}>
+                <Link href={`/${game}/${pokemon.id}${form&&form!="original"?`?region=${form}`:""}`}>
+                    <a title={pokemon.name} style={{position: "relative"}}><span className={styles.dexNumber}>{addTrailingZeroes(dexNumber)}</span><img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}${form&&form!="original"?`-${form}`:""}.png`}/></a>
                 </Link>
             </td>
-            <td className={styles.fieldForm}>{form? forms[form].tag || "INVALID" : "Original"}</td>
+            <td className={styles.fieldForm}>
+                <div className={styles.formWrapper}>
+                    <img className={styles.icon} alt={forms[form].tag} src={forms[form].icon}/>
+                    <span>{form? forms[form].tag || "INVALID" : "Original"}</span>
+                </div>
+            </td>
             <td className={styles.fieldStatus}>{status? statusLabels[status] || "INVALID TAG" : "No status"}</td>
             <td><MDXProvider components={components}><MDXRemote {...details} /></MDXProvider></td>
         </tr>
@@ -122,6 +134,7 @@ export async function getStaticProps({params}) {
     const { game } = params;
     if(game === "swsh") return { props: {game, gameName: "Sword & Shield", history: []} }
     const history = (await import (`../../data/history/${game}.json`)).default;
+    const pokemonList = (await import (`../../data/${game}.json`)).default;
     const gameTitles = {
         swsh: "Pokémon Sword & Shield",
         visc: "Pokémon Scarlet & Violet"
@@ -138,6 +151,7 @@ export async function getStaticProps({params}) {
         props: {
             game,
             gameName: gameTitles[game],
+            pokemonList,
             history: processedHistory
         }
     }

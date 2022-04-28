@@ -91,3 +91,31 @@
 .navigation > * {
     margin: 0 1em;
 }
+
+.dexNumber {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.125);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 25%);
+}
+
+.no .dexNumber {
+    color:rgba(255, 255, 255, 0.1)
+}
+
+.guaranteed .dexNumber {
+    color:rgba(255, 255, 255, 0.3)
+}
+
+.formWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    width: 40px;
+    margin: 0.5rem;
+}

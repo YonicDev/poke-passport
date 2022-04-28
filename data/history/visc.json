@@ -1,42 +1,16 @@
 [
     {
-        "date": "2020-01-01",
-        "pokemonId": "growlithe",
-        "pokemonName": "Growlithe",
-        "region": "hisui",
-        "status": "unknown",
-        "details": "[Asdfasfasd](https://www.google.com/)"
-    },
-    {
-        "date": "2020-01-01",
-        "pokemonId": "raichu",
-        "pokemonName": "Raichu",
-        "region": "alola",
-        "status": "guaranteed",
-        "details": "[Asdfasfasd](https://www.google.com/)"
-    },
-    {
-        "date": "2020-01-01",
-        "pokemonId": "weezing",
-        "pokemonName": "Weezing",
-        "region": "galar",
-        "status": "possible",
-        "details": "[Asdfasfasd](https://www.google.com/)"
-    },
-    {
-        "date": "2020-01-01",
-        "pokemonId": "illumise",
-        "pokemonName": "Illumise",
+        "date": "2022/04/05",
+        "pokemon": "staravia",
         "region": "original",
-        "status": "no",
-        "details": "[Asdfasfasd](https://www.google.com/)"
+        "status": "guaranteed",
+        "details": ""
     },
     {
-        "date": "2020-01-01",
-        "pokemonId": "mudkip",
-        "pokemonName": "mudkip",
+        "date": "2022/04/05",
+        "pokemon": "starly",
         "region": "original",
         "status": "confirmed",
-        "details": "[Asdfasfasd](https://www.google.com/)"
+        "details": "A bunch of Starly are the first Pokémon shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=734s)."
     }
 ]
