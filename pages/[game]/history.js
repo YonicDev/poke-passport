@@ -10,19 +10,24 @@ import styles from "../../styles/History.module.css";
 
 export default function GameHistory({pokemonList, history, game, gameName}) {
     return (
-        <div className={styles.articleWrapper}>
-            <Head>
-                <title>{gameName} transferability history - PokéPassport</title>
-                <meta name="description" content={`In this page you can check the full history of changes of the ${gameName} Transfer Table`} />
-            </Head>
+        <>
+        <Head>
+            <title>{gameName} transferability history - PokéPassport</title>
+            <meta name="description" content={`In this page you can check the full history of changes of the ${gameName} Transfer Table`} />
+        </Head>
+        <center>
             <h2>Table history for {gameName}</h2>
             {game === "swsh" ? <Unsupported game={game} gameName={gameName}/> : 
                 <>
-                    <center>This table orders the changes to the Transfer Table from more recent to oldest. The date is displayed in a YYYY/MM/DD format.</center>
+                    <p>This table orders the changes to the Transfer Table the most recent to oldest. The date is displayed in a YYYY/MM/DD format.</p>
                     <Navigation game={game} />
-                    <History history={history} game={game} pokemonList={pokemonList}/>
-                </>}
-        </div>
+                </>
+            }
+        </center>
+        {game && game !== "swsh" && <div className={styles.articleWrapper}>
+            <History history={history} game={game} pokemonList={pokemonList}/>
+        </div>}
+        </>
     )
 }
 
@@ -44,7 +49,6 @@ function Navigation({game}) {
 }
 
 function History({history, game, pokemonList}) {
-    console.log(history);
     return (
         <table className={styles.historyTable}>
             <thead>
@@ -59,7 +63,6 @@ function History({history, game, pokemonList}) {
             <tbody>
                 {history.map((entry, index) => {
                     const pokemon = pokemonList.find(poke => poke.id === entry.pokemon);
-                    console.log(pokemon);
                     const dexNumber = pokemonList.indexOf(pokemon) + 1;
                     return <HistoryEntry key={index} form={entry.form || "original"} game={game} pokemonInfo={pokemon} dexNumber={dexNumber} {...entry} />
                 })}
@@ -103,7 +106,7 @@ function HistoryEntry(entry) {
             <td className={styles.fieldDate}>{date}</td>
             <td className={classNames(styles.fieldPokemon, styles[status], styles[form])}>
                 <Link href={`/${game}/${pokemon.id}${form&&form!="original"?`?region=${form}`:""}`}>
-                    <a title={pokemon.name} style={{position: "relative"}}><span className={styles.dexNumber}>{addTrailingZeroes(dexNumber)}</span><img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}${form&&form!="original"?`-${form}`:""}.png`}/></a>
+                    <a title={pokemon.name} style={{position: "relative"}}><span className={styles.dexNumber}>{addTrailingZeroes(dexNumber, 3)}</span><img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}${form&&form!="original"?`-${form}`:""}.png`}/></a>
                 </Link>
             </td>
             <td className={styles.fieldForm}>
