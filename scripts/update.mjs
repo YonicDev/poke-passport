@@ -106,9 +106,7 @@ console.log("Pushing change to the history...");
 const gameHistory = JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "history", `${game}.json`)));
 gameHistory.unshift({
     date: new Date().toLocaleDateString("ja"),
-    pokemonId: pokemon.id,
-    pokemonName: pokemon.name,
-    pokemonNumber: pokemonList.indexOf(pokemon) + 1,
+    pokemon: pokemon.id,
     region: region? region : "original",
     status: pokemon.status,
     details: pokemon.details
