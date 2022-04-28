@@ -54,6 +54,12 @@
     width: 10em;
 }
 
+.historyTable .pokemonThumbnail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .unknown {
     background-color: #aaa;
 }
@@ -96,8 +102,6 @@
     font-weight: bold;
     color: rgba(0, 0, 0, 0.125);
     position: absolute;
-    left: 50%;
-    transform: translate(-50%, 25%);
 }
 
 .no .dexNumber {
