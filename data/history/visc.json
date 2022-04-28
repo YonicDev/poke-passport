@@ -1,5 +1,19 @@
 [
     {
+        "date": "2022/4/28",
+        "pokemon": "mimikyu",
+        "region": "original",
+        "status": "unknown",
+        "details": "A shadowy figure appears in a red CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s), but it is disputed whether it represents a Mimikyu or a Pikachu."
+    },
+    {
+        "date": "2022/4/28",
+        "pokemon": "chewtle",
+        "region": "original",
+        "status": "possible",
+        "details": "Appears in a purple CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s)."
+    },
+    {
         "date": "2022/4/19",
         "pokemon": "happiny",
         "region": "original",

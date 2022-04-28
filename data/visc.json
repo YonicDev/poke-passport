@@ -7062,9 +7062,15 @@
         "id": "mimikyu",
         "name": "Mimikyu",
         "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "lastUpdated": "2022/4/28",
+        "details": "A shadowy figure appears in a red CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s), but it is disputed whether it represents a Mimikyu or a Pikachu.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "bruxish",
@@ -7501,10 +7507,16 @@
     {
         "id": "chewtle",
         "name": "Chewtle",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/4/28",
+        "details": "Appears in a purple CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "drednaw",
