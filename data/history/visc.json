@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2020-01-01",
+        "pokemonId": "growlithe",
+        "pokemonName": "Growlithe",
+        "region": "hisui",
+        "status": "unknown",
+        "details": "[Asdfasfasd](https://www.google.com/)"
+    },
+    {
+        "date": "2020-01-01",
+        "pokemonId": "raichu",
+        "pokemonName": "Raichu",
+        "region": "alola",
+        "status": "guaranteed",
+        "details": "[Asdfasfasd](https://www.google.com/)"
+    },
+    {
+        "date": "2020-01-01",
+        "pokemonId": "weezing",
+        "pokemonName": "Weezing",
+        "region": "galar",
+        "status": "possible",
+        "details": "[Asdfasfasd](https://www.google.com/)"
+    },
+    {
+        "date": "2020-01-01",
+        "pokemonId": "illumise",
+        "pokemonName": "Illumise",
+        "region": "original",
+        "status": "no",
+        "details": "[Asdfasfasd](https://www.google.com/)"
+    },
+    {
+        "date": "2020-01-01",
+        "pokemonId": "mudkip",
+        "pokemonName": "mudkip",
+        "region": "original",
+        "status": "confirmed",
+        "details": "[Asdfasfasd](https://www.google.com/)"
+    }
+]

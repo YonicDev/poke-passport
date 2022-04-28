@@ -235,7 +235,7 @@ export async function getStaticPaths() {
     const readdir = promisify(fs.readdir);
     const readfile = promisify(fs.readFile);
 
-    const files = await readdir(`${process.cwd()}/data`);
+    const files = (await readdir(`${process.cwd()}/data`)).filter(file => file.endsWith(".json"));
     const paths = await Promise.all(files.map(async (file) => {
         const data = JSON.parse(await readfile(`${process.cwd()}/data/${file}`));
         return data.map((pokemon) => {

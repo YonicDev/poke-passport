@@ -106,6 +106,7 @@ export default function List({pokemonList, game, notes}) {
                 <nav className={styles.navigator}>
                     <Link href={`/${game}/article/rules`}><a>Rules</a></Link>
                     <Link href={`/${game}/article/stats`}><a>Statistics</a></Link>
+                    {game!=="swsh" && <Link href={`/${game}/history`}><a>Full history</a></Link>}
                     <Link href="/"><a>Back to index</a></Link>
                 </nav>
                 {game !== "swsh" && <>
