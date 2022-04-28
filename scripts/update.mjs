@@ -102,4 +102,18 @@ if(region && pokemon.forms.length <= 0 && !forceRegion) {
 
 fs.writeFileSync(path.join(process.cwd(), "data", `${game}.json`), JSON.stringify(pokemonList, null, 4));
 console.log("Updated status info for", pokemon.name);
+console.log("Pushing change to the history...");
+const gameHistory = JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "history", `${game}.json`)));
+gameHistory.unshift({
+    date: new Date().toLocaleDateString("ja"),
+    pokemonId: pokemon.id,
+    pokemonName: pokemon.name,
+    pokemonNumber: pokemonList.indexOf(pokemon) + 1,
+    region: region? region : "original",
+    status: pokemon.status,
+    details: pokemon.details
+});
+fs.writeFileSync(path.join(process.cwd(), "data", "history", `${game}.json`), JSON.stringify(gameHistory, null, 4));
+console.log("Done!");
+
 process.exit();

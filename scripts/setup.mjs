@@ -50,5 +50,7 @@ getPokemonList(targetGame).then(pokemonList => {
     spinner.start('Writing status info to file...');
     fs.writeFileSync(path.join(process.cwd(), "data", `${targetGame}.json`), JSON.stringify(pokemonList, null, 4))
     spinner.succeed('Writing status info to file');
+    spinner.start('Writing history info to file...');
+    fs.writeFileSync(path.join(process.cwd(), "data", "history", `${targetGame}.json`), JSON.stringify([], null, 4))
     process.exit();
 })
