@@ -104,13 +104,33 @@ fs.writeFileSync(path.join(process.cwd(), "data", `${game}.json`), JSON.stringif
 console.log("Updated status info for", pokemon.name);
 console.log("Pushing change to the history...");
 const gameHistory = JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "history", `${game}.json`)));
-gameHistory.unshift({
-    date: new Date().toLocaleDateString("ja"),
-    pokemon: pokemon.id,
-    region: region? region : "original",
-    status: pokemon.status,
-    details: pokemon.details
-});
+
+if(region && region!=="original") {
+    const form = pokemon.forms.find(form => {
+        const regex = new RegExp(`-${region}`);
+        return regex.test(form.id);
+    });
+    if(!form && !forceRegion) {
+        console.error(`${pokemon.name} doesn't have a regional form from ${region}. To add it, use -f or --force.`);
+        process.exit(1);
+    } else {
+        gameHistory.unshift({
+            date: new Date().toLocaleDateString("ja"),
+            pokemon: pokemon.id,
+            region: region,
+            status: form.status,
+            details: form.details
+        });
+    }
+} else {
+    gameHistory.unshift({
+        date: new Date().toLocaleDateString("ja"),
+        pokemon: pokemon.id,
+        region: "original",
+        status: pokemon.status,
+        details: pokemon.details
+    });   
+}
 fs.writeFileSync(path.join(process.cwd(), "data", "history", `${game}.json`), JSON.stringify(gameHistory, null, 4));
 console.log("Done!");
 
