@@ -93,6 +93,8 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
 
     const emptyHistoryMessage = game === "swsh" ? "PokéPassport does not record the history of Sword & Shield availability." : "No history has been recorded yet for this Pokémon.";
 
+    const allDetails = selectedRegion!=null && selectedRegion!=="original" && notes[selectedRegion]!=null ? notes[selectedRegion] : notes.original;
+
     return (<>
         <center>
             <h1>Info for {gameTitles[game]}</h1>
@@ -115,7 +117,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                 <div className={styles.details}>
                     <h3>Notes</h3>
                     <MDXProvider components={components}>
-                        <MDXRemote {...notes[selectedRegion||"original"].main} />
+                        <MDXRemote {...allDetails.main} />
                     </MDXProvider>
                 </div>
                 <div className={pokemon.history.length > 0 ? styles.history : styles.historyEmpty}>
@@ -137,7 +139,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
                                         <td className={classNames(styles.statusTable, styles[entry.status],styles[game+"-"+entry.status])}>{labels[game][entry.status]}</td>
                                         <td>
                                             <MDXProvider components={components}>
-                                                <MDXRemote {...notes[selectedRegion||"original"].history[i]} />
+                                                <MDXRemote {...allDetails.history[i]} />
                                             </MDXProvider>
                                         </td>
                                     </tr>
