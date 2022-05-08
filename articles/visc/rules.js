@@ -52,7 +52,7 @@ export default function Rules() {
             <ul>
                 <li>New Pokémon may be added after the games' launch via updates.</li>
                 <li>New Pokémon may be added after the games' launch via future side games.</li>
-                <li>Pokémon with regional forms may appear.</li>
+                <li><b>Pokémon with regional forms appear.</b> (Confirmed as of May 8th 2022)</li>
                 <li>New regional forms of existing Pokémon may be added.</li>
                 <li>Counterpart Pokémon may change or not appear.</li>
                 <li>Breeding is possible, but not confirmed.</li>
@@ -183,7 +183,7 @@ const EvolutionTable = () => {
         "Leaf Stone": "unknown",
         "Moon Stone": "unknown",
         "Sun Stone": "possible",
-        "Shiny Stone": "unknown",
+        "Shiny Stone": "possible",
         "Dusk Stone": "unknown",
         "Dawn Stone": "unknown",
         "Ice Stone": "unknown",

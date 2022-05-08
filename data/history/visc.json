@@ -1,5 +1,82 @@
 [
     {
+        "date": "2022/5/8",
+        "pokemon": "meowth",
+        "region": "galar",
+        "status": "possible",
+        "details": "Requires Galarian forms to be Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "florges",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Shiny Stone to be assumed or confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "floette",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "flabebe",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Some Red Flower appear at the bottom center of a grass patch when the player walks back home [in the announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=135)."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "persian",
+        "region": "alola",
+        "status": "possible",
+        "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "meowth",
+        "region": "alola",
+        "status": "possible",
+        "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "lilligant",
+        "region": "hisui",
+        "status": "possible",
+        "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "zoroark",
+        "region": "original",
+        "status": "possible",
+        "details": "Hisuian form is Confirmed, but that's not enough to make it Guaranteed."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "zorua",
+        "region": "original",
+        "status": "unknown",
+        "details": "Hisuian form is Guaranteed, but that's not enough to make it Possible."
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "zorua",
+        "region": "hisui",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/5/8",
+        "pokemon": "zoroark",
+        "region": "hisui",
+        "status": "confirmed",
+        "details": "One is seen in a battle [at the background of the Pokémon Scarlet and Violet's international website](https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg)."
+    },
+    {
         "date": "2022/4/28",
         "pokemon": "mimikyu",
         "region": "original",

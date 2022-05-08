@@ -540,10 +540,15 @@
             {
                 "id": "meowth-alola",
                 "name": "Meowth",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be at least Possible.",
+                "status": "possible",
+                "lastUpdated": "2022/5/8",
+                "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed.",
                 "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": "Requires regional forms to be Confirmed to be at least Possible."
+                    },
                     {
                         "date": "2022/4/5",
                         "status": "unknown",
@@ -554,10 +559,15 @@
             {
                 "id": "meowth-galar",
                 "name": "Meowth",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be at least Possible.",
+                "status": "possible",
+                "lastUpdated": "2022/5/8",
+                "details": "Requires Galarian forms to be Confirmed to be at least least Guaranteed.",
                 "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": "Requires regional forms to be Confirmed to be at least Possible."
+                    },
                     {
                         "date": "2022/4/5",
                         "status": "unknown",
@@ -584,10 +594,15 @@
             {
                 "id": "persian-alola",
                 "name": "Persian",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be at least Possible.",
+                "status": "possible",
+                "lastUpdated": "2022/5/8",
+                "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed.",
                 "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": "Requires regional forms to be Confirmed to be at least Possible."
+                    },
                     {
                         "date": "2022/4/5",
                         "status": "unknown",
@@ -5080,10 +5095,16 @@
             {
                 "id": "lilligant-hisui",
                 "name": "Lilligant",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "Requires regional forms to be Confirmed to be at least Possible.",
-                "history": []
+                "status": "possible",
+                "lastUpdated": "2022/5/8",
+                "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": "Requires regional forms to be Confirmed to be at least Possible."
+                    }
+                ]
             }
         ],
         "history": [
@@ -5289,36 +5310,60 @@
         "name": "Zorua",
         "status": "unknown",
         "lastUpdated": "2022/4/5",
-        "details": "",
+        "details": "Hisuian form is Guaranteed, but that's not enough to make it Possible.",
         "forms": [
             {
                 "id": "zorua-hisui",
                 "name": "Zorua",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
+                "status": "guaranteed",
+                "lastUpdated": "2022/5/8",
                 "details": "",
-                "history": []
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "zoroark",
         "name": "Zoroark",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
+        "status": "possible",
+        "lastUpdated": "2022/5/8",
+        "details": "Hisuian form is Confirmed, but that's not enough to make it Guaranteed.",
         "forms": [
             {
                 "id": "zoroark-hisui",
                 "name": "Zoroark",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "confirmed",
+                "lastUpdated": "2022/5/8",
+                "details": "One is seen in a battle [at the background of the of the Pokémon Scarlet and Violet's international website](https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg).",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "minccino",
@@ -6119,26 +6164,44 @@
     {
         "id": "flabebe",
         "name": "Flabébé",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/5/8",
+        "details": "Some Red Flower appear at the bottom center of a grass patch when the player walks back home [in the announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=135).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "floette",
         "name": "Floette",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/5/8",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "florges",
         "name": "Florges",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/5/8",
+        "details": "Requires Shiny Stone to be assumed or confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "skiddo",
