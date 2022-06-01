@@ -10,6 +10,7 @@ const Header = () => {
     return (<header className="siteHeader">
         <Link href="/"><a className="navLogo" ><img alt="PokéPassport" src={PokeLogo.src} /></a></Link>
         <nav className="headerNav">
+            <Link href="/passport"><a className="passport">Passport list</a></Link>
             <Link href="/swsh"><a className="swsh">Sword &amp; Shield</a></Link>
             <Link href="/visc"><a className="visc">Scarlet &amp; Violet</a></Link>
         </nav>
