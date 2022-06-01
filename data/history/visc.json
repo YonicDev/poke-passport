@@ -1,5 +1,222 @@
 [
     {
+        "date": "2022/6/1",
+        "pokemon": "zoroark",
+        "region": "hisui",
+        "status": "confirmed",
+        "details": "One is seen in a battle [at the background of the of the Pokémon Scarlet and Violet's international website](https://web.archive.org/web/20220228042125/https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "fomantis",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "lurantis",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen using what appears to be Petal Blizzard in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m53s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "haunter",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "gastly",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "gengar",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen using what appears to be Shadow Ball in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m51s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "cryogonal",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in a snowy route in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m49s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "mareanie",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "toxapex",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two are seen on the beach in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m48s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "cloyster",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Water Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "shellder",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is seen on the beach, in the distance, in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m48s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "carkol",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "rolycoly",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "coalossal",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two of them can be seen in a cave in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m46s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "venonat",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three of them can be seen jumping about in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m45s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "salamence",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "shelgon",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "drednaw",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "bagon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is traded with a Larvitar between two players in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m41s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "chewtle",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is owned by a trainer that is battled with in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m30s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "ampharos",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "mareep",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "flaaffy",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen briefly in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m3s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "fletchinder",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "talonflame",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen using a Fire-type move in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m54s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "fletchling",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen briefly in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m2s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "raichu",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "pichu",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "pikachu",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen following a player in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=52s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "applin",
+        "region": "original",
+        "status": "possible",
+        "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s)."
+    },
+    {
+        "date": "2022/6/1",
+        "pokemon": "hatenna",
+        "region": "original",
+        "status": "possible",
+        "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s)."
+    },
+    {
         "date": "2022/5/8",
         "pokemon": "meowth",
         "region": "galar",

@@ -214,10 +214,15 @@
     {
         "id": "pikachu",
         "name": "Pikachu",
-        "status": "possible",
-        "lastUpdated": "2022/4/19",
-        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s) are no longer Confirmed.",
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen following a player in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=52s).",
         "history": [
+            {
+                "date": "2022/4/19",
+                "status": "possible",
+                "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m32s) are no longer Confirmed."
+            },
             {
                 "date": "2022/4/6",
                 "status": "confirmed",
@@ -233,9 +238,9 @@
     {
         "id": "raichu",
         "name": "Raichu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/19",
-        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu), is no longer Confirmed.",
+        "status": "possible",
+        "lastUpdated": "2022/6/1",
+        "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed.",
         "forms": [
             {
                 "id": "raichu-alola",
@@ -258,6 +263,11 @@
             }
         ],
         "history": [
+            {
+                "date": "2022/4/19",
+                "status": "unknown",
+                "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu), is no longer Confirmed."
+            },
             {
                 "date": "2022/4/6",
                 "status": "possible",
@@ -481,10 +491,16 @@
     {
         "id": "venonat",
         "name": "Venonat",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "Three of them can be seen jumping about in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m45s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "venomoth",
@@ -1054,42 +1070,72 @@
     {
         "id": "shellder",
         "name": "Shellder",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One is seen on the beach, in the distance, in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m48s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "cloyster",
         "name": "Cloyster",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/6/1",
+        "details": "Requires Water Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gastly",
         "name": "Gastly",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "haunter",
         "name": "Haunter",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gengar",
         "name": "Gengar",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen using what appears to be Shadow Ball in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m51s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "onix",
@@ -1827,10 +1873,15 @@
     {
         "id": "pichu",
         "name": "Pichu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/19",
-        "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu) is no longer Confirmed.",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
+        "details": "",
         "history": [
+            {
+                "date": "2022/4/19",
+                "status": "unknown",
+                "details": "The only Confirmed member of its evolutionary line, [Pikachu](/poke-passport/visc/pikachu) is no longer Confirmed."
+            },
             {
                 "date": "2022/4/6",
                 "status": "guaranteed",
@@ -1894,26 +1945,44 @@
     {
         "id": "mareep",
         "name": "Mareep",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "flaaffy",
         "name": "Flaaffy",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen briefly in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m3s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "ampharos",
         "name": "Ampharos",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "bellossom",
@@ -3577,26 +3646,44 @@
     {
         "id": "bagon",
         "name": "Bagon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One is traded with a Larvitar between two players in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m41s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "shelgon",
         "name": "Shelgon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "salamence",
         "name": "Salamence",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "beldum",
@@ -5346,9 +5433,14 @@
                 "id": "zoroark-hisui",
                 "name": "Zoroark",
                 "status": "confirmed",
-                "lastUpdated": "2022/5/8",
-                "details": "One is seen in a battle [at the background of the of the Pokémon Scarlet and Violet's international website](https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg).",
+                "lastUpdated": "2022/6/1",
+                "details": "One is seen in a battle [at the background of the of the Pokémon Scarlet and Violet's international website](https://web.archive.org/web/20220228042125/https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg).",
                 "history": [
+                    {
+                        "date": "2022/5/8",
+                        "status": "confirmed",
+                        "details": "One is seen in a battle [at the background of the of the Pokémon Scarlet and Violet's international website](https://scarletviolet.pokemon.com/assets/img/global/screens/8-2x.jpg)."
+                    },
                     {
                         "date": "2022/4/16",
                         "status": "unknown",
@@ -5712,10 +5804,16 @@
     {
         "id": "cryogonal",
         "name": "Cryogonal",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "Two can be seen in a snowy route in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m49s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "shelmet",
@@ -6100,26 +6198,44 @@
     {
         "id": "fletchling",
         "name": "Fletchling",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen briefly in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m2s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "fletchinder",
         "name": "Fletchinder",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "talonflame",
         "name": "Talonflame",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen using a Fire-type move in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m54s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "scatterbug",
@@ -6858,18 +6974,30 @@
     {
         "id": "mareanie",
         "name": "Mareanie",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "toxapex",
         "name": "Toxapex",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "Two are seen on the beach in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m48s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "mudbray",
@@ -6906,18 +7034,30 @@
     {
         "id": "fomantis",
         "name": "Fomantis",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lurantis",
         "name": "Lurantis",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One can be seen using what appears to be Petal Blizzard in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m53s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "morelull",
@@ -7570,10 +7710,15 @@
     {
         "id": "chewtle",
         "name": "Chewtle",
-        "status": "possible",
-        "lastUpdated": "2022/4/28",
-        "details": "Appears in a purple CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s).",
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "One is owned by a trainer that is battled with in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m30s).",
         "history": [
+            {
+                "date": "2022/4/28",
+                "status": "possible",
+                "details": "Appears in a purple CD cover inside the player's house in the [announcement trailer](https://www.youtube.com/watch?v=MAmueMsFR1o&t=138s)."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -7584,10 +7729,16 @@
     {
         "id": "drednaw",
         "name": "Drednaw",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "yamper",
@@ -7608,34 +7759,58 @@
     {
         "id": "rolycoly",
         "name": "Rolycoly",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "carkol",
         "name": "Carkol",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/1",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "coalossal",
         "name": "Coalossal",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/6/1",
+        "details": "Two of them can be seen in a cave in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=1m46s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "applin",
         "name": "Applin",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/6/1",
+        "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "flapple",
@@ -7760,10 +7935,16 @@
     {
         "id": "hatenna",
         "name": "Hatenna",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/6/1",
+        "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hattrem",

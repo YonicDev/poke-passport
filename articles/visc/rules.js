@@ -167,10 +167,11 @@ const EvolutionTable = () => {
         "Leveling up in a specific location": "possible",
         "Leveling up with a specific Pokémon": "unknown",
         "Leveling up under a certain weather": "unknown",
+        "Trading": "assumed",
         "Trading with a specific item": "unknown",
         "Trading with a specific Pokémon": "unknown",
         "High friendship": "assumed",
-        "Dependance of time of day": "possible",
+        "Dependance of time of day": "assumed",
         "Pokémon-specific evolution": "unknown",
         "Dependance of regional form": "unknown",
         "New evolution mechanics": "possible"
@@ -178,7 +179,7 @@ const EvolutionTable = () => {
 
     const evolutionaryItems = {
         "Fire Stone": "unknown",
-        "Water Stone": "unknown",
+        "Water Stone": "possible",
         "Thunder Stone": "possible",
         "Leaf Stone": "unknown",
         "Moon Stone": "unknown",
