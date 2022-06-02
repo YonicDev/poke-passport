@@ -149,9 +149,11 @@ function TransferabilityTable({pokemon, labels, index}) {
         }
         const regionRegExp = new RegExp(`-${region}$`);
         if(pokemon[label]) {
+            const isOriginal = region==="original" || !pokemon[label].forms?.find(form => regionRegExp.test(form.id));
+            const pokeStatus = !isOriginal && pokemon[label].forms? pokemon[label].forms.find(form => regionRegExp.test(form.id)).status : pokemon[label].status;
             const defaultLabel = (<Link key={label} href={`/${label}/${pokemon[latestGame].id}${isOriginal?"":`?region=${region}`}`}>
-                <a className={classNames(passportStyles.gridRow,passportStyles[pokemon[label].status],passportStyles[label+"-"+(pokemon[label].status)])}>
-                    {status[labels[label][pokemon[label].status]]}
+                <a className={classNames(passportStyles.gridRow,passportStyles[pokeStatus],passportStyles[label+"-"+pokeStatus])}>
+                    {status[labels[label][pokeStatus]]}
                 </a>
             </Link>)
             if(label === "swsh") {
@@ -196,8 +198,11 @@ function TransferabilityTable({pokemon, labels, index}) {
                     return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["swsh-crown"])}>{status.Native}</div>
                 else
                     return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["not-available"])}>{status["N/A"]}</div>
-            } else if(label === "arceus" && index >= 899 && index < 906) {
-                return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["confirmed"])}>{status.Native}</div>
+            } else if(label === "arceus") {
+                if((index >= 899 && index < 906) || pokemon[latestGame].forms?.find(variant => /-hisui$/.test(variant.id)))
+                    return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["confirmed"])}>{status.Native}</div>
+                else
+                    return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["not-available"])}>{status["N/A"]}</div>
             } else {
                 return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["not-available"])}>{status["N/A"]}</div>
             }
