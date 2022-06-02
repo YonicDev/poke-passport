@@ -145,7 +145,7 @@ function TransferabilityTable({pokemon, labels, index}) {
             No: <span><b>✗</b> No</span>,
             Unknown: <span><b>?</b> Unknown</span>,
             Native: <span><b>✓</b> Native</span>,
-            "N/A": "N/A"
+            "N/A": <span>No info</span>
         }
         const regionRegExp = new RegExp(`-${region}$`);
         if(pokemon[label]) {
