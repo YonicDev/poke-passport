@@ -505,10 +505,16 @@
     {
         "id": "venomoth",
         "name": "Venomoth",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/2",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "diglett",
