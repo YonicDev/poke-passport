@@ -1,6 +1,13 @@
 [
     {
         "date": "2022/6/2",
+        "pokemon": "basculin",
+        "region": "hisui",
+        "status": "unknown",
+        "details": "Basculin white-striped form is now considered a Hisuian form."
+    },
+    {
+        "date": "2022/6/2",
         "pokemon": "venomoth",
         "region": "original",
         "status": "guaranteed",
