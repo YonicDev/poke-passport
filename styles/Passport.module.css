@@ -1,0 +1,163 @@
+.container {
+    position: relative;
+    width: 60%;
+    min-width: 550px;
+    max-width: 1000px;
+    margin: 0 auto;
+    top: 25px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    overflow: hidden;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 136px auto auto 10em;
+    grid-template-areas:
+        "icon name name forms"
+        "icon passport passport forms"
+        "separator separator separator separator"
+        "notes notes notes notes";
+}
+
+.container h1, .container h2, .container h3 {
+    margin: 0.5em 0;
+}
+
+.label {
+    grid-area: passport;
+    font-weight: 450;
+    padding: 0.25rem 0.75rem;
+    font-size: 1.333rem;
+}
+
+.label abbr {
+    font-size: 8pt;
+    cursor: help;
+}
+
+.separator {
+    grid-area: separator;
+    border: 2px solid gray;
+    border-left: none;
+    border-right: none;
+    background-color: silver;
+    padding: 0.1em 0;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.transferGrid {
+    grid-area: notes;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.gridLabel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 14pt;
+    padding: 0.5em 0;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    cursor: help;
+}
+
+.gridLabel:nth-child(4n+1), .gridRow:nth-child(4n+1) {
+    border-left: none;
+}
+.gridLabel:nth-child(4n+4), .gridRow:nth-child(4n+4) {
+    border-right: none;
+}
+
+.gridLabel.swsh {
+    background: rgb(254,17,152);
+    background: linear-gradient(118deg, #fe1198 0%, #35b7ff 100%);
+    color: white;
+}
+
+.gridLabel.visc {
+    background: #ce3226;
+    background: linear-gradient(118deg, #ff3b2d 0%, #801fb8 100%);
+    color: #ffe555;
+}
+
+.gridLabel.bdsp {
+    background: #f5a1c2;
+    background: linear-gradient(118deg, #19befe 0%, #f5a1c2 100%);
+    color: white;
+}
+
+.gridLabel.arceus {
+    background: #009bdb;
+    background: linear-gradient(118deg, #009bdb 0%, #72be8e 100%);
+    color: #221815;
+}
+
+.gridRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5em 0;
+    transition: none;
+    border-top: 2px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.default {
+    background-color: rgb(245, 241, 220);
+}
+
+.unknown {
+    background-color: #aaa;
+    color: black!important;
+}
+
+.confirmed {
+    background-color: lime;
+    color: black!important;
+}
+
+.guaranteed {
+    background-color: blue;
+    color: white!important;
+}
+
+.possible {
+    background-color: yellow;
+    color: black!important;
+}
+
+.not-available {
+    background-color: #333;
+    cursor: not-allowed;
+    color: white!important;
+}
+
+.no {
+    background-color: red;
+    color: black!important;
+}
+
+/** GAME SPECIFIC **/
+/* Sword & Shield */
+.swsh-base {
+    background-color: #22acff;
+    color: black!important;
+}
+.swsh-armor {
+    background-color: #dfdf41;
+    color: black!important;
+}
+
+.swsh-crown {
+    background-color: #2bb673;
+    color: black!important;
+}
+
+.swsh-other {
+    background-color: #ff2a6e;
+    color: black!important;
+}

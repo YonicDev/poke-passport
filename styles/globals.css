@@ -79,17 +79,24 @@ nav.sideNav a {
   width: 10em;
   text-align: center;
 }
-.siteHeader > nav.headerNav > .swsh {
+
+.siteHeader > nav.headerNav > a {
   border-radius: 1em;
-  /* border-color: #38446b; */
+}
+
+.siteHeader > nav.headerNav > .swsh {
   background: rgb(254,17,152);
   background: linear-gradient(118deg, #fe1198 0%, #35b7ff 100%);
 }
 .siteHeader > nav.headerNav > .visc {
-  border-radius: 1em;
   border-color: #ffe555;
   background: #ce3226;
   background: linear-gradient(118deg, #ff3b2d 0%, #801fb8 100%);
+}
+.siteHeader > nav.headerNav > .passport {
+  border-color: rgb(229 164 175);
+  background: rgb(195,150,35);
+  background: linear-gradient(118deg, rgba(195,150,35,1) 0%, rgba(135,86,0,1) 100%);
 }
 
 footer {
