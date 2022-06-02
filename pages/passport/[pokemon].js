@@ -12,6 +12,12 @@ const latestGame = "visc";
 
 const regionRegExp = /(alola|galar|hisui)/;
 
+const imageAliases = {
+    hisui: {
+        550: "basculin-white-striped"
+    }
+}
+
 export default function PokemonPassport({pokemonData, prevPokemon, nextPokemon, pokemonNumber}) {
     const [selectedRegion, setSelectedRegion] = useReducer(() => {
         const query = new URLSearchParams(window.location.search);
@@ -88,9 +94,10 @@ export default function PokemonPassport({pokemonData, prevPokemon, nextPokemon, 
 
     const forms = pokemonData[latestGame].forms?.map(form => {
         const formName = regionRegExp.exec(form.id)[1] // No need for validation. The regexp should always match.
+        const hasSubstituteImage = imageAliases[formName]!=null && imageAliases[formName][pokemonNumber]!=null;
         if(formName===selectedRegion) return;
         return (<div className={classNames(styles.formLink,passportStyles.default)} key={form.id}>
-            <Link href={`/passport/${pokemonData[latestGame].id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${form.id}.png`}/></a></Link>
+            <Link href={`/passport/${pokemonData[latestGame].id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubstituteImage? imageAliases[formName][pokemonNumber] : form.id}.png`}/></a></Link>
         </div>)
     })
 
@@ -99,6 +106,8 @@ export default function PokemonPassport({pokemonData, prevPokemon, nextPokemon, 
             <Link href={`/passport/${pokemonData[latestGame].id}`}><a title="Original form"><img alt={pokemonData[latestGame].id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemonData[latestGame].id}.png`}/></a></Link>
         </div>)
     }
+
+    const hasSubstituteImage = imageAliases[selectedRegion]!=null && imageAliases[selectedRegion][pokemonNumber]!=null;
 
     return (<div>
         <center>
@@ -113,7 +122,7 @@ export default function PokemonPassport({pokemonData, prevPokemon, nextPokemon, 
             <NavigationLink pokemon={prevPokemon} direction="left" number={pokemonNumber-1} preferredForm={selectedRegion}/>
             <div className={passportStyles.container}>
                 <div className={classNames(styles.iconContainer, passportStyles.default)} style={{backgroundImage: `url("/poke-passport/logo-${regionShortForm[selectedRegion]?.id || regionShortForm.original.id}.svg")`, backgroundSize: regionShortForm[selectedRegion]?.size || regionShortForm.original.size, backgroundBlendMode: "multiply"}}>
-                    <img className={styles.icon} alt={pokemonData.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${isOriginal? pokemonData[latestGame].id : thisPokemon.id}.png`} />
+                    <img className={styles.icon} alt={pokemonData.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${isOriginal? pokemonData[latestGame].id : (hasSubstituteImage? imageAliases[selectedRegion][pokemonNumber] : thisPokemon.id)}.png`} />
                 </div>
                 <h1 className={styles.name}>#{addTrailingZeroes(pokemonNumber, 3)} {pokemonData[latestGame].name}</h1>
                 <div className={styles.forms}>{forms}</div>
@@ -242,6 +251,8 @@ function NavigationLink({pokemon, number, direction, preferredForm}) {
 
     const isOriginal = preferredForm==null || preferredForm==="original";
 
+    const hasSubstituteImage = imageAliases[preferredForm]!=null && imageAliases[preferredForm][number]!=null;
+
     if(pokemon!=null) {
         let thisPokemon = {...pokemon};
         let form = "original";
@@ -259,7 +270,7 @@ function NavigationLink({pokemon, number, direction, preferredForm}) {
         return (<Link href={`/passport/${pokemon.id}${form!=="original"?`?region=${form}`:""}`} passHref>
             <a className={styles.navPokemon}>
                 <div>
-                    <img alt={thisPokemon.name} className={classNames(styles.navIcon, passportStyles.default)} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`}/>
+                    <img alt={thisPokemon.name} className={classNames(styles.navIcon, passportStyles.default)} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubstituteImage? imageAliases[preferredForm][number] : thisPokemon.id}.png`}/>
                     <div>{directions[direction]} #{number} {thisPokemon.name}</div>
                 </div>
             </a>
