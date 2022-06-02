@@ -107,9 +107,11 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         <div className={styles.pageContainer}>
             <NavigationLink game={game} pokemon={prevPokemon} direction="left" number={index-1} preferredForm={selectedRegion}/>
             <div className={styles.container}>
-                <div className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status])} style={iconContainerStyles[game]}>
-                    <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`} />
-                </div>
+                <Link href={`/passport/${pokemon.id}${!isOriginal?`?region=${selectedRegion}`:""}`}>
+                    <a title="Check this Pokémon's passport." className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status])} style={iconContainerStyles[game]}>
+                        <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`} />
+                    </a>
+                </Link>
                 <h1 className={styles.name}>#{addTrailingZeroes(index, 3)} {thisPokemon.name}</h1>
                 <div className={styles.forms}>{forms}</div>
                 <div className={classNames(styles.status,styles[status],styles[game+"-"+status])}>{labels[game][status] || "Invalid tag"}</div>
