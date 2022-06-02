@@ -66,9 +66,24 @@ export default function PokemonPassport({pokemonData, prevPokemon, nextPokemon, 
 
     const passportPower = Object.keys(pokemonData).reduce((acc, game) => {
         const labels = transferability[game];
-        if(game === "arceus" || game === "bdsp")
+        if(pokemonData[game]==null)
             return acc;
-        return labels[pokemonData[game]?.status] === "Yes" ? acc + 1 : acc;
+        if(selectedRegion === "original") {
+            return labels[pokemonData[game]?.status] === "Yes" ? acc + 1 : acc;
+        } else if(game === "swsh" && selectedRegion === "alola") {
+            // SWSH doesn't handle regional forms because
+            // it assumes they can be transferred.
+            // Instead, it counts only if it's the Alolan form.
+            return labels[pokemonData[game]?.status] === "Yes" ? acc + 1 : acc;
+        } else if(pokemonData[game].forms != null && pokemonData[game].forms.length > 0) {
+            const pokemon = pokemonData[game].forms.find(variant => {
+                const regexp = new RegExp(`-${selectedRegion}$`);
+                return regexp.test(variant.id);
+            });
+            return labels[pokemon.status] === "Yes" ? acc + 1 : acc;
+        } else {
+            return acc;
+        }
     }, 0);
 
     const forms = pokemonData[latestGame].forms?.map(form => {
@@ -122,8 +137,6 @@ function TransferabilityTable({pokemon, labels, index}) {
         setSelectedRegion();
     });
 
-    const isOriginal = region == null || region === "original";
-
     const headings = Object.keys(labels).map(label => {
         const labels = {
             swsh: "SwSh",
@@ -174,7 +187,7 @@ function TransferabilityTable({pokemon, labels, index}) {
                             else
                                 return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["swsh-base"])}>{status.Native}</div>
                         } else if(region === "alola") {
-                            if(pokemon.status === "no")
+                            if(pokemon[label].status === "no")
                                 return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["no"])}>{status.No}</div> 
                             else
                                 return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["swsh-crown"])}>{status.Yes}</div>
@@ -199,7 +212,7 @@ function TransferabilityTable({pokemon, labels, index}) {
                 else
                     return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["not-available"])}>{status["N/A"]}</div>
             } else if(label === "arceus") {
-                if((index >= 899 && index < 906) || pokemon[latestGame].forms?.find(variant => /-hisui$/.test(variant.id)))
+                if((index >= 899 && index < 906) || (region==="hisui" && pokemon[latestGame].forms?.find(variant => /-hisui$/.test(variant.id))))
                     return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["confirmed"])}>{status.Native}</div>
                 else
                     return <div key={label} className={classNames(passportStyles.gridRow,passportStyles["not-available"])}>{status["N/A"]}</div>
