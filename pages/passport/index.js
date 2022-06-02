@@ -14,6 +14,12 @@ const getRegion = () => {
 
 const regionRegExp = /(alola|galar|hisui)/;
 
+const imageAliases = {
+    hisui: {
+        550: "basculin-white-striped"
+    }
+}
+
 export default function PassportsTable({ pokemonList }) {
     const [selectedRegion, setSelectedRegion] = useReducer(() => getRegion(),"original");
     useEffect(() => {
@@ -45,10 +51,14 @@ export default function PassportsTable({ pokemonList }) {
                 shortenedId = pokemon.id.replace("-"+region, '');
         }
 
+        const number = pokeList.indexOf(pokemon)+1;
+
+        const hasSubstituteImage = imageAliases[region]!=null && imageAliases[region][number]!=null;
+
         return <Link key={pokemon.id} href={`/passport/${shortenedId}${region!=="original"?`?region=${region}`:""}`}>
             <a><div className={tableStyles.tableEntry} style={{backgroundColor: "#f5f1dc"}}>
-                <span className={tableStyles.tableEntryNumber}>{addTrailingZeroes(pokeList.indexOf(pokemon)+1, 3)}</span>
-                <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/>
+                <span className={tableStyles.tableEntryNumber}>{addTrailingZeroes(number, 3)}</span>
+                <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubstituteImage? imageAliases[region][number] : pokemon.id}.png`}/>
                 </div></a>
         </Link>
     });
