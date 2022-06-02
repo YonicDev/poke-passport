@@ -98,6 +98,12 @@ function HistoryEntry(entry) {
             icon: "/poke-passport/logo-arceus.svg"
         }
     }
+    const imageAliases = {
+        hisui: {
+            550: "basculin-white-striped"
+        }
+    }
+    const hasSubstituteImage = imageAliases[form] && imageAliases[form][dexNumber];
     const components = {
         a: props => <a {...props} target="_blank" rel="noreferrer" />
     }
@@ -106,7 +112,8 @@ function HistoryEntry(entry) {
             <td className={styles.fieldDate}>{date}</td>
             <td className={classNames(styles.fieldPokemon, styles[status], styles[form])}>
                 <Link href={`/${game}/${pokemon.id}${form&&form!="original"?`?region=${form}`:""}`}>
-                    <a title={pokemon.name} className={styles.pokemonThumbnail}><span className={styles.dexNumber}>{addTrailingZeroes(dexNumber, 3)}</span><img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}${form&&form!="original"?`-${form}`:""}.png`}/></a>
+                    <a title={pokemon.name} className={styles.pokemonThumbnail}><span className={styles.dexNumber}>{addTrailingZeroes(dexNumber, 3)}</span>
+                    <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubstituteImage ? imageAliases[form][dexNumber] : (pokemon.id + (form&&form!="original"?`-${form}`:""))}.png`}/></a>
                 </Link>
             </td>
             <td className={styles.fieldForm}>

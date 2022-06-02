@@ -13,6 +13,12 @@ export function Table({pokemonList, filteredList, game, onHighlight}) {
         regionRegExp = /-(alola|galar|hisui)/
     }
 
+    const imageAliases = {
+        hisui: {
+            550: "basculin-white-striped"
+        }
+    }
+
     const elements = filteredList.map((pokemon, i) => {
         let region = "original", shortenedId = pokemon.id;
 
@@ -22,10 +28,12 @@ export function Table({pokemonList, filteredList, game, onHighlight}) {
             if(region!=="original")
                 shortenedId = pokemon.id.replace("-"+region, '');
         }
+
+        const hasSubtituteImage = imageAliases[region]!=null && imageAliases[region][pokemonList.indexOf(pokemon)+1] != null;
         
         return (<Link key={pokemon.id} href={`/${game}/${shortenedId}${region!=="original"?`?region=${region}`:""}`}><a><div className={classNames(styles.tableEntry, styles[pokemon.status], styles[`${game}-${pokemon.status}`])} onMouseEnter={() => onHighlight(pokemon, pokemonList.indexOf(pokemon)+1)} onMouseLeave={() => onHighlight(null, -1)}>
             <span className={styles.tableEntryNumber}>{addTrailingZeroes(pokemonList.indexOf(pokemon)+1, 3)}</span>
-            <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${pokemon.id}.png`}/> 
+            <img alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubtituteImage? imageAliases[region][pokemonList.indexOf(pokemon)+1] : pokemon.id}.png`}/> 
         </div></a></Link>)
     });
     return (

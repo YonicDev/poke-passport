@@ -12,6 +12,12 @@ const regionRegExp = {
     visc: /(alola|galar|hisui)/
 };
 
+const imageAliases = {
+    hisui: {
+        550: "basculin-white-striped"
+    }
+}
+
 const getRegion = (game) => {
     if(game==="swsh") return "original";
     const query = new URLSearchParams(window.location.search);
@@ -77,11 +83,13 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
         galar: "Galarian",
         hisui: "Hisuian"
     }
+
     const forms = pokemon.forms?.map(form => {
         const formName = regionRegExp[game].exec(form.id)[1] // No need for validation. The regexp should always match.
+        const hasSubtituteImage = imageAliases[formName]!=null && imageAliases[formName][index] != null;
         if(formName===selectedRegion) return;
         return (<div className={classNames(styles.formLink,styles[form.status],styles[`${game}-${form.status}`])} key={form.id}>
-            <Link href={`/${game}/${pokemon.id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${form.id}.png`}/></a></Link>
+            <Link href={`/${game}/${pokemon.id}?region=${formName}`}><a title={`${formNames[formName]} form`}><img alt={form.id} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubtituteImage? imageAliases[formName][index] : form.id}.png`}/></a></Link>
         </div>)
     });
 
@@ -94,6 +102,8 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
     const emptyHistoryMessage = game === "swsh" ? "PokéPassport does not record the history of Sword & Shield availability." : "No history has been recorded yet for this Pokémon.";
 
     const allDetails = selectedRegion!=null && selectedRegion!=="original" && notes[selectedRegion]!=null ? notes[selectedRegion] : notes.original;
+
+    const hasSubtituteImage = imageAliases[selectedRegion]!=null && imageAliases[selectedRegion][index] != null;
 
     return (<>
         <center>
@@ -109,7 +119,7 @@ export default function PokemonInfo({game, pokemon, index, notes, prevPokemon, n
             <div className={styles.container}>
                 <Link href={`/passport/${pokemon.id}${!isOriginal?`?region=${selectedRegion}`:""}`}>
                     <a title="Check this Pokémon's passport." className={classNames(styles.iconContainer,styles[status],styles[game+"-"+status])} style={iconContainerStyles[game]}>
-                        <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`} />
+                        <img className={styles.icon} alt={pokemon.name} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubtituteImage? imageAliases[selectedRegion][index] : thisPokemon.id}.png`} />
                     </a>
                 </Link>
                 <h1 className={styles.name}>#{addTrailingZeroes(index, 3)} {thisPokemon.name}</h1>
@@ -181,11 +191,14 @@ function NavigationLink({game, pokemon, number, direction, preferredForm}) {
                 // Since we're not reassigning thisPokemon, we don't have to clone here.
                 thisPokemon = pokemon;
         }
+
+        const hasSubtituteImage = imageAliases[preferredForm]!=null && imageAliases[preferredForm][number] != null;
+
         return (
             <Link href={`/${game}/${pokemon.id}${form!=="original"?`?region=${form}`:""}`} passHref>
                 <a className={styles.navPokemon}>
                     <div>
-                        <img alt={thisPokemon.name} className={classNames(styles.navIcon,styles[thisPokemon.status],styles[game+"-"+thisPokemon.status])} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${thisPokemon.id}.png`}/>
+                        <img alt={thisPokemon.name} className={classNames(styles.navIcon,styles[thisPokemon.status],styles[game+"-"+thisPokemon.status])} src={`https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/${hasSubtituteImage? imageAliases[preferredForm][number] : thisPokemon.id}.png`}/>
                         <div>{directions[direction]} #{number} {thisPokemon.name}</div>
                     </div>
                 </a>

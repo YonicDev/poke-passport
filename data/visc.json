@@ -505,10 +505,16 @@
     {
         "id": "venomoth",
         "name": "Venomoth",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/6/2",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "diglett",
@@ -5208,6 +5214,16 @@
         "status": "unknown",
         "lastUpdated": "2022/4/5",
         "details": "",
+        "forms": [
+            {
+                "id": "basculin-hisui",
+                "name": "Basculin",
+                "status": "unknown",
+                "details": "Basculin white-striped form is now considered a Hisuian form.",
+                "lastUpdated": "2022/6/2",
+                "history": []
+            }
+        ],
         "history": []
     },
     {
