@@ -53,9 +53,9 @@ export default function Rules() {
                 <li>New Pokémon may be added after the games' launch via updates.</li>
                 <li>New Pokémon may be added after the games' launch via future side games.</li>
                 <li><b>Pokémon with regional forms appear.</b> (Confirmed as of May 8th 2022)</li>
-                <li>New regional forms of existing Pokémon may be added.</li>
+                <li><b>New regional forms of existing Pokémon may be added.</b> (Confirmed as of August 3rd 2022)</li>
                 <li>Counterpart Pokémon may change or not appear.</li>
-                <li>Breeding is possible, but not confirmed.</li>
+                <li>Breeding is possible.</li>
                 <li>Modifications or workarounds of existing evolution mechanics are possible.</li>
                 <li>Modifications or workarounds of existing breeding mechanics are possible.</li>
                 <li>Mythical Pokémon may be transferable even if not in Dex.</li>
@@ -163,33 +163,33 @@ const CriteriaTable = () => (
 const EvolutionTable = () => {
 
     const criteria = {
-        "Leveling up with a specific move": "possible",
+        "Leveling up with a specific move": "assumed",
         "Leveling up in a specific location": "possible",
         "Leveling up with a specific Pokémon": "unknown",
         "Leveling up under a certain weather": "unknown",
         "Trading": "assumed",
-        "Trading with a specific item": "unknown",
+        "Trading with a specific item": "assumed",
         "Trading with a specific Pokémon": "unknown",
-        "High friendship": "assumed",
+        "High friendship": "possible",
         "Dependance of time of day": "assumed",
-        "Pokémon-specific evolution": "unknown",
-        "Dependance of regional form": "unknown",
+        "Pokémon-specific evolution": "assumed",
+        "Dependance of regional form": "assumed",
         "New evolution mechanics": "possible"
     }
 
     const evolutionaryItems = {
-        "Fire Stone": "unknown",
-        "Water Stone": "possible",
-        "Thunder Stone": "possible",
-        "Leaf Stone": "unknown",
+        "Fire Stone": "assumed",
+        "Water Stone": "assumed",
+        "Thunder Stone": "assumed",
+        "Leaf Stone": "possible",
         "Moon Stone": "unknown",
-        "Sun Stone": "possible",
+        "Sun Stone": "assumed",
         "Shiny Stone": "possible",
-        "Dusk Stone": "unknown",
-        "Dawn Stone": "unknown",
-        "Ice Stone": "unknown",
-        "King's Rock": "unknown",
-        "Metal Coat": "unknown",
+        "Dusk Stone": "assumed",
+        "Dawn Stone": "possible",
+        "Ice Stone": "possible",
+        "King's Rock": "assumed",
+        "Metal Coat": "assumed",
         "Dragon Scale": "unknown",
         "Up-Grade": "unknown",
         "Deep Sea Scale": "unknown",
@@ -208,6 +208,10 @@ const EvolutionTable = () => {
         "Sweets": "unknown",
         "Chipped & Cracked Pots": "unknown",
         "Sweet & Tart Apples": "unknown",
+        "Galarica Cuff": "possible",
+        "Galarica Crown": "possible",
+        "Black Augurite": "possible",
+        "Peat Block": "unknown",
         "New evolutionary items": "possible"
     }
 
@@ -243,7 +247,7 @@ const BreedingTable = () => {
         "Genderless Pokémon can have offspring": "assumed",
         "Regional form is the same as breeding region": "unknown",
         "If a parent holds an Everstone, the offspring may have the same regional form as the parent": "unknown",
-        "Sea Incense": "unknown",
+        "Sea Incense": "possible",
         "Rose Incense": "unknown",
         "Pure Incense": "unknown",
         "Rock Incense": "unknown",

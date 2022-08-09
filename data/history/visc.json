@@ -1,5 +1,747 @@
 [
     {
+        "date": "2022/8/3",
+        "pokemon": "haunter",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One appears at night in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=1036)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "gastly",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Some appear at night in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=1036)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "tsareena",
+        "region": "original",
+        "status": "confirmed",
+        "details": "It is owned by a player in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=969)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "mudsdale",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "mudbray",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A player approaches a wild one to battle it in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=935)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "rotom",
+        "region": "original",
+        "status": "possible",
+        "details": "Three can be seen in a city, over a sign or a lamp post in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=902)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hippopotas",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hippowdon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A female Hippowdon can be seen behind a dust cloud in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=839). It's hard to see a first, but it clears up for a short time."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "polteageist",
+        "region": "original",
+        "status": "possible",
+        "details": "One can be seen in what appears to be a restaurant in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=802)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "sinistea",
+        "region": "original",
+        "status": "possible",
+        "details": "Several appear in what appears to be a restaurant in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=802)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "rockruff",
+        "region": "original",
+        "status": "possible",
+        "details": "One appears close to a kid in a city in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=799)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "makuhita",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Appears looking at Koraidon in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=790)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "shinx",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "luxray",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Appears in the badlands in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=788)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "luxio",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Appears in the badlands in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=788)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "finneon",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "glaceon",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires either Ice Rock or Ice Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "leafeon",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires either Moss Rock or Leaf Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "espeon",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires evolution by friendship to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "umbreon",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires evolution by friendship to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "vaporeon",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Water Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "flareon",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "jolteon",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "sylveon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "eevee",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen as a Tetrallized Pokémon in [a couple of screenshots from the official Scarlet & Violet website](https://imgur.com/a/03sdYwh)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "gallade",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Dawn Stone to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "ralts",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "kirlia",
+        "region": "original",
+        "status": "confirmed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "gardevoir",
+        "region": "original",
+        "status": "confirmed",
+        "details": "It can be seen as both regular and Tetrallized in [several screenshots of the official Scarlet & Violet website](https://imgur.com/a/dnzp7NU)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "lumineon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in battle in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=135)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowpoke",
+        "region": "galar",
+        "status": "possible",
+        "details": "Requires Galarian forms to be Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowbro",
+        "region": "galar",
+        "status": "possible",
+        "details": "Requires Galarica Cuff to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowking",
+        "region": "galar",
+        "status": "possible",
+        "details": "Requires Galarica Crown to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowpoke",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowbro",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slowking",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A Tetrallized Pokémon can be seen in battle in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=135)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "lilligant",
+        "region": "hisui",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "lilligant",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=133)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "drifblim",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=132)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "azurill",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires breeding with incenses to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "marill",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "azumarill",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=131)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "persian",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=128)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "makuhita",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hariyama",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One appears fighting against a Hydreigon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "deino",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "zweilous",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hydreigon",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One appears fighting against a Hariyama in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "golduck",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One appears fighting against a Scizor in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "eiscue",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen being traded with a Stonjourner of another trainer in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=120)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "noivern",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A Noibat can be seen evolving into a Noivern in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=116)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "noibat",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen evolving into a Noivern in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=116)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hatenna",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hattrem",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "hatterene",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "raichu",
+        "region": "alola",
+        "status": "possible",
+        "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "raichu",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "eelektrik",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "tynamo",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "eelektross",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "swablu",
+        "region": "original",
+        "status": "guaranteed",
+        "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s) are no longer Confirmed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "altaria",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "kleavor",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Requires Black Augurite to be Assumed or Confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "scyther",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "scizor",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "pincurchin",
+        "region": "original",
+        "status": "possible",
+        "details": "One can be seen inside a sandwich shop in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=75)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "pachirisu",
+        "region": "original",
+        "status": "possible",
+        "details": "One can be seen in a city, when the \"AND THE PEOPLE\" sign shows up in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=73)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "beartic",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen under a snowstorm in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "cubchoo",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three can be seen under a snowstorm in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "misdreavus",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two (and a third one for a few frames) can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "mismagius",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "forretress",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "pineco",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen hanging from a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=70)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "dragonite",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A Tetrastallized Dragonite appears as a wild Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=145)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "dratini",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "dragonair",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A pair can be seen in the water in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=69)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "phanpy",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "donphan",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three can be seen briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "cacturne",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One can be seen in a desert at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=68)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "cacnea",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Some can be seen in a desert at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=68)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "slaking",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One is sleeping under a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "vigoroth",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Three of them appear under a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "sunflora",
+        "region": "original",
+        "status": "possible",
+        "details": "A statue of a Sunflora appears in a village in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=62)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "copperajah",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "cufant",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two appear walking at night briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=55)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "drednaw",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two appear in the swamp in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=55)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "skiddo",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A bunch appear in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=52)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "gogoat",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A bunch appear in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=52)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "mareep",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A herd of them appear in a prairie in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=42)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "girafarig",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two of them can be seen briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=37)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "honchkrow",
+        "region": "original",
+        "status": "confirmed",
+        "details": "One of them can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=18)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "murkrow",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Five of them can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=18)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "magikarp",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "gyarados",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two can be seen in a lake or sea in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=16)"
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "froslass",
+        "region": "original",
+        "status": "possible",
+        "details": "Requires Dawn Stone to be assumed or confirmed to be at least Guaranteed."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "glalie",
+        "region": "original",
+        "status": "guaranteed",
+        "details": ""
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "snorunt",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Four of them can be seen running towards the camera in a snowy area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=15)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "wooper",
+        "region": "original",
+        "status": "possible",
+        "details": "A bunch of them can be seen in a swamp area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=13), but they are a new regional form."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "houndour",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two of them can be seen in a badlands area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=11)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "houndoom",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Two of them can be seen in a badlands area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=11)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "deerling",
+        "region": "original",
+        "status": "confirmed",
+        "details": "Several of them in Autumn form can be seen in a forest in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=9)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "sawsbuck",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A couple of them in Autumn form can be seen in a forest in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=9)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "arcanine",
+        "region": "hisui",
+        "status": "guaranteed",
+        "details": "Hisuian forms are confirmed, and Kantonian Growlithe has been seen."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "arcanine",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A couple of them can be seen at the beginning of the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=6)."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "growlithe",
+        "region": "hisui",
+        "status": "guaranteed",
+        "details": "Hisuian forms are confirmed, and Kantonian Growlithe has been seen."
+    },
+    {
+        "date": "2022/8/3",
+        "pokemon": "growlithe",
+        "region": "original",
+        "status": "confirmed",
+        "details": "A herd of them can be seen at the beginning of the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=6)."
+    },
+    {
         "date": "2022/6/2",
         "pokemon": "basculin",
         "region": "hisui",

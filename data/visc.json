@@ -238,17 +238,22 @@
     {
         "id": "raichu",
         "name": "Raichu",
-        "status": "possible",
-        "lastUpdated": "2022/6/1",
-        "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
+        "details": "",
         "forms": [
             {
                 "id": "raichu-alola",
                 "name": "Raichu",
-                "status": "unknown",
-                "lastUpdated": "2022/4/19",
-                "details": "Requires Raichu from Kanto to be Guaranteed or Confirmed, and regional forms to be Confirmed to be at least Possible.",
+                "status": "possible",
+                "lastUpdated": "2022/8/3",
+                "details": "Requires Alolan forms to be Confirmed to be at least Guaranteed.",
                 "history": [
+                    {
+                        "date": "2022/4/19",
+                        "status": "unknown",
+                        "details": "Requires Raichu from Kanto to be Guaranteed or Confirmed, and regional forms to be Confirmed to be at least Possible."
+                    },
                     {
                         "date": "2022/4/16",
                         "status": "unknown",
@@ -263,6 +268,11 @@
             }
         ],
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "possible",
+                "details": "Requires Thunder Stone to be Assumed or Confirmed to be at least Guaranteed."
+            },
             {
                 "date": "2022/4/19",
                 "status": "unknown",
@@ -609,9 +619,9 @@
     {
         "id": "persian",
         "name": "Persian",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=128).",
         "forms": [
             {
                 "id": "persian-alola",
@@ -634,6 +644,11 @@
             }
         ],
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -658,10 +673,15 @@
     {
         "id": "golduck",
         "name": "Golduck",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One appears fighting against a Scizor in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121).",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -688,38 +708,62 @@
     {
         "id": "growlithe",
         "name": "Growlithe",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A herd of them can be seen at the beginning of the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=6).",
         "forms": [
             {
                 "id": "growlithe-hisui",
                 "name": "Growlithe",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "guaranteed",
+                "lastUpdated": "2022/8/3",
+                "details": "Hisuian forms are confirmed, and Kantonian Growlithe has been seen.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "arcanine",
         "name": "Arcanine",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A couple of them can be seen at the beginning of the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=6).",
         "forms": [
             {
                 "id": "arcanine-hisui",
                 "name": "Arcanine",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "guaranteed",
+                "lastUpdated": "2022/8/3",
+                "details": "Hisuian forms are confirmed, and Kantonian Growlithe has been seen.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "poliwag",
@@ -926,38 +970,62 @@
     {
         "id": "slowpoke",
         "name": "Slowpoke",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
         "forms": [
             {
                 "id": "slowpoke-galar",
                 "name": "Slowpoke",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "possible",
+                "lastUpdated": "2022/8/3",
+                "details": "Requires Galarian forms to be Confirmed to be at least Guaranteed.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "slowbro",
         "name": "Slowbro",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
         "forms": [
             {
                 "id": "slowbro-galar",
                 "name": "slowbro",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "possible",
+                "lastUpdated": "2022/8/3",
+                "details": "Requires Galarica Cuff to be Assumed or Confirmed to be at least Guaranteed.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "magnemite",
@@ -1104,10 +1172,15 @@
     {
         "id": "gastly",
         "name": "Gastly",
-        "status": "guaranteed",
-        "lastUpdated": "2022/6/1",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Some appear at night in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=1036)",
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -1118,10 +1191,15 @@
     {
         "id": "haunter",
         "name": "Haunter",
-        "status": "guaranteed",
-        "lastUpdated": "2022/6/1",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One appears at night in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=1036)",
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -1441,10 +1519,16 @@
     {
         "id": "scyther",
         "name": "Scyther",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "jynx",
@@ -1489,18 +1573,30 @@
     {
         "id": "magikarp",
         "name": "Magikarp",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gyarados",
         "name": "Gyarados",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two can be seen in a lake or sea in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=16)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lapras",
@@ -1521,34 +1617,58 @@
     {
         "id": "eevee",
         "name": "Eevee",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen as a Tetrallized Pokémon in [a couple of screenshots from the official Scarlet & Violet website](https://imgur.com/a/03sdYwh)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "vaporeon",
         "name": "Vaporeon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires Water Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "jolteon",
         "name": "Jolteon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "flareon",
         "name": "Flareon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires Fire Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "porygon",
@@ -1663,10 +1783,15 @@
     {
         "id": "dratini",
         "name": "Dratini",
-        "status": "possible",
-        "lastUpdated": "2022/4/6",
-        "details": "A fountain shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m44s) has a statue of Dratini at the top.",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
+        "details": "",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "possible",
+                "details": "A fountain shown in the [announcement trailer](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m44s) has a statue of Dratini at the top."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -1677,18 +1802,30 @@
     {
         "id": "dragonair",
         "name": "Dragonair",
-        "status": "unknown",
+        "status": "confirmed",
         "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "details": "A pair can be seen in the water in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=69).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "dragonite",
         "name": "Dragonite",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A Tetrastallized Dragonite appears as a wild Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=145).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "mewtwo",
@@ -1951,10 +2088,15 @@
     {
         "id": "mareep",
         "name": "Mareep",
-        "status": "guaranteed",
-        "lastUpdated": "2022/6/1",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A herd of them appear in a prairie in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=42)",
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -2001,18 +2143,30 @@
     {
         "id": "marill",
         "name": "Marill",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "azumarill",
         "name": "Azumarill",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=131).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "sudowoodo",
@@ -2091,10 +2245,16 @@
     {
         "id": "sunflora",
         "name": "Sunflora",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "A statue of a Sunflora appears in a village in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=62).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "yanma",
@@ -2107,10 +2267,16 @@
     {
         "id": "wooper",
         "name": "Wooper",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "A bunch of them can be seen in a swamp area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=13), but they are a new regional form.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "quagsire",
@@ -2123,52 +2289,88 @@
     {
         "id": "espeon",
         "name": "Espeon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires evolution by friendship to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "umbreon",
         "name": "Umbreon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires evolution by friendship to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "murkrow",
         "name": "Murkrow",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Five of them can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=18)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "slowking",
         "name": "Slowking",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A Tetrallized Pokémon can be seen in battle in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=135).",
         "forms": [
             {
                 "id": "slowking-galar",
                 "name": "Slowking",
-                "status": "unknown",
-                "lastUpdated": "2022/4/16",
-                "details": "",
-                "history": []
+                "status": "possible",
+                "lastUpdated": "2022/8/3",
+                "details": "Requires Galarica Crown to be Assumed or Confirmed to be at least Guaranteed.",
+                "history": [
+                    {
+                        "date": "2022/4/16",
+                        "status": "unknown",
+                        "details": ""
+                    }
+                ]
             }
         ],
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "misdreavus",
         "name": "Misdreavus",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two (and a third one for a few frames) can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "unown",
@@ -2189,26 +2391,44 @@
     {
         "id": "girafarig",
         "name": "Girafarig",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two of them can be seen briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=37).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "pineco",
         "name": "Pineco",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen hanging from a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=70)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "forretress",
         "name": "Forretress",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "dunsparce",
@@ -2271,10 +2491,16 @@
     {
         "id": "scizor",
         "name": "Scizor",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "shuckle",
@@ -2419,18 +2645,30 @@
     {
         "id": "houndour",
         "name": "Houndour",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two of them can be seen in a badlands area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=11).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "houndoom",
         "name": "Houndoom",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two of them can be seen in a badlands area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=11).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "kingdra",
@@ -2443,18 +2681,30 @@
     {
         "id": "phanpy",
         "name": "Phanpy",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "donphan",
         "name": "Donphan",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Three can be seen briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "porygon2",
@@ -2896,26 +3146,44 @@
     {
         "id": "ralts",
         "name": "Ralts",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "kirlia",
         "name": "Kirlia",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gardevoir",
         "name": "Gardevoir",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "It can be seen as both regular and Tetrallized in [several screenshots of the official Scarlet & Violet website](https://imgur.com/a/dnzp7NU).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "surskit",
@@ -2960,18 +3228,30 @@
     {
         "id": "vigoroth",
         "name": "Vigoroth",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Three of them appear under a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "slaking",
         "name": "Slaking",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is sleeping under a tree in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=67).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "nincada",
@@ -3024,26 +3304,49 @@
     {
         "id": "makuhita",
         "name": "Makuhita",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Appears looking at Koraidon in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=790).",
+        "history": [
+            {
+                "date": "2022/8/3",
+                "status": "guaranteed",
+                "details": ""
+            },
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hariyama",
         "name": "Hariyama",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One appears fighting against a Hydreigon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "azurill",
         "name": "Azurill",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires breeding with incenses to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "nosepass",
@@ -3304,26 +3607,43 @@
     {
         "id": "cacnea",
         "name": "Cacnea",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Some can be seen in a desert at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=68).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "cacturne",
         "name": "Cacturne",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen in a desert at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=68).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "swablu",
         "name": "Swablu",
-        "status": "possible",
-        "lastUpdated": "2022/4/19",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s) are no longer Confirmed.",
         "history": [
+            {
+                "date": "2022/4/19",
+                "status": "possible",
+                "details": "Due to a rule change, [overworld Pokémon appearing in neutral areas](https://www.youtube.com/watch?v=G0Uc5YONuso&t=12m30s) are no longer Confirmed."
+            },
             {
                 "date": "2022/4/6",
                 "status": "confirmed",
@@ -3339,10 +3659,15 @@
     {
         "id": "altaria",
         "name": "Altaria",
-        "status": "unknown",
-        "lastUpdated": "2022/4/19",
-        "details": "The only Confirmed member of its evolutionary line, [Swablu](/poke-passport/visc/swablu), is no longer Confirmed.",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112).",
         "history": [
+            {
+                "date": "2022/4/19",
+                "status": "unknown",
+                "details": "The only Confirmed member of its evolutionary line, [Swablu](/poke-passport/visc/swablu), is no longer Confirmed."
+            },
             {
                 "date": "2022/4/6",
                 "status": "guaranteed",
@@ -3572,18 +3897,30 @@
     {
         "id": "snorunt",
         "name": "Snorunt",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Four of them can be seen running towards the camera in a snowy area in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=15).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "glalie",
         "name": "Glalie",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "spheal",
@@ -3944,26 +4281,44 @@
     {
         "id": "shinx",
         "name": "Shinx",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "luxio",
         "name": "Luxio",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Appears in the badlands in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=788)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "luxray",
         "name": "Luxray",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Appears in the badlands in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=788)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "budew",
@@ -4068,10 +4423,16 @@
     {
         "id": "pachirisu",
         "name": "Pachirisu",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen in a city, when the \"AND THE PEOPLE\" sign shows up in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=73).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "buizel",
@@ -4146,10 +4507,15 @@
     {
         "id": "drifblim",
         "name": "Drifblim",
-        "status": "guaranteed",
-        "lastUpdated": "2022/4/6",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=132).",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -4176,18 +4542,30 @@
     {
         "id": "mismagius",
         "name": "Mismagius",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "honchkrow",
         "name": "Honchkrow",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One of them can be seen at night in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=18)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "glameow",
@@ -4359,18 +4737,30 @@
     {
         "id": "hippopotas",
         "name": "Hippopotas",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hippowdon",
         "name": "Hippowdon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A female Hippowdon can be seen behind a dust cloud in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=839). It's hard to see a first, but it clears up for a short time.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "skorupi",
@@ -4415,18 +4805,30 @@
     {
         "id": "finneon",
         "name": "Finneon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lumineon",
         "name": "Lumineon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen in battle in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=135).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "mantyke",
@@ -4533,18 +4935,30 @@
     {
         "id": "leafeon",
         "name": "Leafeon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires either Moss Rock or Leaf Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "glaceon",
         "name": "Glaceon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires either Ice Rock or Ice Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gliscor",
@@ -4573,10 +4987,16 @@
     {
         "id": "gallade",
         "name": "Gallade",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires Dawn Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "probopass",
@@ -4597,18 +5017,30 @@
     {
         "id": "froslass",
         "name": "Froslass",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires Dawn Stone to be assumed or confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "rotom",
         "name": "Rotom",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Three can be seen in a city, over a sign or a lamp post in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=902).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "uxie",
@@ -5181,17 +5613,22 @@
     {
         "id": "lilligant",
         "name": "Lilligant",
-        "status": "possible",
-        "lastUpdated": "2022/4/6",
-        "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed.",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One becomes a Tetrallized Pokémon in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=133).",
         "forms": [
             {
                 "id": "lilligant-hisui",
                 "name": "Lilligant",
-                "status": "possible",
-                "lastUpdated": "2022/5/8",
-                "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed.",
+                "status": "guaranteed",
+                "lastUpdated": "2022/8/3",
+                "details": "",
                 "history": [
+                    {
+                        "date": "2022/5/8",
+                        "status": "possible",
+                        "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed."
+                    },
                     {
                         "date": "2022/4/16",
                         "status": "unknown",
@@ -5201,6 +5638,11 @@
             }
         ],
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "possible",
+                "details": "Requires Sun Stone to be Assumed or Confirmed to be at least Guaranteed."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -5580,18 +6022,30 @@
     {
         "id": "deerling",
         "name": "Deerling",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Several of them in Autumn form can be seen in a forest in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=9).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "sawsbuck",
         "name": "Sawsbuck",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A couple of them in Autumn form can be seen in a forest in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=9).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "emolga",
@@ -5716,26 +6170,44 @@
     {
         "id": "tynamo",
         "name": "Tynamo",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "eelektrik",
         "name": "Eelektrik",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "eelektross",
         "name": "Eelektross",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "elgyem",
@@ -5804,18 +6276,30 @@
     {
         "id": "cubchoo",
         "name": "Cubchoo",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Three can be seen under a snowstorm in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "beartic",
         "name": "Beartic",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen under a snowstorm in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=71)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "cryogonal",
@@ -5990,26 +6474,44 @@
     {
         "id": "deino",
         "name": "Deino",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "zweilous",
         "name": "Zweilous",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hydreigon",
         "name": "Hydreigon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One appears fighting against a Hariyama in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=121).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "larvesta",
@@ -6338,18 +6840,30 @@
     {
         "id": "skiddo",
         "name": "Skiddo",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A bunch appear in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=52).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "gogoat",
         "name": "Gogoat",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A bunch appear in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=52).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "pancham",
@@ -6574,10 +7088,16 @@
     {
         "id": "sylveon",
         "name": "Sylveon",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hawlucha",
@@ -6716,18 +7236,30 @@
     {
         "id": "noibat",
         "name": "Noibat",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen evolving into a Noivern in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=116)",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "noivern",
         "name": "Noivern",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A Noibat can be seen evolving into a Noivern in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=116).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "xerneas",
@@ -6966,10 +7498,16 @@
     {
         "id": "rockruff",
         "name": "Rockruff",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "One appears close to a kid in a city in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=799).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "lycanroc",
@@ -7018,18 +7556,30 @@
     {
         "id": "mudbray",
         "name": "Mudbray",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "A player approaches a wild one to battle it in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=935).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "mudsdale",
         "name": "Mudsdale",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "dewpider",
@@ -7154,10 +7704,15 @@
     {
         "id": "tsareena",
         "name": "Tsareena",
-        "status": "possible",
-        "lastUpdated": "2022/4/6",
-        "details": "Requires leveling up while knowing a move to be Assumed or Confirmed to be at least Guaranteed.",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "It is owned by a player in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=969)",
         "history": [
+            {
+                "date": "2022/4/6",
+                "status": "possible",
+                "details": "Requires leveling up while knowing a move to be Assumed or Confirmed to be at least Guaranteed."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -7745,10 +8300,15 @@
     {
         "id": "drednaw",
         "name": "Drednaw",
-        "status": "guaranteed",
-        "lastUpdated": "2022/6/1",
-        "details": "",
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two appear in the swamp in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=55).",
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "guaranteed",
+                "details": ""
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -7935,26 +8495,43 @@
     {
         "id": "sinistea",
         "name": "Sinistea",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Several appear in what appears to be a restaurant in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=802).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "polteageist",
         "name": "Polteageist",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen in what appears to be a restaurant in the [August 3rd Pokémon Presents](https://youtu.be/ojiBuA97rdc?t=802).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hatenna",
         "name": "Hatenna",
-        "status": "possible",
-        "lastUpdated": "2022/6/1",
-        "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s).",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
+        "details": "",
         "history": [
+            {
+                "date": "2022/6/1",
+                "status": "possible",
+                "details": "A sticker can be seen to the side of the closet in the player's room in the [second trailer](https://youtube.com/watch?v=TkolOdAX5_I&t=3s)."
+            },
             {
                 "date": "2022/4/5",
                 "status": "unknown",
@@ -7965,18 +8542,30 @@
     {
         "id": "hattrem",
         "name": "Hattrem",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "hatterene",
         "name": "Hatterene",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One is in a player's team in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=112).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "impidimp",
@@ -8083,10 +8672,16 @@
     {
         "id": "pincurchin",
         "name": "Pincurchin",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen inside a sandwich shop in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=75).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "snom",
@@ -8121,10 +8716,16 @@
     {
         "id": "eiscue",
         "name": "Eiscue",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "One can be seen being traded with a Stonjourner of another trainer in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=120).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "indeedee",
@@ -8145,18 +8746,30 @@
     {
         "id": "cufant",
         "name": "Cufant",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "confirmed",
+        "lastUpdated": "2022/8/3",
+        "details": "Two appear walking at night briefly in the [Paldea region trailer](https://youtu.be/VoSVc1TWXjg?t=55).",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "copperajah",
         "name": "Copperajah",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
+        "status": "guaranteed",
+        "lastUpdated": "2022/8/3",
         "details": "",
-        "history": []
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "dracozolt",
@@ -8321,10 +8934,16 @@
     {
         "id": "kleavor",
         "name": "Kleavor",
-        "status": "unknown",
-        "lastUpdated": "2022/4/5",
-        "details": "",
-        "history": []
+        "status": "possible",
+        "lastUpdated": "2022/8/3",
+        "details": "Requires Requires Black Augurite to be Assumed or Confirmed to be at least Guaranteed.",
+        "history": [
+            {
+                "date": "2022/4/5",
+                "status": "unknown",
+                "details": ""
+            }
+        ]
     },
     {
         "id": "ursaluna",
